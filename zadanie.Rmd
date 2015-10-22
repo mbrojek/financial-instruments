@@ -5,34 +5,34 @@ output: pdf_document
 
 # Zadanie
 
-Celem projektu jest wspólne przygotowanie skryptu zawieraj¹cego dok³adne opisy
-podstawowych instrumentów finansowych z jakimi spotkaæ mo¿na siê na rynkach
+Celem projektu jest wspÃ³lne przygotowanie skryptu zawierajÄ…cego dokÅ‚adne opisy
+podstawowych instrumentÃ³w finansowych z jakimi spotkaÄ‡ moÅ¼na siÄ™ na rynkach
 finansowych. Przewidziany czas realizacji projektu to 4 tygodnie, w trakcie
-których zrealizowane zostaæ powinny dwa zadania.
+ktÃ³rych zrealizowane zostaÄ‡ powinny dwa zadania.
 
-1. W ci¹gu pierwszych dwóch tygodni trwania projektu student samodzielnie
+1. W ciÄ…gu pierwszych dwÃ³ch tygodni trwania projektu student samodzielnie
    przygotowuje opis przydzielonego mu do realizacji fragmentu skryptu.
-2. W ci¹gu kolejnych dwóch tygodni studenci przygotowuj¹cy ten sam fragment
-   skryptu redaguj¹ w oparciu o samodzielnie wykonan¹ pracê uwspólnion¹ jego
-   wersjê.
+2. W ciÄ…gu kolejnych dwÃ³ch tygodni studenci przygotowujÄ…cy ten sam fragment
+   skryptu redagujÄ… w oparciu o samodzielnie wykonanÄ… pracÄ™ uwspÃ³lnionÄ… jego
+   wersjÄ™.
 
-Za poprawne zrealizowanie projektu uzyskaæ mo¿na ³¹cznie 20 punktów. Przy czym
-rzetelna realizacja pierwszej czêœci projektu warta jest do 12 punktów,
-natomiast drugiej jego czêœci 8 punktów.
+Za poprawne zrealizowanie projektu uzyskaÄ‡ moÅ¼na Å‚Ä…cznie 20 punktÃ³w. Przy czym
+rzetelna realizacja pierwszej czÄ™Å›ci projektu warta jest do 12 punktÃ³w,
+natomiast drugiej jego czÄ™Å›ci 8 punktÃ³w.
 
-Pierwsza czêœæ projektu oceniana bêdzie przede wszystkim pod k¹tem solidnego
-wykonania zadania, rozumianego g³ównie w kontekœcie merytorycznym, ale równie¿
-estetycznym (poprawny jêzyk, przejrzysty uk³ad treœci). Ceniona bêdzie tutaj
-oryginalnoœæ materia³u zaprezentowanego przez studenta, wzglêdem materia³u
-prezentowanego przez pozosta³ych studentów omawiaj¹cych ten sam temat.
+Pierwsza czÄ™Å›Ä‡ projektu oceniana bÄ™dzie przede wszystkim pod kÄ…tem solidnego
+wykonania zadania, rozumianego gÅ‚Ã³wnie w kontekÅ›cie merytorycznym, ale rÃ³wnieÅ¼
+estetycznym (poprawny jÄ™zyk, przejrzysty ukÅ‚ad treÅ›ci). Ceniona bÄ™dzie tutaj
+oryginalnoÅ›Ä‡ materiaÅ‚u zaprezentowanego przez studenta, wzglÄ™dem materiaÅ‚u
+prezentowanego przez pozostaÅ‚ych studentÃ³w omawiajÄ…cych ten sam temat.
 
-Ocena drugiej czêœci projektu uwzglêdniaæ bêdzie te same elementy, które
-wymieniono przy opisie sposobu oceniania czêœci pierwszej. W razie w¹tpliwoœci
-co do zaanga¿owania w pracê grupy wszystkich jej cz³onków, mo¿liwe bêdzie
-zró¿nicowanie ocen na podstawie porównania prac przygotowanych indywidualnie z
-prac¹ przygotowan¹ wspólnie.
+Ocena drugiej czÄ™Å›ci projektu uwzglÄ™dniaÄ‡ bÄ™dzie te same elementy, ktÃ³re
+wymieniono przy opisie sposobu oceniania czÄ™Å›ci pierwszej. W razie wÄ…tpliwoÅ›ci
+co do zaangaÅ¼owania w pracÄ™ grupy wszystkich jej czÅ‚onkÃ³w, moÅ¼liwe bÄ™dzie
+zrÃ³Å¼nicowanie ocen na podstawie porÃ³wnania prac przygotowanych indywidualnie z
+pracÄ… przygotowanÄ… wspÃ³lnie.
 
-# Podzia³ tematów
+# PodziaÅ‚ tematÃ³w
 
 ```{R}
 set.seed(4846891)
@@ -44,107 +44,107 @@ c(
 ) -> indices
 
 c(
-    'Wprowadzenie', 'Instrumenty rynku pieniê¿nego', 'Obligacje', 'Akcje', 'Opcje',
+    'Wprowadzenie', 'Instrumenty rynku pieniÄ™Å¼nego', 'Obligacje', 'Akcje', 'Opcje',
     'Kontrakty terminowe forward i futures', 'Kontrakty swap', 'Indeksy rynku'
 ) -> subjects
 
 data.frame('NR IND.'=indices, 'TEMAT'=sample(rep(subjects, 3)))
 ```
 
-# Opis tematów
+# Opis tematÃ³w
 
-Poni¿ej zamieszczono wymagania szczegó³owe dotycz¹ce ka¿dego z tematów
-przydzielonych do realizacji. Poza wspomnianymi wymaganiami szczegó³owymi, ka¿dy
-temat musi spe³niaæ pewne wymagania ogólne wymienione poni¿ej.
+PoniÅ¼ej zamieszczono wymagania szczegÃ³Å‚owe dotyczÄ…ce kaÅ¼dego z tematÃ³w
+przydzielonych do realizacji. Poza wspomnianymi wymaganiami szczegÃ³Å‚owymi, kaÅ¼dy
+temat musi speÅ‚niaÄ‡ pewne wymagania ogÃ³lne wymienione poniÅ¼ej.
 
-- Fragment skryptu realizuj¹cy dany temat nale¿y przygotowaæ w postaci pliku
+- Fragment skryptu realizujÄ…cy dany temat naleÅ¼y przygotowaÄ‡ w postaci pliku
   RMarkdown.
-- Wzory w ramach pliku RMarkdown nale¿y konstruowaæ z wykorzystaniem LaTeXa.
-- Plik przygotowywany w ramach pierwszej czêœci projektu nale¿y nazwaæ numerem
-  swojego indeksu, a ewentualne materia³y towarzysz¹ce przekazaæ w katalogu o
+- Wzory w ramach pliku RMarkdown naleÅ¼y konstruowaÄ‡ z wykorzystaniem LaTeXa.
+- Plik przygotowywany w ramach pierwszej czÄ™Å›ci projektu naleÅ¼y nazwaÄ‡ numerem
+  swojego indeksu, a ewentualne materiaÅ‚y towarzyszÄ…ce przekazaÄ‡ w katalogu o
   takiej samej nazwie.
-- Jako nazwê pliku przygotowywanego w ramach drugiej czêœci projektu nale¿y
-  przyj¹æ nazwê tematu projektu, a ewentualne materia³y towarzysz¹ce przekazaæ w
+- Jako nazwÄ™ pliku przygotowywanego w ramach drugiej czÄ™Å›ci projektu naleÅ¼y
+  przyjÄ…Ä‡ nazwÄ™ tematu projektu, a ewentualne materiaÅ‚y towarzyszÄ…ce przekazaÄ‡ w
   katalogu o takiej samej nazwie.
-- Ka¿da praca powinna koñczyæ siê sekcj¹ bibliografii, zawieraj¹c¹ pozycje
-  literaturowe, strony internetowe, prezentacje oraz wszelkie inne Ÿród³a
+- KaÅ¼da praca powinna koÅ„czyÄ‡ siÄ™ sekcjÄ… bibliografii, zawierajÄ…cÄ… pozycje
+  literaturowe, strony internetowe, prezentacje oraz wszelkie inne ÅºrÃ³dÅ‚a
   wykorzystywane w trakcie realizacji zadania.
 
 ## Wprowadzenie
 
-Nale¿y:
+NaleÅ¼y:
 
-- zdefiniowaæ pojêcie instrumentu finansowego,
-- przedstawiæ typowe podzia³y instrumentów finansowych.
+- zdefiniowaÄ‡ pojÄ™cie instrumentu finansowego,
+- przedstawiÄ‡ typowe podziaÅ‚y instrumentÃ³w finansowych.
 
-## Instrumenty rynku pieniê¿nego
+## Instrumenty rynku pieniÄ™Å¼nego
 
-Nale¿y:
+NaleÅ¼y:
 
-- opisaæ bony skarbowe,
-- opisaæ bony komercyjne,
-- opisaæ certyfikaty depozytowe,
-- opisaæ transakcje repo i reverse repo,
-- przedstawiæ przyk³ady obliczeniowe dla tych instrumentów.
+- opisaÄ‡ bony skarbowe,
+- opisaÄ‡ bony komercyjne,
+- opisaÄ‡ certyfikaty depozytowe,
+- opisaÄ‡ transakcje repo i reverse repo,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla tych instrumentÃ³w.
 
 ## Obligacje
 
-Nale¿y:
+NaleÅ¼y:
 
-- opisaæ obligacje,
-- przedstawiæ ró¿ne typy obligacji,
-- przedstawiæ przyk³ady obliczeniowe dla ró¿nych typów obligacji.
+- opisaÄ‡ obligacje,
+- przedstawiÄ‡ rÃ³Å¼ne typy obligacji,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla rÃ³Å¼nych typÃ³w obligacji.
 
 ## Akcje
 
-Nale¿y:
+NaleÅ¼y:
 
-- opisaæ akcje,
-- przedstawiæ przyk³ady obliczeniowe dla akcji,
-- opisaæ wybrane wskaŸniki zwi¹zane z akcjami,
-- przedstawiæ przyk³ady obliczeniowe dla wskaŸników.
+- opisaÄ‡ akcje,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla akcji,
+- opisaÄ‡ wybrane wskaÅºniki zwiÄ…zane z akcjami,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla wskaÅºnikÃ³w.
 
 ## Opcje
 
-Nale¿y:
+NaleÅ¼y:
 
-- opisaæ ró¿ne typy opcji,
-- przedstawiæ przyk³ady obliczeniowe dla ró¿nych typów opcji.
+- opisaÄ‡ rÃ³Å¼ne typy opcji,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla rÃ³Å¼nych typÃ³w opcji.
 
 ## Kontrakty terminowe forward i futures
 
-Nale¿y:
+NaleÅ¼y:
 
-- opisaæ kontrakty terminowe forward i features,
-- przedstawiæ przyk³ady obliczeniowe dla kontraktów terminowych.
+- opisaÄ‡ kontrakty terminowe forward i futures,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla kontraktÃ³w terminowych.
 
 ## Kontrakty swap
 
-Nale¿y:
+NaleÅ¼y:
 
-- opisaæ kontrakty swap,
-- przedstawiæ przyk³ady obliczeniowe dla ró¿nych kontraktów swap.
+- opisaÄ‡ kontrakty swap,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla rÃ³Å¼nych kontraktÃ³w swap.
 
 ## Indeksy rynku
 
-Nale¿y:
+NaleÅ¼y:
 
-- zdefiniowaæ pojêcie indeksu rynku,
-- przedstawiæ ró¿ne sposoby obliczania indeksów rynku,
-- przedstawiæ przyk³ady obliczeniowe dla ró¿nych indeksów rynku.
+- zdefiniowaÄ‡ pojÄ™cie indeksu rynku,
+- przedstawiÄ‡ rÃ³Å¼ne sposoby obliczania indeksÃ³w rynku,
+- przedstawiÄ‡ przykÅ‚ady obliczeniowe dla rÃ³Å¼nych indeksÃ³w rynku.
 
 # Terminy
 
-- 26.10.2015 - oddanie pierwszej czêœci projektu.
-- 09.11.2015 - oddanie drugiej czêœci projektu.
+- 26.10.2015 - oddanie pierwszej czÄ™Å›ci projektu.
+- 09.11.2015 - oddanie drugiej czÄ™Å›ci projektu.
 
-Za oddanie projektu uwa¿a siê zrobienie pull requesta zawieraj¹cego wykonan¹
-pracê do repozytorium wyk³adowcy.
+Za oddanie projektu uwaÅ¼a siÄ™ zrobienie pull requesta zawierajÄ…cego wykonanÄ…
+pracÄ™ do repozytorium wykÅ‚adowcy.
 
-# Uwagi koñcowe
+# Uwagi koÅ„cowe
 
-Egzamin z przedmiotu Ekonometria Finansowa mo¿e zawieraæ pytania oraz zadania,
-które zgodnie z wytycznymi projektu **powinny zostaæ uwzglêdnione** w skrypcie
-powsta³ym w efekcie jego realizacji. Stwierdzenie to dotyczy zarówno czêœci
-teoretycznej (definicje, podzia³y itp.) oraz praktycznej (przyk³adowe
+Egzamin z przedmiotu Ekonometria Finansowa moÅ¼e zawieraÄ‡ pytania oraz zadania,
+ktÃ³re zgodnie z wytycznymi projektu **powinny zostaÄ‡ uwzglÄ™dnione** w skrypcie
+powstaÅ‚ym w efekcie jego realizacji. Stwierdzenie to dotyczy zarÃ³wno czÄ™Å›ci
+teoretycznej (definicje, podziaÅ‚y itp.) oraz praktycznej (przykÅ‚adowe
 obliczenia) egzaminu.

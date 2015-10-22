@@ -1,7 +1,0 @@
-#KONTRAKTY SWAP
-
-**Kontrakty Swap** jest umową zawieraną między dwoma lub więcej stronami, dotyczącą wymiany przyszłych 
-płatności według wcześniej określonych zasad. Płatności te, związane są zwykle z instrumentami dłużnymi lub walutami obcymi.
-[1][#definicje1]
-
-[#definicje1]: John Hull: „Kontrakty terminowe i opcje, wprowadzenie”, WIG PRESS

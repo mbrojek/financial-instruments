@@ -101,7 +101,8 @@ Transakcje na kontraktach terminowych charakteryzują się wysoką dźwignią fi
 ##Wycena kontraktu 
 
 
-F = S * (1 +  \frac{r}{t} )
+$F = S \cdot (1 +  \frac{r}{t} )$
+
 
 F – cena terminowa
 

@@ -1,0 +1,213 @@
+---
+title: 'Obligacje'
+author: "G.Świątek"
+date: "21 października 2015"
+output: html_document
+---
+
+#Wprowadzenie
+
+**Instrument finansowy** kontrakt, w wyniku którego u jednej z jego stron powstają aktywa finansowe, a u drugiej zobowiązania finansowe lub instrumenty kapitałowe$.^1$ 
+
+*Dzieli się je według pierwotnego terminu zapadalności (kryterium czasu): *
+
+- krótkoterminowe – okres do zapadalności: do 1 roku, 
+- średnioterminowe – okres do zapadalności: od 1 roku do 3 lat, 
+- długoterminowe – okres do zapadalności: powyżej 3 lat
+
+
+Pojęcie instrumentów finansowych w polskim prawie rynku finansowego jest odzwierciedleniem implementacji Dyrektywy MiFID i obejmuje: 
+
+- papiery wartościowe, 
+- niebędące papierami wartościowymi:
+    - tytuły uczestnictwa w instytucjach zbiorowego inwestowania, 
+    - instrumenty rynku pieniężnego, 
+    - opcje, kontrakty terminowe, swapy, umowy forward na stopę procentową, inne instrumenty pochodne, których instrumentem bazowym jest papier wartościowy, waluta, stopa procentowa, wskaźnik rentowności lub inny instrument pochodny, indeks finansowy lub wskaźnik finansowy, które są wykonywane przez dostawę lub rozliczenie pieniężne, 
+    - opcje, kontrakty terminowe, swapy, umowy forward na stopę procentową oraz inne instrumenty pochodne, których instrumentem bazowym jest towar i które są wykonywane przez rozliczenie pieniężne lub mogą być wykonane przez rozliczenie pieniężne według wyboru jednej ze stron, 
+    - opcje, kontrakty terminowe, swapy oraz inne instrumenty pochodne, których instrumentem bazowym jest towar i które są wykonywane przez dostawę, pod warunkiem, że są dopuszczone do obrotu na rynku regulowanym lub w alternatywnym systemie obrotu, 
+    - niedopuszczone do obrotu na rynku regulowanym ani w alternatywnym systemie obrotu opcje, kontrakty terminowe, swapy, umowy forward oraz inne instrumenty pochodne, których instrumentem bazowym jest towar, które mogą być wykonane przez dostawę, które nie są przeznaczone do celów handlowych i wykazują właściwości innych pochodnych instrumentów finansowych, 
+    - instrumenty pochodne dotyczące przenoszenia ryzyka kredytowego, 
+    - kontrakty na różnicę, 
+    - opcje, kontrakty terminowe, swapy, umowy forward dotyczące stóp procentowych oraz inne instrumenty pochodne odnoszące się do zmian klimatycznych, stawek frachtowych, uprawnień do emisji oraz stawek inflacji lub innych oficjalnych danych statystycznych, które są wykonywane przez rozliczenie pieniężne albo mogą być wykonane przez rozliczenie pieniężne według wyboru jednej ze stron, a także wszelkiego rodzaju inne instrumenty pochodne odnoszące się do aktywów, praw, zobowiązań, indeksów oraz innych wskaźników, które wykazują właściwości innych pochodnych instrumentów finansowych$.^1$
+
+#Obligacje
+
+**Obligacja** jest papierem wartościowym, w którym emitent stwierdza, że jest dłużnikiem właściciela obligacji (obligatariusza) i zobowiązuje się wobec niego do spełnienia określonego świadczenia. Świadczenie emitenta może mieć charakter pieniężny lub niepieniężny$.^2$
+
+W przypadku zobowiązania pieniężnego obligariusz ma prawdo do zwortu, w ustalonym terminie pożyczonej kwoty(wartość nominalna obligacji) wraz z odsetkami.
+W przypadku świadczenia niepięniżnego obligariusz nabywa wraz obligacjami pewne prawa np. prawo do wymiany obligacji na akcje spółki, udziały w zysku bądź pierwszeńsywo w  nabyciu przyszłych emisji papierów wartościowych spółki.
+
+Obligacja jest instrumentem finansowym, który standardowo jest emitowany co najmniej na okres 12 miesięcy. *Jednak według Ustawy o obligacjach z 29 czerwca 1995 roku(z późniejszymi zmianami$)^3$*, w Polsce dopuszczalne są emisje obligacji, z okresem zapadalności mniejszym niż rok.
+
+####*Podstawowe charekterystyki obligacji*
+
+**Wartośc nominalna**- wartość obligacji od której naliczane są odsetki. Istnieją obligacje ktróre podlegają kapitalicaji odsetek np. dwuletnie i dziesięcioletnie obigacje skarbu państwa.<br>
+**Okres osetkowy**- okres, w którym naliczane są odsetki. Po zakończeniu okresu odestkowego następuje wypłata odsetek bądź ich kapitalizacja.<br>
+**Termin wykupu**- termin w ktorym obligacja podlega wykupowi przez emitenta.<br>
+**Terminy płacenia odsetek**- określe częstotliwośc naliczania odsetek.<br>
+**Przedterminowy wykup**- wykup obligacji przez emitenta przed nadejściem terminu wykupu. Przedterminowy wykup może nastąpić na żadanie obligatariusza.<br>
+**Cena emisyjna**- cena, która jest oferowana w trakcie emisji obligacji.<br>
+**Kurs obligacji** - przedstawiany jako procent wartości nominalnej, nie obejmuje odsetek.<br>
+**Cena rozliczeniowa obligacji**- cena jaką płaci się za obligację, cena ta obejmuje również odsetki narosłe od ostatniej płatmności, określa ją się w następujący sposób:
+
+  $C=K*N*O$
+  
+  gdzie: **C**-cena rozliczeniowa obligacji **K**-kurs Obligacji **N**-wartość nominalna obligacji **O**-Narosłe odsetki
+
+Przykład$1^4$
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:20px 0;">
+Dana jest obligacja, której oprecentowanie wynosi 8%, wypłata odsetek jest dokonywana raz w roku –
+15 maja.
+Wartość nominalna obligacji wynosi 10 000 złotych. Obligacją tą obraca się na
+giełdzie. 25 lipca kurs obligacji na giełdzie wynosi 99,5. Jest to 99,5% wartości
+nominalnej obligacji, czyli 9950 złotych. Odsetki narastają proporcjonalnie do
+liczby dni od ostatniej płatności.
+Od 15 maja do 25 lipca upłynęło 71 dni, a zatem narosłe odsetki wynoszą:
+$\frac{71}{365}*0,08*10 000=155,62$
+Wynika z tego, że cena rozliczeniowa tej obligacji wynosi: $0,995*10 000 +155,62=10 105,62 zł$</a>
+</div>
+
+
+####*Emisja*
+Emisja obligacji może zostać przeprowadona na rynku pierwotnym bądź wtórnym.
+Przez rynek pierwotny jest rozumiane nabycie obligacji bezpośrednio od emitenta, natomiast rynek wtórny to giełda lub obrót pozagiełdowym.
+Emisja obligacji może zostać przeprowadzona w drodze oferty publicznej bądź prywatnej. W przypadku oferty publicznej są przeprowadzane działania marketingowe (internet, prasa itp.), ktorych adresatem jest liczne grono inwestorów. W ramach ofert publicznej emitent musi sporządzić prospekt emisyjny lub memonandum informayjne. Przeprowadzenie oferty publicznej wymaga współpracy z domem maklerskim, który pełni rolę *Oferującego*.  Natomiast w przypadku oferty prywantej, oferta może być skierowana conajwyżej do 149 inwestorów i nie jest wymagane sporządzenie prospektu emisyjnego.
+
+####*Podstawowe rodzaje obligacji*
+
+Obligacje, są instrumentem finansowym zatem istnieje wiele sposobów ich kwalifikacji.Jednym z podstawowych kryteriów podziału obligacji jest kryterium: emitenta obligacji. Wyróżnia się trzy rodzaje obligacji:<br>
+
+<li>**Obligacje skarbowe** - emitowane i gwarantowane są przez Skarb Państwa.<br>
+<li>**Obligacje gminne(komunalne)** -emitowane przez związki samorządowe: miasna,gminy,powiaty, wspólnoty mieszkaniowe itp.<br>
+<li>**Obligacje przedsiębiorstw(korporacyjne)** - Emitowane przez firmy.<br>
+
+Innym ważnym kryterium jest **podział ze względu na rodzaj oprocentowania.**
+
+<li>**Obligacje o stałym oprocentowaniu** - oprocentowanie jest cały czas takie samo.
+<li>**Obligacje o zmiennym oprocentowaniu** - oprocentowanie zależy od wybranego wskaźnika(inflacji,stopy rentowności bonów skarbowych),  w okresie poprzedzającym wypłatę odsetek. Oprocentowanie zmienia się w okresach odpowiadających płatnościom odsetek. Emitowane są w warunkach wzrostu stopy inflacji lub nieregularnych jej wahań$.^5$
+<li>**Obligacje zerokuponowe** - obligacje od których nie są naliczane odsetki. Są emitowane po niższej cenie niż nominalna.
+<li>**Obligacje indeksowane** - oprocentowanie zależy od pewnej stopy odniesienia(inflacji,stopy rentowności bonów skarbowych, cefny złota),  w okresie poprzedzającym wypłatę odsetek. Oprocentowanie zmienia się w okresach odpowiadających płatnościom odsetek. ich celem jest zagwarantowanie realnej siły nabywczej wypłaconych odsetek oraz kwoty wydatkowej na zakup obligacji.
+
+**Kryterium wykupu**
+
+<li>krótkoterminowe - okres ich wykupu jest krótszy niż 5 lat.<br>
+<li>średnioterminowe -	obligacje o okresie wykupu od 5 do 10 lat.<br>
+<li>długoterminowe -	wykup obligacji następuje w okresie powyżej 10 lat.<br>
+ 
+####*Przykłady obligacji*
+ 
+ Obligacja o stałym oprocentowaniu<br>
+ <div style="background-color:rgba(0, 0, 0, 0.125588); text-align:left;padding:10px 0" >
+ <div style=margin-left:25px 0'>
+ *Przykład 2*<br>
+ Obligacja ma termin wykupu 3 lata, wartość nominalną 1000 PLN oraz oprocentowanie
+ 6%. Odsetki płacone są raz na pół roku. Oznacza to, że obligatariusz
+ otrzyma następujące płatności od emitenta:<br>
+ <li>za pół roku: 30 PLN (3% w skali pół roku od wartości nominalnej);
+ <li>za rok: 30 PLN;
+ <li>za półtora roku: 30 PLN;
+ <li>za dwa lata: 30 PLN;
+ <li>za dwa i pół roku: 30 PLN;
+ <>za trzy lata: 1030 PLN (odsetki półroczne: 30 PLN plus wartość nominalna: 1000 PLN)$.^4$
+</div>
+</div>
+<br>
+ Obligacja o zmiennym oprocentowaniu<br>
+ <div style="background-color:rgba(0, 0, 0, 0.125588); text-align:left;padding:10px 0" >
+ <div style=margin-left:25px 0'>
+ *Przykład 3*<br>
+ Obligacja ma termin wykupu 2 lata, wartość nominalną 1000 PLN oraz oprocentowanie
+zmienne, określone jako L+0,5%, gdzie L jest to stopa referencyjna.
+Obecnie stopa ta wynosi 5%. Odsetki płacone są raz na pół roku. Oznacza to,
+że obligatariusz otrzyma za pół roku 27,50 PLN (5% + 0,5% = 5,5% w skali
+rocznej, czyli 2,75% w skali półrocznej).
+Nie są natomiast znane płatności za następne półroczne okresy odsetkowe.
+Jeśli za pół roku stopa referencyjna wynosić będzie 6,5%, wówczas znana bę-
+dzie płatność, którą obligatariusz otrzyma za rok – wynosi ona 35 PLN (6,5% + 0,5% = 7% w skali rocznej, czyli 3,5% w skali półrocznej)$.^4$
+</div>
+</div>
+<br>
+
+ Obligacja Indeksowana<br>
+ <div style="background-color:rgba(0, 0, 0, 0.125588); text-align:left;padding:10px 0" >
+ <div style=margin-left:25px 0'>
+ *Przykład 4*<br>
+ Obligacja ma termin wykupu 1 rok, wartość nominalną 1000 PLN oraz oprocentowanie
+indeksowane określone jako I+1%, gdzie I to stopa infl acji, która
+będzie w nadchodzącym roku. Odsetki płacone są raz w roku, czyli w momencie
+wykupu. Oznacza to, że obligatariusz po roku otrzyma: 1000 PLN plus sumę
+zależną od stopy infl acji. Suma ta nie jest znana w momencie emisji.
+Jeśli w momencie wykupu stopa infl acji wynosi 3%, wówczas obligatariusz
+otrzyma 1040 PLN (1000 PLN + 40 PLN).$.^4$
+</div>
+</div>
+ <br>
+  Obligacja Zerokuponowa<br>
+ <div style="background-color:rgba(0, 0, 0, 0.125588); text-align:left;padding:10px 0" >
+ <div style=margin-left:25px 0'>
+*Przykład 5*<br>
+Obligacja ma termin wykupu 2 lata, wartość nominalną 1000 PLN, jest to obligacja
+zerokuponowa. Oznacza to, że obligatariusz po dwóch latach, w terminie
+wykupu, otrzyma 1000 PLN. Obecna cena tej obligacji wynosi 980 PLN, czyli
+dyskonto wynosi 20 PLN$.^4$
+</div>
+</div>
+
+####*Ryzyko*
+ 
+ Obligacje są bezpieczniejszym instrumentem finansowym niż akcje aczkolwiek inwestycja w nie też wiąże się z pewnym ryzykiem. głównym rodzajem ryzyka dla nabywców obligacji jest ryzyko kredytowe.Jego źródłem jest fakt, iż emitent może nie wykupić obligcji bądź nie zapłacić odsetek.<br>
+ Ponadto inwestor może mieć doczynienia z ryzykiem stopy procentowej. Wynika one ze zmiany stóp procentowych w kraju, która może obniżyć wartośc obligacji. Im bardziej obligacja jest powiązana z poziomem stóp procentowych tym ryzyko stopy procentowej zwieksza się.<br>
+ Poza powyższymi ryzykami istnieje jeszcze ryzyko związane z płynnością. Wynika ona z trdności zbycia obligacji bez utraty wartości w stosunku do bieżącej ceny rynkowej.
+ Różne obligacje charekteryzują się różnym poziomem ryzyka. Podstawowa zasada dotycząca ryzyka kredytowa jest następująca:<br>*Im wyższe ryzyko niedotrzymania warunków, tym wyższa powinna być stopa dochodu obligacji$.^4$*<br>
+ 
+ **Emitenci obligacji wg. ryzyka** (od najniższego)<br>
+ 1.Organizacje ponad narodowe np. EBOR - ich obligacje są bezpieczniejsze nawet od obligacji rządu amerykańskiego, ponieważ gwarantowane są przez kilka rządów.<br>
+2.Rządy poszczególnych krajów.<br>
+3.Agendy rządów, instytucje rządowe.<br>
+4.Jednostki samorządowe.<br>
+5.Przedsiębiorstwa. Charakteryzują się największym ryzykiem niedotrzymania warunków umowy (a także potencjalnym ryzykiem bankructwa)$.^5$<br>
+ 
+    
+####*Wycena obligacji*
+Wyceniając obligacje inwestor dąży do wyznaczenia tzw. Sprawidliwej wartości obligacji. Jest to wartość, jaką powinna osiągnąć obligacja na rynku będącym w równowadze i dysponującym wystarczającymi informacjami. Elementarny sposobem do określenia sprawiedliwej wartości obligacji jest metoda zdyskontowanych przepływów pieniężnych. Określa się w nie wartość obligacji według wzoru:<br>
+
+$P=\sum^{n}_{t=1}\frac{C_t}{(1+r)^t}$<br>
+gdzie:<br>
+$n$ – liczba okresów posiadania obligacji.<br>
+$P$ – wartość obligacji, otrzymana w wyniku wyceny.<br>
+$C_t$ – dochód z tytułu posiadania obligacji, uzyskany w okresie posiadania obligacji.<br>
+ $r$ – tzw. wymagana stopa dochodu, określona w skali okresu płatności odsetek;
+jeśli na przykład odsetki płacone są co pół roku, to jest to stopa w skali
+półrocznej.<br>
+
+Dochód z obligacji określony jest przez stopę dochodu obligacji, nazywaną również stopą dochodu w okresie do wykupu obligacji. Najczęściej oznacza się ją przez YTM(ang.Yield to Maturity$)^5$. Oblicza się ją na podstawie wzoru:<br>
+
+$P=\sum^{n}_{t=1}\frac{C_t}{(1+YTM)^t}$<br>
+
+Stopa YTM określa się, jako stopę dochodu (w skali roku) uzyskaną przez inwestora, który kupił obligację po cenie P, przetrzyma ją do terminu wykupu, a także będzie reinwestował odsetki (na okres do terminu wykupu).
+
+$YTM=[(1+C_t)^\frac{1}{m}-1]m$<br>
+
+gdzie:<br>
+$m$-częstopliwość płatności kuponów.
+
+Ekwiwalent rentowności do wykupu brutto, to wskaźnik pozwalający na porównywanie opłacalności inwestycji w obligacje z inwestycją w lokaty terminowe$.^6$ 
+Wskaźnik ten jest obliczany zgodnie z poniższym wzorem:<br>
+
+$EYTM_{brutto}=\frac{YTM_{netto}}{1-T}$<br>
+
+gdzie:<br>
+$T$-stopa podatku $19\%$
+
+#Bibliografia    
+1.Narodowy Bank Polski [dostęp 22.10.2015] <https://www.nbportal.pl/slownik/instrument-finansowy>
+
+2.Prywatny Inkubator Biznesów [dostęp 22.10.2015] <http://www.pib-obligacje.pl/podstawy/czym-jest-obligacja>
+
+3.Iternetowy system Aktywów Prawnych [dostęp 22.10.2015] <http://isap.sejm.gov.pl/DetailsServlet?id=WDU19950830420>
+
+4.Krzysztof Jajuga "Obligacje" Fundacja Edukacji Rynku kapitałowego [dostęp 23.10.2015] <https://www.knf.gov.pl/Images/Obligacje_tcm75-2522.pdf>
+
+5.Bossa.pl "Obligacja" [dostęp 23.10.2015] <http://bossa.pl/edukacja/rynek/instrumenty/obligacja/>
+
+6.Catalyst [dostęp 23.10.2015]<http://www.gpwcatalyst.pl/instrument?nazwa=2CP0316>

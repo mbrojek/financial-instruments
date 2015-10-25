@@ -1,0 +1,431 @@
+#<B>AKCJE</B>#
+<p align="justify">Akcja jest to papier wartościowy emitowany przez spółkę akcyjną i 
+
+spółkę komandytowo-akcyjną. 
+To także ogół praw i obowiązków akcjonariusza w spółce lub część 
+
+kapitału akcyjnego.</P>
+
+<P align="justify">Do powstania akcji dochodzi z chwilą wpisu spółki do 
+
+rejestru lub rejestracji podwyższenia kapitału i od tego momentu spółka może wydawać je 
+
+akcjonariuszom.
+Inwestor nabywający akcje danej spółki staje się jej akcjonariuszem, co daje mu 
+
+prawa majątkowe i korporacyjne.</P>
+
+Do podstawowych praw należą:
+- prawo do udziału w zysku spółki 
+
+akcyjnej (dywidenda),
+- prawo do udziału w podziale majątku są w przypadku jej likwidacji,
+- prawo 
+
+udziału i głosu na walnym zgromadzeniu akcjonariuszy,
+- prawo poboru,
+- prawo do kontroli 
+
+zarządzania spółką.
+
+Akcje dzielimy:
+- ze względu na sposób przenoszenia własności: imienne i na 
+
+okaziciela, 
+- ze względu na formę pokrycia: gotówkowe i aportowe,
+- ze względu na uprawnienia ich 
+
+akcjonariuszy: zwykłe i uprzywilejowane.
+
+<P align="justify">Emisja to ilość akcji wyemitowanych 
+
+przez spółkę. Akcje emituje się za gotówkę, wniesione aporty, specjalny rodzaj obligacji, podczas 
+
+łączenia się spółek oraz jako rozliczenie warrantów subskrypcyjnych. 
+Część akcji wyemitowanych 
+
+może znajdować się poza rynkiem. Mogą to być akcje imienne, akcje niedopuszczone do obrotu lub 
+
+akcje złożone w depozycie.
+Dane o akcjach posiadanych przez dużych inwestorów są podawane do 
+
+publicznej wiadomości.</P>
+
+<P align="justify">Pierwsza seria akcji jest emitowana przy jej 
+
+założeniu, następne mają na celu podwyższeniem kapitału zakładowego. 
+Akcje o równej wartości 
+
+nominalnej (nie niższej niż 1 grosz) składają się na kapitał spółki. 
+Założyciele spółki dokonują 
+
+wpłat na akcje w celu pokrycia kapitału spółki.</P>
+
+<P align="justify">Ceną emisyjną akcji jest 
+
+cena po której spółka zbywa akcje, która może być wyższa niż wartość nominalna akcji. 
+Jest ona 
+
+głównie odzwierciedleniem popytu rynków finansowych na dany papier wartościowy. Różnica ze 
+
+sprzedaży pomiędzy wartością nominalną a uzyskaną ceną emisyjną jest przeznaczana na kapitał 
+
+zapasowy.</P>
+
+Należy wyróżnić dwa rodzaje emisji akcji:
+- emisja założycielska – wydawanie akcji 
+
+przy tworzeniu nowej spółki.
+- kolejne emisje – przy podwyższaniu kapitału zakładowego.
+
+Ze względu 
+
+na adresata emisji akcji wyróżnia się:
+- subskrypcję prywatną, polegającą na złożeniu przez spółkę 
+
+oferty nabycia akcji całej emisji oznaczonemu adresatowi,
+- subskrypcję zamkniętą adresowaną do 
+
+akcjonariuszy, którym przysługuje prawo poboru,
+- subskrypcję otwartą, polegającą na zaoferowaniu 
+
+akcji w drodze ogłoszenia osobom, którym nie przysługuje prawo poboru.
+
+#PARAMETRY OPISUJĄCE 
+
+AKCJE#
+
+<P align="justify">Stopa zwrotu jest jednym z podstawowych parametrów opisujących jakość 
+
+inwestycji w instrumenty finansowe. 
+Obliczana jest ona, jako stosunek osiągniętego zysku do 
+
+poniesionych nakładów inwestycyjnych. </P>
+
+Stopę zwrotu z akcji za dany okres obliczamy przy 
+
+pomocy wzoru:
+
+$$R_{t}=\frac{(P_{t}-P_{t-1})+D_{t}}{P_{t-1}}$$
+
+gdzie:
+
+R_t – stopa zwrotu za okres 
+
+„t”
+
+P_t – cena akcji na koniec okresu „t”
+
+P_t-1 – cena akcji na koniec poprzedzającego okresu
+
+D_t – dywidenda wypłacona w okresie „t”
+
+Przykład obliczeniowy stopy zwrotu:
+
+Inwestor kupił na 
+
+początku roku jedną akcję spółki "Miri" po kursie 15,80 PLN. 
+Na koniec roku jej kurs wzrósł do 
+
+21,40 PLN. 
+Jednocześnie w ciągu roku spółka wypłaciła dywidendę w wysokości 0,60 PLN na każdą 
+
+akcję. 
+Stąd stopa zwrotu z inwestycji za rok wyniosła:
+
+R=\frac{()21,40 - 15,80)+0,60}{15,80}
+
+R=0,39 (39%)
+
+Natomiast oczekiwaną stopę zwrotu obliczamy z wzoru:
+
+E(R)=\sum_{i=1}^{m}p_{i}\times 
+
+E(R_{i})
+gdzie:
+
+E(R) – oczekiwana stopa zwrotu
+
+p_i – prawdopodobieństwo wystąpienia danej stopy 
+
+zwrotu przy scenariuszu „i”
+
+E(R_i)– oczekiwana stopa zwrotu przy scenariuszu „i”
+
+m – ilość 
+
+scenariuszy sytuacji na rynku
+
+Oczekiwaną stopę zwrotu można również obliczyć na podstawie 
+
+historycznych stóp zwrotu. 
+Wówczas stosujemy następujący wzór:
+
+E(R)=\frac{\sum_{i=1}^{n}E(R_{i})}{n}
+
+gdzie:
+
+n – ilość historycznych stóp zwrotu (np. sesji)
+
+<P 
+
+align="justify">Ryzyko jest nieodłącznie związane z inwestycjami na rynku kapitałowym. 
+Jest to 
+
+drugi podstawowy parametr charakteryzujący inwestycję, determinujący decyzje podejmowane przez 
+
+inwestorów. 
+Ryzyko to inaczej mówiąc niepewność, co do przyszłej stopy zwrotu. Wzrasta ono wraz ze 
+
+zmiennością stóp zwrotu,
+i nie ma tu znaczenia czy są to zmiany dodatnie czy ujemne.</P>
+
+Miarą 
+
+ryzyka jest wariancja stopy zwrotu papieru wartościowego, możemy ją obliczyć korzystając ze 
+
+wzoru:
+
+V=\sum_{i=1}^{m}p_{i}\times (R_{i}-E(R))
+
+gdzie:
+
+V – wariancja stopy zwrotu
+
+p_i – 
+
+prawdopodobieństwo wystąpienia danej stopy zwrotu
+
+R_i – możliwa do uzyskania stopa zwrotu przy 
+
+danym prawdopodobieństwie
+
+Kolejną miarą ryzyka jest odchylenie standardowe stopy zwrotu. 
+W ujęciu 
+
+matematycznym stanowi ono pierwiastek kwadratowy wariancji:
+
+\sigma =\sqrt{V}
+
+Jeżeli dla obliczeń 
+
+wariancji i odchylenia standardowego są wykorzystywane dane z przeszłości, wówczas stosuje się 
+
+następujące wzory:
+
+V=\sum_{t=1}^{m}\times \frac{(R_{t}-E(R))^2}{n-1}
+
+\sigma 
+
+=\sqrt{\sum_{t=1}^{m}\times  \frac{(R_{t}-E(R))^2}{n-1}}
+
+<P align="justify">Wybór najlepszej 
+
+inwestycji w akcje na podstawie stóp zwrotu oraz odchyleń standardowych 
+może być niejednokrotnie 
+
+trudny ze względu na duży rozrzut tych danych, dlatego też dokonując wyboru w którą 
+akcję 
+
+zainwestować wykorzystuje się współczynnik zmienności. Stanowi on relację ryzyka do zysku 
+
+związanego z 
+danym papierem wartościowym, a zatem wskazuje ile ryzyka przypada na jednostkę stopy 
+
+zwrotu.</p>
+
+Określa go wzór:
+
+\nu=\frac{\sigma }{R}
+
+<P align="justify">Korelacja to inaczej 
+
+powiązanie stóp zwrotu z dwóch różnych papierów wartościowych. 
+Stopień powiązania dwóch akcji jest 
+
+mierzony przy pomocy współczynnika korelacji Pearsona. 
+Jeżeli do obliczeń przyjmuje się 
+
+prawdopodobieństwo wystąpienia określonej stopy zwrotu z akcji 
+wówczas ma zastosowanie poniższy 
+
+wzór:</p>
+
+\rho _{AB}=\frac{\sum_{i=1}^{n}p_{i}\times(R_{Ai}-R_{A})\times 
+
+(R_{Bi}-R_{B})}{\sigma_{A}\times \sigma_{B}}
+
+gdzie:
+
+<p>\rho – współczynnik korelacji między akcją 
+
+A i akcją B </p>
+<p>p_i – prawdopodobieństwo wystąpienia danej stopy zwrotu</p>
+<p>R_Ai – możliwa 
+
+stopa zwrotu z akcji A</p>
+<p>R_Bi – możliwa stopa zwrotu z akcji B</p>
+<p>R_A – oczekiwana stopa 
+
+zwrotu z akcji A</p>
+<p>R_B – oczekiwana stopa zwrotu z akcji B</p>
+<p>\sigma_A– odchylenie 
+
+standardowe stóp zwrotu z akcji A</p>
+<p>\sigma_B – odchylenie standardowe stóp zwrotu z akcji 
+
+B</p>
+<p>n – ilość danych do obliczeń (sesji)</p>
+
+Często do obliczeń współczynnika korelacji 
+
+wykorzystuje się notowania historyczne. 
+W takim przypadku współczynnik ten jest obliczany z 
+
+wzoru:
+
+\rho _{AB}=\frac{\sum_{t=1}^{n}\times(R_{At}-R_{A})\times(R_{Bt}-R_{B})}{(n-1)\times 
+
+\sigma_{A}\times\sigma_{B}}
+
+<P align="justify"Współczynnik korelacji przyjmuje wartości z 
+
+przedziału domkniętego <-1;+1>. 
+Znak (+) współczynnika korelacji świadczy, że występuje dodatnia 
+
+korelacja akcji. 
+Wówczas wzrostowi stopy zwrotu z jednej akcji towarzyszy wzrost stopy zwrotu z 
+
+drugiej akcji. 
+Znak (-) współczynnika dowodzi ujemnej korelacji, co oznacza, że wzrostowi stopy 
+
+zwrotu jednej z akcji 
+odpowiada spadek stopy zwrotu zdrugiej akcji. </P>
+
+<P 
+
+align="justify">Kowariancja to kolejna miara siły powiązania stóp zwrotu między akcjami. 
+Jej 
+
+wartość zależy od zmienności stóp zwrotu. 
+Podobnie, jak w przypadku korelacji, można obliczać ją z 
+
+wykorzystaniem prognoz przyszłych stóp zwrotu 
+lub wyników historycznych. W tym celu wykorzystuje 
+
+się następujące wzory:</P>
+
+cov_{AB}=\sum_{i=1}^{m}p_{i}\times (R_{Ai}-E(R_{A}))\times 
+
+(R_{Bi}-E(R_{B}))
+
+cov_{AB}=\frac{\sum_{t=1}^{n}\times(R_{At}-E(R_{A}))\times 
+
+(R_{Bt}-E(R_{B}))}{n-1}
+
+Pomiędzy współczynnikiem kowariancji oraz współczynnikiem korelacji 
+
+zachodzi następująca relacja:
+
+\rho _{AB}=\frac{cov_{AB}}{\sigma_{A}\times \sigma_{B}}
+
+#WSKAŹNIKI 
+
+OPISUJĄCE AKCJE#
+
+<P align="justify">Wskaźnik zysku na akcję, EPS (ang. earning per share) wskazuje 
+
+na skalę potencjalnych korzyści akcjonariuszy, 
+tj. ile zysku przedsiębiorstwa przypada na jedną 
+
+akcję. Obliczamy:</P>
+
+\frac{ wynik finansowy netto}{liczba akcji}
+
+<P align="justify">Wskaźnik 
+
+wartości księgowej akcji, BVS (ang. book value per share) informuje o wartości każdej akcji według 
+zapisów bilansu. Obliczamy:</P>
+
+\frac{kapitał własny}{liczba akcji}
+
+<P align="justify">Wskaźnik 
+
+stopy zyskowności akcji informuje o relacji między wynikiem finansowym netto a ceną akcji. 
+Jeżeli 
+
+wartość tego wskaźnika jest niska (i mniejsza od 100%), tym w mniejszym stopniu cena akcji 
+odzwierciedla wyniki finansowe spółki. 
+Wskaźnik ten służy do porównań korzyści z inwestycji w 
+
+różne przedsiębiorstwa. Obliczamy:</P>
+
+\frac{wynik finansowy netto na 1 akcje}{cena rynkowa 1 
+
+akcji}\times 0,1
+
+<P align="justify">Wskaźnik stopy dywidendy zwany również wydajnością akcji, 
+
+przedstawia bezpośrednie korzyści dla akcjonariuszy w 
+postaci dywidendy. Obliczamy:</P>
+
+\frac{dywidenda na 1 akcję}{cena rynkowa 1 akcji} \times 0,1
+
+<P align="justify">Wskaźnik stopy 
+
+wypłaty dywidendy informuje, jaka część zysku netto jest przeznaczana na dywidendy. 
+Im wskaźnik 
+
+ten jest mniejszy, tym większa część zysku jest zatrzymywana w przedsiębiorstwie na cele rozwojowe. 
+Obliczamy:</P>
+
+\frac{dywidenda na 1 akcje}{zysk netto na 1 akcje}\times0,1
+
+<P 
+
+align="justify">Wskaźnik celowości inwestycji, PER (ang. price earnings ratio) umożliwia ocenę 
+
+opłacalności inwestycji w 
+akcje różnych firm. Określa on liczbę lat w ciągu których nastąpi 
+
+teoretyczny zwrot nakładu na zakup akcji, 
+przy założeniu osiągania przez przedsiębiorstwo zysku w 
+
+przyszłości. Obliczamy:</P>
+
+\frac{cena rynkowa akcji}{zysk netto na 1 akcje}
+
+<P 
+
+align="justify">Wskaźnik ceny giełdowej informuje o cenie akcji, powyżej której jej zakup będzie 
+
+się wiązał z dużym 
+ryzykiem braku zwrotu z inwestycji. </P>
+
+Obliczamy:
+
+$$\frac{Wskaźnik 
+
+PER\times zysk}{liczba akcji}\timesliczba dni badanego okresu$$
+
+<P align="justify">Wskaźnik ceny 
+
+do kapitału własnego PEQ (ang. price to equity ratio) określa relację wartości 
+rynkowej 
+
+przedsiębiorstwa do jej wartości księgowej. Niska wartość tego wskaźnika oznacza, że spółka 
+osiąga 
+
+wyjątkowo małe zyski bieżące, a jej majątek nie jest w pełni wykorzystany, mimo znacznej wartości. 
+Stwarza więc on nadzieję na dobre wyniki w przyszłości pod warunkiem poprawy zarządzania 
+
+przedsiębiorstwem. Obliczamy:</P>
+
+\frac {cena rynkowa akcji}{kapitał własny na 1 akcję}
+
+
+https://pl.wikipedia.org/wiki/Akcja_(finanse)
+http://www.bankier.pl/wiadomosc/Dochod-ryzyko-i-korelacja-na-rynku-kapitalowym-1804671.html
+https://pl.wikipedia.org/wiki/Analiza_wska%C5%BAnikowa#Wska.C5.BAniki_zwi.C4.85zane_z_warto.C5.9Bci
+
+.C4.85_rynkow.C4.85_akcji_i_kapita.C5.82u

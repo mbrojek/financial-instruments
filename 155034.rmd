@@ -1,0 +1,91 @@
+1. Wstęp
+1.1. Definicja instrumentu finansowego
+
+Instrumentem finansowym - nazywamy kontrakt, w wyniku którego u jednej z jego stron powstają zobowiązania finansowe lub instrumenty kapitałowe a u drugiej pojawiają się aktywa finansowe.
+1.2. Podział instrumentów finansowych
+
+Instrumenty finansowe dzielimy ze względu na kryterium czasu, lub inaczej mówiąc pierwotnego terminu zapadalności na:
++krótkoterminowe - okres do zapadalności : do 1 roku
++średnioterminowe - okres do zapadalności: od 1 roku do 3 lat
++długoterminowe - okres zapadalności: powyżej 3 lat
+2. Opcja - definicja i opis instrumentu
+2.1. Definicja
+
+Opcja jest to jeden z podstawowych instrumentów pochodnych.
+Występują dwa podstawowe rodzaje opcji:
++opcja kupna (nazywana również opcją call);
++opcja sprzedaży (nazywana również opcją put)
+
+Ogólnie opisując, instrument ten pozwala nabyć nam prawo zakupu (bądź sprzedaży) określonej ilości dobra po ustalonej cenie w określonym z góry terminie. Dzięki czemu możemy zabezpieczyć się przed ryzykiem.
+
+Przytaczając pierwszy lepszy przykład z brzegu, twórca oprogramowania R może kupić opcje sprzedaży
+100 licencji oprogramowania po cenie 2 zł za sztukę ( i tak na wolnym rynku nikt by więcej nie dał za ten wyborny program)
+w terminie 24-12-2015. A niech ma na wigilijnego karpia.
+
+Jak wcześniej wspomniałem, dla opcji muszą być określone 3 wartości:
++ilość instrumentu podstawowego w transakcji kupna lub sprzedaży
++ustalona cena, po jakiej ma prawo być dokonana transakcja, cena ta zwana jest ceną wykonania lub ceną realizacji
++termin, do którego można kupić lub sprzedać instrument podstawowy, tzn. wykonać opcję
+
+Wyróżniamy jeszcze podział opcji ze względu na możliwość ich wykonania:
++opcja europejska- której realizacja możliwa jest tylko w dniu wygaśnięcia
++opcja amerykańska - dużo bardziej liberalna. Jej realizacji można dokonać w dowolnym terminie aż do dnia wygaśnięcia
+
+Co ważne opcja jest możliwością a nie obowiązkiem. Jeżeli jej realizacja byłaby dla nas niekorzystna finansowo możemy z niej zrezygnować.
+2.1.1. Opcja call
+
+Opcja call - inaczej zwana opcją kupna. Jest to prawo kupna określonej ilości instrumentu podstawowego po ustalonej cenie w ustalonym okresie.
+2.1.2. Opcja put
+
+Opcja put - inaczej zwana opcją sprzedaży Jest to prawo sprzedaży określonej ilości instrumentu podstawowego po ustalonej cenie w ustalonym okresie.
+3. Opcja - wycena instrumentu
+3.1. Wzór Blacka-Scholesa
+
+Są to podstawowe wzory, które zna każdy szanujący się analityk bądź ekonometryk. Służą one do wyceny optymalnej ceny opcji kupna, ewentualnie sprzedaży. Stosuje się je do opcji typu europejskiego.
+
+Podstawowe wartości wykorzystywane we wzorach:
+C- cena opcji kupna
+P- cena opcji sprzedaży
+S- aktualna cena instrumentu bazowego
+X- cena rozliczenia opcji
+T- termin wygaśnięcia opcji (w latach)
+r- stopa procentowa wolna od ryzyka
+$\Phi$- dystrybuanta standardowego rozkładu normalnego
+$\sigma$ - współczynnik zmienności ceny instrumentu bazowego
+3.2. Wzór Blacka-Scholesa dla opcji sprzedaży
+
+Poniżej prezentuje wzór na wycenę opcji sprzedaży:
+
+$P={X}e^{-rT}\Phi \left ( \frac{-ln\frac{S}{X}-(r-\frac{\sigma ^{2}}{2})T}{\sigma\sqrt{T}} \right )-S\Phi\left ( \frac{-ln\frac{S}{X}-(r+\frac{\sigma ^{2}}{2})T}{\sigma\sqrt{T}} \right )$
+3.3. Wzór Blacka-Scholesa dla opcji kupna
+
+Poniżej prezentuje wzór na wycenę opcji kupna:
+
+$C={S}\Phi \left ( \frac{ln\frac{S}{X}+(r+\frac{\sigma ^{2}}{2})T}{\sigma\sqrt{T}} \right )-Xe^{-rT}\Phi\left ( \frac{ln\frac{S}{X}+(r-\frac{\sigma ^{2}}{2})T}{\sigma\sqrt{T}} \right )$
+4. Przykładowe zadania
+4.1. Zadanie1
+
+Znając współczynnik zmienności ceny instrumnetu bazowego równy 0,1
+oblicz optymalną wycenę europejskiej opcji kupna dla akcji spółki NiktniekorzystazLateXa S.A.
+której aktualna cena wynosi 50 zł, cena rozliczenia to 60 zł, termin wygasniecia to 1 rok, wysokość stopy procentowej to 5%.
+
+$C={50}\Phi \left ( \frac{ln\frac{50}{60}+(0.05+\frac{0.1 ^{2}}{2})1}{0.1\sqrt{1}} \right )-60e^{-0.05}\Phi\left ( \frac{ln\frac{50}{60}+(0.05-\frac{0.1 ^{2}}{2})1}{0.1\sqrt{1}} \right)$
+
+Wyliczając z powyższego wzoru, co jest trywialne więc nie będę tego umieszczał w dokumencie,
+wycena jest równa 0,23 PLN.
+4.2. Zadanie2
+
+Znając współczynnik zmienności ceny instrumnetu bazowego równy 0,1
+oblicz optymalną wycene europejskiej opcji sprzedaży dla akcji spółki RStuditobankrut S.A.
+której aktualna cena wynosi 50 zł, cena rozliczenia to 60 zł, termin wygasniecia to 1 rok, wysokość stopy procentowej to 5%.
+
+$P={60}e^{-0.05}\Phi \left ( \frac{-ln\frac{50}{60}-(0.05-\frac{0.1 ^{2}}{2})T}{0.1\sqrt{1}} \right )-50\Phi\left ( \frac{-ln\frac{50}{60}-(0.05+\frac{0.1 ^{2}}{2})T}{0.1\sqrt{1}} \right )$
+
+Ponownie wyliczając z powyższego wzoru, co jest oniegdaj znów trywialne,
+wycena wychodzi 7,31 PLN.
+5. Przypisy
+
+W tej pracy korzystałem z poniższych źródeł:
+www.wikipedia.org
+www.knf.gov.pl
+www.jamer.pl 

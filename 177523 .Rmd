@@ -55,7 +55,7 @@ Istnieja cztery podstawowe cechy, ze wzglêdu na które ró¿ni¹ siê indeksy rynku:
   
     - Rzadko kiedy spotyka siê indeksy gdzie uwzglêdnia siê wszystkie spó³ki np WIG
     
- 2. **Konstrukcja wag przydzielana akcjom poszczególnych spó³ek **, powszechne s¹ trzy sposoby wa¿enia
+ 2. **Konstrukcja wag przydzielana akcjom poszczególnych spó³ek**, powszechne s¹ trzy sposoby wa¿enia
   
     - wa¿enie wartoœci¹ rynkow¹ spó³ki, waga jest tym wiêksza im wiêkszy jest udzia³ wartoœci rynkowej spó³ki w wartoœci rynkowej wszystkich spó³ek wystêpuj¹cych na rynku
     
@@ -63,7 +63,7 @@ Istnieja cztery podstawowe cechy, ze wzglêdu na które ró¿ni¹ siê indeksy rynku:
     
     - przyjêcie jednakowych wag dla spó³ek, niezaleznie od wartoœci rynkowej spó³ki lub akcji;
     
- 3. **Sposób uœredniania w konstrukcji indeksu **:
+ 3. **Sposób uœredniania w konstrukcji indeksu**:
   
     - œrednia arytmetyczna;
     - œrednia geometryczna;
@@ -86,7 +86,7 @@ Istnieja cztery podstawowe cechy, ze wzglêdu na które ró¿ni¹ siê indeksy rynku:
     
     Obie œrednie wykaza³y zupe³nie inne wyniki. Œrednia arytmetyczna jest zawsze wiêksza od œredniej geometrycznej. Ró¿nica jest im wieksza im wiêksza jest wzglêdnoœæ zmian cen. Œrednia geometryczna roœnie w mniejszym tempie i spada w wiêkszym tempie ni¿ œrednia arytmetyczna z czego ostro¿niej ocenia zmiany. 
     
- 4. **Uwzglêdnianie dochodów z tytu³u dywidend i praw poboru **, s¹ tu dwie mo¿liwoœci:
+ 4. **Uwzglêdnianie dochodów z tytu³u dywidend i praw poboru**, s¹ tu dwie mo¿liwoœci:
 
     - Indeksy Dochodowe
   umo¿liwiaj¹ obserwacjê ³¹cznej zmiany cen danej grupy akcji wraz z           przypisanymi tym akcjom prawami maj¹tkowym, tj. prawami do dywidendy czy     te¿ prawami poboru akcji; pozwalaj¹ ³atwo oceniæ rentownoœæ inwestycji       gie³dowych przez porównanie ich do innych form lokowania kapita³u.

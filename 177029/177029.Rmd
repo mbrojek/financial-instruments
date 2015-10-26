@@ -1,0 +1,99 @@
+---
+title: "Wprowadzenie do instrumentów finansowych"
+author: "Katarzyna Konieczna"
+date: "23 października 2015"
+output: html_document
+---
+<br />
+
+>>Instrument finansowy jest to kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego u drugiej ze stron; jest to podstawowy przedmiot inwestycji finansowej.</span>
+<br />
+
+<center><img src="rys1.jpg" style="border-style:solid; border-width:2px; border-color:#000000;"/></center>
+<br />
+
+>>**Cechy instrumentu finansowego:**
+
+1. Instrument finansowy jest umową (kontraktem), który w praktyce zawierany jest na piśmie i to bardzo często w formie określonej szczegółowymi przepisami;
+
+2. Mamy do czynienia w zasadzie z symetrią powstawania praw u jednej stron ze stron umowy oraz powstaniem obowiązku u drugiej strony;
+
+3. Z zawarciem umowy muszą się jednocześnie wiązać określone skutki gospodarcze – niezależnie od charakteru kontraktu (warunkowy czy bezwarunkowy), reprezentują one ustaloną lub możliwą do ustalenia sumę środków pieniężnych lub ich ekwiwalent w formie innych instrumentów pierwotnych finansowych;
+
+4. Instrumenty finansowe muszą być ujęte w bilansie jako jedna z trzech podstawowych kategorii finansowych: aktywa finansowe, zobowiązania finansowe i instrumenty kapitałowe. Są one zazwyczaj płynne;
+
+5. Emitent lub wystawca instrumentu finansowego wprowadza go do ksiąg rachunkowych na dzień zawarcia kontraktu.
+<br />
+<br />
+
+>>**W zależności od zastosowanego kryterium, instrumenty finansowe możemy podzielić:**
+
+<span style="color:black"><u>**Ze względu na obrót:**</u></span>
+
+1.	Występujące na rynku finansowym
+2.	Nie występujące na rynku finansowym
+
+<span style="color:black"> <u>**Ze względu na rodzaj transferu:**</u></span>
+
+1.	Instrumenty transferu kapitału
+<ul>
+<li>instrumenty dłużne: obligacje, weksle, certyfikaty, bony skarbowe i pieniężne, a także papiery wartościowe będące dowodem zobowiązania finansowego pomiędzy zaciągającym zobowiązanie a nabywcą papieru dłużnego.
+<li>instrumenty udziałowe: akcje</li></ul>
+2.	Instrumenty transferu ryzyka
+<ul>
+<li>instrumenty pochodne: forward, futures, FRA, Interest Rate Swap, opcje</li></ul>
+3.	Instrumenty hybrydowe
+
+<u>*Instrumenty transferu kapitału*</u> są to instrumenty, w których jedna strona dysponująca nadmiarem kapitału (inwestor), przekazuje go stronie potrzebującej kapitału. 
+Do instrumentów transferu kapitału należą instrumenty dłużne oraz instrumenty udziałowe.<br /> 
+W przypadku <u>*instrumentów dłużnych*</u> inwestor (pożyczkodawca) udostępnia swój kapitał pożyczkobiorcy (skarb państwa, bank komercyjny, gmina) za co otrzymuje kapitał dodatkowy (stopa procentowa).<br />
+W przypadku <u>*instrumentów udziałowych*</u> inwestor za udostępnienie kapitału otrzymuje udziały, co wiąże się często z prawem współwłasności.<br />
+<br />
+
+<center><img src="rys2.jpg" style="border-style:solid; border-width:1px; border-color:#00000;"/></center>
+<br />
+
+<u>*Instrumenty transferu ryzyka*</u> są to instrumenty, w których jedna ze stron lub obie przekazują sobie ryzyko. Do instrumentów transferu ryzyka należą przede wszystkim instrumenty pochodne.<br />
+<u>*Instrumenty hybrydowe*</u> są to instrumenty łączące cechy instrumentów dłużnych i instrumentów pochodnych.<br />
+
+<span style="color:black"><u>**Ze względu na kryterium czasu:**</u></span>
+
+1. Krótkoterminowe - okres zapadalności do 1 roku;  
+2. Średnioterminowe - okres zapadalności od 1 roku do 3 lat;  
+3. Ddługoterminowe - okres zapadalności powyżej 3 lat.
+
+
+<span style="color:black"><u>**Tradycyjny, najczęściej  stosowany podział na:**</u></span>
+
+1. Instrumenty rynku pieniężnego
+<ul>
+<li>bony skarbowe
+<li>bony komercyjne
+<li>certyfikaty depozytowe
+<li>transakcje typu „repo” i „reverse repo”</li></ul>
+2. Instrumenty rynku kapitałowego
+<ul>
+<li>obligacje
+<li>akcje
+<li>obligacje
+<li>inne instrumenty udziałowe takie jak: jednostki uczestnictwa w otwartych funduszach inwestycyjnych, certyfikaty inwestycyjne zamkniętych funduszy inwestycyjnych oraz certyfikaty indeksowe</li></ul>
+3. Rynek instrumentów pochodnych
+<ul>
+<li>opcje
+<li>kontrakty terminowe
+<li>swapy</li></ul>
+4. Rynek walutowy
+<br />
+
+***
+
+**Bibliografia:**
+
+https://www.nbportal.pl/<br />
+http://elfin.pl/<br />
+Głuchowski J.: *Leksykon finansów*, PWE, Warszawa 2001<br />
+Jajuga K., Jajuga T.: *Inwestycje, instrumenty finansowe, aktywa niefinansowe, ryzyko finansowe, inżynieria finansowa*, PWN, Warszawa 2008<br />
+Sopoćko A.: *Rynkowe instrumenty finansowe*, PWN, Warszawa 2008<br />
+Czekaj J.: *Rynki, instrumenty i instytucje finansowe*, PWN, Warszawa 2008
+
+

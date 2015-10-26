@@ -1,0 +1,147 @@
+#### Wprowadzenie
+
+- **Pojecie instrumentu finansowego**
+
+Polskie prawo definiuje wprost instrumenty finansowe, w ustawie o 
+rachunkowości 
+uznając je za wszelkiego rodzaju kontrakty na podstawie których powstają w ramach kontraktu aktywa finansowe u jednej ze stron, u drugiej zaś zobowiązania lub 
+instrumenty kapitałowe. Ważnym jest by z powyższego kontraktu zawartego między 
+stronami wynikały wymierne skutki gospodarcze.
+
+- **Typowe podziały instrumentów finansowych**
+
+We wspomianej ustawie ustawodawca przedstawił podstawowy podział elementów 
+składających się na definicję instrumentu finansowego. Są to: aktywa finansowe, 
+zobowiązania finansowe oraz instrumenty kapitałowe.
+
+---
+
+#### Instrumenty rynku pieniężnego
+
+- **Bony skarbowe**
+
+Krótkoterminowy papier dłużny emitowany przez rząd charakteryzujący się zerowym 
+stopniem ryzyka jednak przez to jest nisko oprocentowany. Nie mniej jednak jest 
+to bardzo atrakcyjny papier lokacyjny. W polsce bony są papierami o wartości 
+nominalnej 10tys. PLN, emitowane są na okres 1-90 dni lub 1-52 tygodni, a ich 
+oprocentowanie jest stałe. Emitowane są przez Ministerstwo Finansów za 
+pośrednictwem NBP w charakterrze agenta emisji.
+Rynek bonów skarbowych możemy podzielić na dwie podstawowe kategorie:
+
+  - Rynek pierwotny
+Tworzony przez przetargi organizowany przez NBP. Oferty zakupu składać mogą 
+jedynie podmioty ze statusem dilera skarbowych papierów wartościowych tzn. 
+banki z którymi MF posiada umowy przyznające prawo do składanie ofert przetargowych.
+
+  - Rynek wtórny
+Rynek jest stworzony przez oferty kupna/sprzedaży składane przez podmioty pragnące 
+nabyć/sprzedać bony między przetargami, a stopa oprocentowania bonów kształtowana 
+jest przez rynek. Cena wykupu sprzedaży - wzór w przykładach
+
+____
+
+- **Bony komercyjne**
+
+Krótkoterminowy komercyjny papier dłużny występujący na rynku kapitałowym. Jest on 
+zobowiązaniem emitenta do zwrotu jego akturalnemu posiadaczowi w terminie wykupienia 
+bonu nominalnej kwoty na którą bon został wystawiony. Krótkookresowość oznacza, że termin 
+zapadalności nie przekracza okresu jednego roku. Emisją bonów komercyjnych zajmują się 
+banki oraz przynależące do nich domy maklerskie. Warto zauważyć, że bony komercyjne są 
+instrumentami dyskontowymi więc różnica między ceną zakupu, a wartością nominalną jest 
+w tym wypadku zyskiem inwestora.
+
+____
+
+- **Certyfikaty depozytowe**
+
+Są papierami wartościowymi emitowanymi przez banki, a celem emisji jest pozyskanie pieniędzy. 
+Najogólniej jest to zapis lub dokument będący potwierdzeniem tego, że bank przyjął środki 
+(zawarte informacje to nazwa banku, czas zdeponowania oraz wysokość stopy procentowej). 
+Dokument taki wystawiany jest na okaziciela, oznacza to, że nie ma żadnych ograniczeń 
+przy handlu nim na rynku wtórnym. Zaletą takich dokumentów jest przede wszystkim pewność 
+lokaty, bank nie może wycofać się z niej przed upływem terminu. Wyższa niż w przypadku 
+bonów skarbowych stopa oprocentowania nie jest jednak pozbawiona ryzyka - głównie 
+związanego z tym, że ryzyko niewypłacalności banku jest dużo wyższe niż ryzyko 
+niewypłacalności rządu. Wysokość oprocentowania jest jednak na tyle wysoka by depozyty 
+mogłby być instrumentami konkurencyjnymi nawet dla bonów skarbowych. Charaktresytycznymi 
+i stałymi cechami certyfikatów depozytowych są przede wszystkim: realizacja na okaziciela, 
+wyznaczony dokładnie bank który przyjął depozyt, nominalna wartość jaka została zdeponowana, 
+nominalna stopa procentowa, zdefiniowany precyzyjnie okres trwania. Co więcej możemy wyróznić 
+cztery podstawowe rodzaje takkich certyfikatów ( wg W. Dębskiego): krótkoterminowe o stałym 
+oprocentowaniu (od 1 miesiąca do roku), długoterminowe o stałym oprocentowaniu ( 1 rok do 5 lat), 
+dyskontowe czyli emitowane po cenie niższej niż wartość nominalna oraz certyfikaty ze zmienną 
+stopą procentową na okres od 3 miesięcy do nawet 5 lat.
+
+
+____
+
+- **Transakcje repo i reverse repo**
+
+Repo jest transakcją tz. warunkowego zakupu - polega na zakupie papieru wartościowego 
+i zobowiazaniu się do sprzedaży go w ustalonej dacie w przyszłości. W pewnym sensie 
+jest to pożyczka udzielona pod zastaw papierów wartościowych. Oprocentowanie w tym 
+wypadku zależy od różnicy ustalonych cen zakupu oraz sprzedaży papieru który jest 
+zabezpieczeniem takiej transakcji. Transakcje tego typu zyskały sporą popularność 
+po kryzysie w 2008 r. dlatego, że ryzyko kredytowe w transakjach repo jest w wiele 
+niższe niż w przypadku lokat międzybankowych. Transakcją analogicznie odwrotną jest 
+reverse repo i nie ma sensu poświęcać jej kolejnego akapity dla opisu.
+
+____
+
+- **Przykłady obliczeniowe**
+    - Bony skarbowe
+    
+        $P= \frac{N}{\left [ \frac{r*n}{3600*100} +1\right ]}$
+        
+	      P - cena wykupu        
+
+	      N - nominał bonu
+        
+        n - liczba dni do zapadalności
+        
+        r - wymagana rentowność (%)
+        
+        Przykład:
+        
+        Zgłoszona została oferta kupna o zapadlaności 32 dni i rentowności na poziomie 9,25%. 
+        Cenę wykupu liczymy więc jako...
+        
+        $P= \frac{10000}{\left [ \frac{9.25*32}{3600*100} +1\right ]}=9918,45$
+        
+        ----
+        
+    - Certyfikaty depozytowe
+	
+	      Korzystając z poniższego wzoru możemy określić wartość odsetek w dniu wykupu przy stałej stopie procentowej:
+
+	      $V = N\left (  \frac{1 + K*t}{365*100}\right )$
+	
+	      V - wartość w dniu wykupu
+	
+	      N - wartość nominalna
+
+	      K - nominalna roczna stopa procentowa
+
+	      t - okres na jaki został wyemitowany walor ( w dniach )
+	      
+	      Np. obliczając wartość w dniu wykupu certyfikatu o wartości 100.000zł po dwóch miesiącach 
+	      oraz przez stopie procentowej na poziomie 2,7% otrzymujemy wzór:
+	      
+	      $V = 100000\left (  \frac{1 + 2.7*61}{365*100}\right )=453,97$
+	      
+	      Czyli otrzymamy 100.453,97zł.
+	      
+	      ----
+
+    
+---
+#### Bibliografia
+
+- Ustawa z dnia 29 września 1994 r. o rachunkowości (Dz.U. 1994 nr 121, poz. 591 z 
+późn. zm.).
+- http://mfiles.pl/pl/index.php/Instrumenty_finansowe
+- https://www.nbportal.pl
+- http://www.rsg.pl/
+- www.expander.pl
+- http://old.ue.poznan.pl/att/DZIEK_EKON/2_d.spychala_z23.pdf
+- http://mfiles.pl/pl/index.php/Certyfikat_depozytowy

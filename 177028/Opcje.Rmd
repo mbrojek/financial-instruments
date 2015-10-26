@@ -35,7 +35,7 @@ Istnieją trzy najważniejsze parametry, które opisują opcje:
 - **dzień wygaśnięcia** (ostatni dzień okresu, w trakcie którego może dojść  do kupna/sprzedaży).
 
 ##
-
+1. 
 2.  Podział opcji ze względu na termin wygaśnięcia
 
 Opcja jest prawem, które jest ważne przez pewien okres. Po terminie wygaśnięcia prawo nie przysługuje. Dzięki temu możemy dokonać  jeszcze jednego podziału opcji:

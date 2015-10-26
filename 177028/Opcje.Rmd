@@ -15,7 +15,7 @@ Wyróżniamy dwa  podstawowe rodzaje opcji: opcja kupna oraz opcja sprzedaży.
 
 **Opcja kupna** ( _call option_)-  prawo (ale nie obowiązek) kupna określonej ilości instrumentu podstawowego po ustalonej cenie w ustalonym czasie.
 
-**Opcja sprzedaży** (_put option_)- prawo sprzedaży (ale nie obowiązek) określonej ilości instrumentu podstawowego po ustalonej cenie w ustalonym okresie.
+**Opcja sprzedaży** (_put option_)- prawo (ale nie obowiązek) sprzedaży określonej ilości instrumentu podstawowego po ustalonej cenie w ustalonym okresie.
 
 **Posiadacz opcji** (**strona długa opcji**) nabywa prawo kupna lub sprzedaży instrumentu bazowego. **Wystawca opcji** (**strona krótka opcji**) jest to osoba, która sprzedaje to prawo.
 
@@ -48,7 +48,7 @@ Opcja europejska może być wykonana wyłącznie w terminie wygaśnięcia, natom
 
 ##
 
-1. Podstawowe rodzaje transakcji na rynku opcji
+3. Podstawowe rodzaje transakcji na rynku opcji
 
 Na rynkach opcji wyróżnia się cztery rodzaje uczestników:
 
@@ -63,9 +63,9 @@ Rozpatrzmy przykład zakupu opcji kupna (_call_).
 
 W dniu 22 października wystawiona została europejska opcja _call_. Instrumentem podstawowym jest waluta euro. Termin wygaśnięcia przypada 10 listopada bieżącego roku. Opcja wystawiona jest na 10000 euro. Cena wykonania wynosi 4,15 pln za 1 euro. Cena zakupu jednej opcji wynosi 0,06 pln w przeliczeniu na 1 euro. Oznacza to, że nabywca opcji zapłaci 600 pln za prawo kupna od wystawcy opcji 10000 euro po cenie 4,15 pln za 1 euro. Rozważmy teraz trzy sytuacje w momencie wygaśnięcia:
 
-- W przypadku, gdzie kurs euro będzie poniżej 4,15 pln, to operacja nie zostanie wykonana, ponieważ nie ma sensu kupowanie opcji po 4,15 pln za 1 euro, jeżeli ich aktualna  cena rynkowa jest niższa. W tej sytuacji posiadacz opcji straci całą sumę wydatkowaną na zakup opcji, czyli 600 pln.
-- W przypadku, gdzie kurs euro będzie powyżej 4,15 pln, to operacja zostanie wykonana, ponieważ opłaca się kupić  opcję po cenie wykonania, która jest niższa od obecnej ceny rynkowej. Załóżmy, że kurs euro wynosi 4,22 pln. Łatwo policzyć , że zysk tej transakcji bez kosztów operacyjnych wyniesie 700 pln. Odejmując od tej kwoty koszty początkowe (czyli 600 pln), otrzymamy zysk netto równy 100 pln.
-- W przypadku, gdzie kurs euro zostanie na tym samym poziomie (tzn. 1 euro= 4,15 pln), to nie ma znaczenia czy wypłata zostanie wykonana czy nie. Wypłata w obydwu sytuacjach będzie wynosić 0. 
+- W przypadku, gdzie kurs euro będzie poniżej 4,15 pln, to operacja nie zostanie wykonana, ponieważ nie ma sensu kupowanie opcji po 4,15 pln za 1 euro, jeżeli ich aktualna  cena rynkowa jest niższa. W tej sytuacji posiadacz opcji straci całą sumę wydatkowaną na zakup opcji, czyli 600 pln. Możemy powiedzieć, że opcja jest _out of the money_.
+- W przypadku, gdzie kurs euro będzie powyżej 4,15 pln, to operacja zostanie wykonana, ponieważ opłaca się kupić  opcję po cenie wykonania, która jest niższa od obecnej ceny rynkowej. Załóżmy, że kurs euro wynosi 4,22 pln. Łatwo policzyć , że zysk tej transakcji bez kosztów operacyjnych wyniesie 700 pln. Odejmując od tej kwoty koszty początkowe (czyli 600 pln), otrzymamy zysk netto równy 100 pln. Możemy zatem powiedzieć, że opcja jest _in the money_ .
+- W przypadku, gdzie kurs euro zostanie na tym samym poziomie (tzn. 1 euro= 4,15 pln), to nie ma znaczenia czy wypłata zostanie wykonana czy nie. Wypłata w obydwu sytuacjach będzie wynosić 0. Mówimy wtedy, że opcja jest _at the money_.
 
 Spójrzmy teraz na punkt widzenia sprzedającego:
 
@@ -87,7 +87,20 @@ Spójrzmy teraz na punkt widzenia sprzedającego:
 - jeżeli w dniu wygaśnięcia kurs euro spadnie poniżej 4,02 pln opcja przestaje być opłacalna dla wystawcy. Im kurs euro jest niższy od ceny wykonania tym wystawca ponosi wyższą stratę. 
 - jeżeli w dniu wygaśnięcia kurs euro będzie powyżej 4,02 pln, to wystawca zrealizuje swój maksymalny zysk, który jest równy premii. 
 
-Analizując powyższe przykłady możemy zauważyć pewne analogie. Łatwo zauważyć , że krótkie opcje sprzedaży i kupna są symetryczne (zakładając, że mają takie same parametry).
+Analizując powyższe przykłady możemy zauważyć pewne analogie. 
+
+4. Opcje egzotyczne
+
+**Opcje egzotyczne** nie są już opcjami standardowymi. Nie znajdują się one w obrocie giełdowym, raczej tylko na zamówienie Klientów. Opcje egzotyczne możemy podzielić na **opcje jednoczynnikowe** oraz **opcje wieloczynnikowe**. 
+Opcje jednoczynnikowe będą zależeć od wartosci jednego indeksu podstawowego, natomiast opcje wieloczynnikowe będą zależeć od wartosci kilku takich indeksów. 
+
+5. Strategie opcyjne
+
+Rozróżniamy kilka różnych pozycji w opcjach na dany instrument bazowy. Przykładowe strategie opcyjne:
+- strategia byka,
+- strategia niedźwiedzia,
+- strategia stelaża,
+- strategia motyla.
 
 
 ##
@@ -95,8 +108,10 @@ Analizując powyższe przykłady możemy zauważyć pewne analogie. Łatwo zauwa
 **Bibliografia**
 
 1. Jajuga K., Jajuga T.; Inwestycje: instrumenty finansowe, aktywa niefinansowe, ryzyko finansowe, inżynieria finansowa; PWN, Warszawa 2014.
-2. T. Jóźwik; Wprowadzenie do opcji giełdowych.
-3. ffffff
+2. T. Jóźwik; Wprowadzenie do opcji giełdowych; Giełda Papierów Wartościowych w Warszawie S.A.
+3. http://www.tu.kielce.pl/~grysa/IF3.pdf
+4. www.nbp.pl
+5. J.Hull, Kontrakty terminowe i opcje; Warszawa 1999.
 							|
 
 

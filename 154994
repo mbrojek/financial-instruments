@@ -1,0 +1,186 @@
+---
+title: "Opcje"
+author: "Bartek Machnacki"
+date: "25 października 2015"
+output: html_document
+---
+### Czym są opcje?
+
+
+**Opcje** (*ang. options*) to – podobnie jak kontrakty – bardzo popularny instrument notowany
+na rynkach giełdowych. Jego konstrukcja jest nieco trudniejsza od kontraktów terminowych.
+Opcje można również zaliczyć do klasycznych instrumentów pochodnych.
+
+
+Przed poznaniem szczegółów warto wiedzieć, że:
+
+**a.** *opcje nie są trudne*   
+Wbrew ogólnej opinii, inwestowanie w opcje nie musi być trudne. Na rynku tym można
+tworzyć strategie dla doświadczonych inwestorów, ale również dla początkujących.
+Najprostszym sposobem inwestowania w opcje jest kupowanie opcji. Ten sposób inwestowania
+jest prosty oraz charakteryzuje się możliwością zrealizowania bardzo dużych
+zysków.
+
+**b.** *można osiągnąć duże stopy zwrotu*   
+Kupując opcje, można osiągnąć bardzo duże zyski (na żadnej innej strategii opcyjnej nie
+można zarobić więcej). Dlaczego tak się dzieje? Ponieważ kurs opcji charakteryzuje się
+bardzo dużą zmiennością, co oznacza, że w przypadku wzrostu wartości instrumentu
+bazowego kurs opcji kupna wzrośnie dużo więcej. Dlatego inwestowanie w opcje jest
+znacznie bardziej opłacalne niż w akcje.
+
+**c.** *masz ograniczone straty*   
+Opcja to instrument, na którym można dużo więcej zarobić niż stracić. Na rynku nie ma
+drugiego takiego instrumentu. Co ważne, przy opcjach od początku wiadomo, ile maksymalnie
+można stracić.
+
+**d.** *nie ma depozytu zabezpieczającego*   
+Inwestorzy handlujący kontraktami terminowymi wiedzą, z czym wiąże się depozyt zabezpieczający:
+dopłacanie pieniędzy, konieczność zamykania stratnych pozycji, coraz
+większe straty.
+
+
+
+**Możemy wyróżnić dwa rodzaje opcji:**    
+**a.** opcje kupna (_ang. call options_),      
+**b.** opcje sprzedaży (*ang. put options*).
+
+Opcje kupna stanowią dla nabywcy prawo do kupna instrumentu bazowego po z góry
+określonej cenie oraz na warunkach z góry określonych. Zachodzi sytuacja bardzo podobna
+do sytuacji nabywcy kontraktu terminowego, z tą jednak różnicą, że w kontrakcie
+inwestor ma **obowiązek** nabyć instrument bazowy (nawet jeżeli nie jest to dla niego
+korzystne), a w przypadku opcji inwestor ma **prawo** do nabycia, co oczywiście oznacza,
+że może z tego prawa nie skorzystać i instrumentu bazowego nie kupować.
+Podobnie jest z opcjami sprzedaży. Kupując ten typ opcji, otrzymujemy prawo do sprzedaży
+instrumentu bazowego. Tu możemy doszukać się analogii do postępowania wystawcy
+kontraktu, który również sprzedaje instrument bazowy w terminie wykonania.
+Wystawca kontraktu jest jednak zobligowany przystąpić w terminie wykonania kontraktu
+do transakcji sprzedaży, natomiast nabywca opcji sprzedaży decyduje, czy skorzysta
+z prawa sprzedaży, czy też nie.
+
+Stroną w transakcji z nabywcą opcji (kupna
+i sprzedaży) jest wystawca opcji (kupna oraz wystawcą opcji sprzedaży). Wystawiając opcję,
+tym samym zobowiązujemy się (na żądanie nabywcy) do zawarcia z nim transakcji kupna/
+sprzedaży instrumentu bazowego.
+
+Można więc stwierdzić, że wystawca to inwestor, który udziela nabywcy praw wynikających
+z opcji. Ale oczywiście nie za darmo. Za otrzymane prawa trzeba zapłacić. Wystawiając
+opcję, otrzymujemy od nabywcy opcji określoną kwotę pieniężną, która jest
+nazywana **premią opcyjną**
+
+Kupno opcji niesie zatem ze sobą znaczący element kosztu w postaci premii opcyjnej.
+Tego kosztu nie było w przypadku kontraktów terminowych, gdzie mieliśmy do czynienia
+jedynie z depozytem zabezpieczającym.
+Konkludując, na rynku opcji można zająć aż 4 pozycje: kupić opcję kupna (*ang. Long Call*),
+kupić opcję sprzedaży (*ang. Long Put*) oraz wystawić opcję kupna (*ang. Short Call*) i wystawić
+opcję sprzedaży (*ang. Short Put*).
+
+
+W przypadku opcji bardzo ważnym parametrem jest tzw. **kurs wykonania** (*ang. strike
+price lub exercise price*). Wskazuje on cenę, po której w efekcie wykonania opcji w przyszłości
+nastąpi zawarcie transakcji kupna/ sprzedaży instrumentu bazowego pomiędzy
+nabywcą a wystawcą.
+
+
+*Mały przykład.*
+Jeżeli zatem kupimy opcję kupna na akcje spółki Orange Polska
+z kursem wykonania 26 zł, oznacza to, że mamy prawo do kupna określonej liczby akcji tej
+spółki (zgodnie ze standardem na jedną opcję na akcję przypada 100 sztuk instrumentu
+bazowego) po cenie 26 zł.
+
+###Jak inwestować?
+
+Inwestując w opcje należy podjąć 4 **ważne** decyzje: 
+
+**a.**  *wybór instrumentu bazowego*
+
+Fundamentalną decyzją jest wybór instrumentu bazowego. Przede wszystkim od tej decyzji
+jest uzależnione powodzenie naszej inwestycji. Jeżeli wybierzemy instrument bazowy,
+którego wartość zmieni się zgodnie z naszymi oczekiwaniami, wówczas na pewno
+na kupionych opcjach zarobimy. 
+
+**b**  *typ opcji* 
+
+Typ opcji wskazuje, jakich zmian wartości instrumentu bazowego oczekujemy. Jeżeli
+chcemy zarabiać na wzrostach, wówczas oczywiście kupujemy opcje kupna. Jeżeli chcemy
+zarobić na spadkach – kupujemy opcje sprzedaży. 
+
+**c**  *kurs wykonania* 
+
+Już wiemy, że jest to wartość, której przekroczenie przez kurs instrumentu bazowego
+gwarantuje wypłatę w terminie wygaśnięcia opcji kwoty rozliczenia.
+Na rynku są do wyboru opcje z licznymi kursami wykonania – bliższymi i bardziej odległymi
+od bieżącej wartości instrumentu bazowego. 
+
+**d.**  *termin wygaśnięcia* 
+
+Do wyboru jest zawsze kilka terminów (patrz standard instrumentu dostępny na stronie
+www.pochodne.gpw.pl). Wybieramy ten termin, na który przewidujemy określoną zmianę
+wartości instrumentu bazowego.
+
+###Przykłady obliczeniowe
+
+Algorytmy na kalkulacje kwoty rozliczenia są następujące:
+
+####Dla opcji kupna
+
+\[(S-X)*m\]
+  
+*gdzie:*
+
+ **S** – kurs instrumentu bazowego
+ 
+ **X** – kurs wykonania opcji
+ 
+ **m** - mnożnik, dla opcji na akcje określa liczbę akcji przypadających na jedną opcję
+(dla opcji akcyjnych notowanych na GPW zawsze wynosi 100), a dla opcji na indeks
+określa wartość jednego punktu indeksowego (dla opcji indeksowych notowanych
+na GPW zawsze wynosi 10 zł)
+
+**Przykład**
+
+Zachowanie posiadacza opcji kupna w terminie wygaśnięcia na przykładzie opcji na akcje Orange Polska (OPL) z kursem wykonania 26 zł. Na jedną opcję przypada 100 sztuk akcji tej spółki.
+
++ *Wariant 1* – w terminie wygaśnięcia opcji kurs akcji OPL na Giełdzie wynosi 27 zł. Nabywca opcji kupna wykona opcję, ponieważ kurs instrumentu
+bazowego S=27zl jest powyżej kursu wykonania opcji X=26zł
+
+\[(S – X)* m = (27zł – 26zł) * 100 akcji = 100zł\]
+
++ *Wariant 2)* – w terminie wygaśnięcia opcji kurs akcji OPL na Giełdzie wynosi 25 zł. Nabywca opcji kupna nie wykona opcji, ponieważ kurs instrumentu
+bazowego (S = 25 zł) jest niższy niż kurs wykonania opcji (X = 26 zł).
+Kwota rozliczenia = 0
+
+####Dla opcji sprzedaży
+
+\[(X-S)*m\]
+  
+*gdzie:*
+
+ **S** – kurs instrumentu bazowego
+ 
+ **X** – kurs wykonania opcji
+ 
+ **m** - mnożnik
+ 
+ **Przykład**
+ 
+ Zachowanie posiadacza opcji sprzedaży w terminie wygaśnięcia na przykładzie opcji na
+akcje Orange Polska z kursem wykonania 24 zł. Na jedną opcję przypada 100 sztuk akcji
+tej spółki.
+
++ *Wariant 1* – w terminie wygaśnięcia opcji kurs akcji OPL na Giełdzie wynosi 22 zł. Nabywca opcji sprzedaży wykona opcję, ponieważ kurs instrumentu
+bazowego (S = 22 zł) jest poniżej kursu wykonania opcji (X = 24 zł).
+
+\[(X - S)* m = (24zł – 22zł) * 100 akcji = 200zł\]
+
++ *Wariant 2)* – w terminie wygaśnięcia opcji kurs akcji OPL na Giełdzie wynosi 25 zł.
+Nabywca opcji sprzedaży nie wykona opcji, ponieważ kurs
+instrumentu bazowego (S = 25 zł) jest wyższy od kursu wykonania opcji (X = 24 zł).
+
+
+**Bibliografia**
+
++ http://www.pochodne.gpw.pl/pub/pdf/1_BROSZURA_LONG_CALL.pdf
++ http://www.pochodne.gpw.pl/pub/pdf/2_BROSZURA_LONG_PUT.pdf
++ http://www.pochodne.gpw.pl/pub/pdf/3_BROSZURA_SHORT_CALL.pdf
++ http://www.pochodne.gpw.pl/pub/pdf/4_BROSZURA_SHORT_PUT.pdf 
++ http://static.gpw.pl/pub/files/PDF/foldery/GPW_Podstawy_Inwestowania_2014.pdf

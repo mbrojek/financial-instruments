@@ -1,0 +1,66 @@
+##KONTRAKTY SWAP
+
+###Główna charakterystyka Kontraktów SWAP
+
+**Czym są SWAPy?** SWAPY to rodzaj instrumentów pochodnych, czyli praw majątkowych. Warto tu podkreślić że ich cena rynkowa zależna jest od ceny lub od wartości określonych papierów wartościowych walut, stóp procentowych lub innych okoliczności. Innymi słowy, dwie strony zamieniają przyszłe płatności, jakich maja dokonać na rzecz instytucji finansowych. W powyższej operacji pojawia się pośrednik(inna instytucja finansowa) czyli dealer swapu(Organizatorzy rynku mogą zajmować się wyszukiwaniem obu stron transakcji lub mogą działać na własny rachunek-w tym przypadku występują jako jedna ze stron umowy. Druga możliwość naraża dealera na znaczne ryzyko finansowe, które chcą uniknąć partnerzy zawierający umowę). Dzięki tej zamianie płatności obie strony oraz pośrednicząca instytucja finansowa zyskują. Mimo wszystko bardzo trudno określić precyzyjną definicję swapu. Pod tym pojęciem kryję się wiele różnych kontraktów, takich jak  kontrakty zabezpieczające strony przed ryzykiem kursowym bądź swapy uzależnione np. od wielkości opadów deszczu na danym obszarze. Co więcej swapy dotyczą różnych form płatności oraz są transakcjami dokonywanymi w obrocie bankowym i pozbawione są cech standaryzacji. Nie są one zatem zawierane w obrocie na rynku regulowanym. Początek rynków swapowych to późne lata 70 XX wieku. Uczestnicy rynku walutowego zastosowali ten instrument aby uniknąć brytyjskiej kontroli nad przepływami obcej waluty. Od roku 1981 można zauważyć gwałtowny rozwój tego rynku, który z roku na rok staję się coraz większy. Obecnie podstawowymi motywami zawierania transakcji swapowych są: potrzeby handlowe oraz nierównowaga komparatywna(firmy mogą pożyczać środki na korzystniejszych warunkach). Dzięki tym instrumentom, przedsiębiorstwa w łatwiejszy sposób mogą zarządzać swoimi aktywami i pasywami. Pozwalają one na dokonywanie inwestycji lub zaciąganie pożyczek na rynkach, które w normalnych warunkach byłby niedostępne bądź bardzo kosztowne. 
+
+Transakcje swap , kontrakty forward, opcje, kontrakty futures tworzą rodzinę instrumentów pochodnych(derywaty).
+
+####Typologia swapów finansowych:
+- Instrument bazowy( procentowe, walutowe, walutowo-procentowe, towarowe, oparte na papierach wartościowych, oparte na standingu kredytowym oraz oparte na indekach)
+- Charakter kwoty podstawowej(oparte na pasywach lub aktywach)
+- Czas umowy(krótkoterminowe bądź długoterminowe)
+- Moment rozpoczęcia(odłożone lub rozpoczęte wraz z początkiem umowy)
+- Wielkość i zmienność kwoty podstawowej(dopasowane, zaliczkowe, amortyzowane, o zmiennej kwocie kontraktu)
+- Waluta(jednowalutowe, dwuwalutowe)
+- Moment zakończenia(zamykane w terminie, z prawem przedłużenia terminu zamknięcia, z prawem wcześniejszego zamknięcia)
+- Rodzaj transakcji(proste, modyfikowane)
+- Instrument dostosowany do indywidualnych potrzeb partnerów kontraku.
+
+
+####Ograniczenia na rynku swapów:
+Aby zawrzeć transakcje, potencjalny partner musi znaleźć stronę przeciwną. Zmiana warunków kontraktu lub wcześniejsze wygaśnięcie wymaga zgody obu partnerów. Partnerzy transakcji muszą mieć pewność, co do wzajemnej wypłacalności(nie istnieje tu instytucja gwarantująca obu stronom wypełnienie warunków kontraktu). 
+
+###Podstawowe rodzaje kontraktów swapowych oraz przykłady obliczeniowe
+####Swapy pierwszej generacji:
+
+**1.	Currency swap (FXswap)-Swap walutowy**
+
+Umowa na mocy której dwie strony mają zamiar wymienić miedzy sobą określoną kwotę. Powyższa wartość musi być wyrażona w jednej walucie na równowartość tej kwoty w innej walucie. Po upływie określonego czasu trzeba dokonać transakcji zwrotnej. Ten rodzaj swapu pozwala nam już dziś ustalić przyszły kurs transakcji walutowej. To narzędzie świetnie może służyć do zabezpieczenia nas przed ryzykiem kursowym
+
+*Przykład:*
+
+Mamy dwie instytucje, A i B, które mają zamiar zaciągnąć kredyt w dwóch różnych walutach. Kredyt można wziąć przy stałej bądź zmiennej stopie procentowej. Obie instytucje otrzymały poniższe oprocentowanie:
+
+A-	EUR 7% lub USD (LIBOR +0,5%)
+
+B-	EUR 8% lub USD (LIBOR +0,5%)
+
+Strona A będzie preferowała kredyt w dolarach ale przy zmiennej stopie procentowej natomiast druga storna w euro przy stałej stopie zwrotu. Jeżeli obie strony chcą uzyskać korzyści, które będą związane ze swapem muszą postąpić odwrotnie. Instytucja A weźmie kredyt w euro przy stałej stopie a instytucja B kredyt w dolarach przy zmiennej stopie procentowej. Ważną informacją jest wielkość kredytu, która jest taka sama w obu przypadkach. Kolejnym krokiem jest podjęcie swapu walutowego z dealerem swapu. Zaraz po zaciągnięciu kredytu obie strony mają za zadanie zamienic się otrzymanym kapitałem za pośrednictwem dealera swapu. Następuje otrzymanie kredytu w dolarach przez instytucję A oraz kredyt w dolarach dla instytucji B. Strona A musi zapłacić dealerowi odsetki w wysokości LIBOR w zamian otrzymuje odsetki w wysokości 6,95%. Sytuacja dotycząca strony B jest odwrotna. Strona B płaci odsetki dealerowi w wysokości 7,95%. Dealer swapu osiąga dochód w wysokości 0,1% a obydwie strony  otrzymują kredyt w walutach, o których wspomniałam na początku. 
+
+**2.	  Interest rate swap (IRS) – swap procentowy**
+
+Umowa zawarta pomiędzy stroną A i stroną B, na mocy której strony zobowiązują się do wymiany płatności odsetkowych. Liczone one są od uzgodnionej sumy kapitałowej oraz  dla ustalonego okresu. Możemy wyróżnić tu dwa rodzaje: Coupon swap(Strona B zobowiązuję się wypłacać stornie A przez daną liczbę lat sumy, które są równe oprocentowaniu wartości nominalnej swapu. W tym samym czasie strona A zobowiązuje się wypłacać stronie B sumy, które równe są oprocentowaniu od tej  samej kwoty. Warto zauważyć że waluty obu strumieni są takie same) oraz Basic swap(Wymiana płatności odsetkowych, które liczone sa względem różnych zmiennych stóp procentowych). 
+
+*Przykład:*
+
+Swap ma obejmować 4 lata oraz wiążę się z corocznymi wypłatami odsetek od kapitału 1 mln Euro.  Strona A zobowiązała się do płacenia stronie B  stałego oprocentowania w wysokości 10%. Jeżeli chodzi o stronę B zobowiązuję się ona do płacenia stronie A zmiennego oprocentowania ustalonego jako LIBOR +2 %. Po przeczytaniu tego opisu wiemy, że instytucja A płaci co roku instytucji B – 100000 Euro(10%*1mln Eur). Płatności storny B uzależnione sa od ruchów LIBOR. Teoretycznie obie strony wymieniają między sobą również kwotę 1 mln Euro, co praktycznie nie miałoby sensu. W efekcie kwoty nominalne stanowiące podstawę oprocentowania nie są wymieniane. Mają one na celu decydowanie o płatnościach odsetkowych. W rzeczywistości kapitały nie są wymieniane (kapitały referencyjne), używa się je jedynie do obliczeń. Nie są one przedmiotem rzeczywistego transferu. Znając wielkość kapitału możemy policzyć rzeczywiste coroczne przepływy gotówkowe między dwiema stronami transakcji. Załóżmy, że w momencie pierwszej płatności LIBOR wynosi 9 procent. Oznacza to, iż strona A będzie zobowiązana zapłacić stronie B sumę 100 000 EURO. Strona B natomiast będzie winna stronie A 110 000 EURO. Łącznie, po uzgodnieniu zobowiązań, strona B musi zapłacić 10 000 EURO stronie A. W istocie dokonywana jest jedynie płatność netto, czyli wypłata różnicy między zobowiązaniami. 
+
+**3.	Cross currency interest rate swap(CIRS) – swap walutowo - procentowy**
+
+Transakcja wymiany kwot kapitału I płatności odsetkowych w różnych walutach pomiędzy dwoma instytucjami. Inna definicja, która jest dość znana to wymiana wartości nominalnej pożyczki oraz jej oprocentowania  w jednej walucie na wartość nominalna pożyczki wraz z oprocentowaniem w innej walucie. 
+
+####Przykłady Swapów drugiej generacji:
+
+**1.	Amortising swap(swap amortyzowany)**
+
+Ten SWAP charakteryzuje się tym, że wartość nominalna kontraktu systematycznie zmniejsza się zgodnie z tabelą amortyzacji pożyczki. Warto podkreślić, że stawka oprocentowania nie zmieni się, natomiast zmiana nastąpi dl akwoty kapitału. Przykład:Przedsiębiorca A otrzymał kredyt na 5 lat w wysokości 40 mln USD. Odsetki będą płacone według zmiennej stopy procentowej. Przedsiębiorca obawia się wzrostu oprocentowania pożyczki, w tym przypadku podjął on się zawarcia z bankiem transakcji SWAP. Wartość  nominalna kontraktu będzie redukowana o 10 mln USD co rok, aż do uzyskania wartości 0 USD po 4 latach. Przedsiębiorca będzie płacił stałe odsetki w zamian za otrzymanie zmiennego oprocentowania. Bank będzie musiał skonstruować i wycenić tę transakcję poprzez zawarcie 4 SWAPów(każdy o wartości nominalnej 10 mln USD i każdy na 1 rok). Wartość bieżąca netto stałych i zmiennych płatności odsetkowych 4 swapów wyznacza cenę amortising swap.
+
+**2.	Accreting swap(swap zaliczkowy)**
+Wysokość kwoty kapitału systematycznie rośnie w okresie trwania umowy. Podobnie jak w wycenie amortising swap. 
+
+Literatura
+*„Inwestycje: instrumenty finansowe, ryzyko finansowe, inżynieria finansowa” –* *K. Jajuga, T. Jajuga; wydawnictwo PWN; Warszawa 1996*
+*„Podstawy inwestowania na giełdzie” praca zbiorowa – wydawnictwo: Giełda* *Papierów Wartościowych w Warszawie;*
+*http://coin.wne.uw.edu.pl/rslepaczuk/fin-II_swapy.pdf*
+

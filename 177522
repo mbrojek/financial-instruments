@@ -1,0 +1,153 @@
+---
+title: "Konktrakty SWAP"
+author: "Jakub Lipski"
+date: "22 pazdziernika 2015"
+output: html_document
+---
+
+# Kontrakty Swap
+
+## Definicja
+
+  Kontrakty *SWAP* na rynkach pojawiły się w początku lat 80. ubiegłego stulecia. Od tego czasu a zwłaszcza w ostatnich kilkunastu latach obserwuje sie dynamiczny rozwoj tych instrumentów. Obecnie stały sie one najczęsciej stosowanym instrumentami transferu ryzyka.
+
+Pojęcie *swap* pochodzi z języka angielskiego i oznacza wymianę,przehandlowanie. Kontrakt *swap* jest umową zawieraną między dwoma lub więcej stronami, dotyczącą wymiany przyszłych płatności według wcześniej określonych zasad. Płatności te, związane są zwykle z instrumentami dłużnymi lub walutami obcymi.
+
+Swap pomaga zarządzać aktywami i pasywami firmy lub banku. Pozwala na dokonywanie inwestycji lub zaciąganie pożyczek na rynkach, które normalnie byłyby niedostępne lub zbyt kosztowne. Jest wykorzystywany do ograniczania ryzyka stóp procentowych lub wymiany walutowej.
+
+Transakcje swap tworzą wraz z transakcjami forward, opcjami, kontraktami futures rodzinę instrumentów pochodnych, zwanych derywatami. 
+
+  Kontrakty *SWAP* występują w zasadzie jedynia poza giełdami.Można je traktować jako ougólnienie kontraktu forward a ściślej jako portfel (złożenie) kontraktów forward o różnych terminach realizacji.
+Należy zwrócic uwagę, że isniteje wiele różnych rodzajów kontraktów dla których przyjęta jest nazwa *swap*, nie jest przeto łatwe podanie uniwersalnej definicji tego instrumentu. Przyjmę uproszczone określenie dotyczące podstawowych rodzajów *swap*.
+  Kontrakt *swap* jest to instrument finansowy w którym każda ze stron dokonuje w ustalonych terminach w przyszłości serii płatności na rzecz drugiej strony kontraktu przy czym co najmniej jedna seria płatności zależy od wartości indeksu podstawowego. Dodajmy, że często w ustalonych terminach występuje tylko jeden przepływ pieniężny będący różnicą między przepływami pieniężnymi płaconymi przez obie strony - jest to przepływ pieniężny netto.
+  
+  Jak widać określenie to jest bardzo ogólne można jednak wryróżnic dwie istotne cechy tego kontraktu:
+  
+1. jest więcej niż jeden ustalony termin, zwany terminem rozliczenia;
+2. jest określony jako indeks podstawowy;
+  
+  Podobnie jak w przypadku pozostałych instrumentów pochodnych tak i tutaj indeks podstawowy odzwierciedla  rodzaj ryzyka do transferu którego *swap* jest wykorzystany.
+  Istotę funkcjonowania swap przedstawię na przykładzie najbardziej popularnego kontraktu. Jest to *swap na stopę procentową* (*interest rate swap*- IRS) Indeksem podstawowym jest tutaj stopa procentowa (w tym przykładzie jest to WIBOR).
+  
+```
+PRZYKŁAD 1
+```
+
+W *swap na stope procentową* występują dwie strony, oznaczmy je przez **A** i **B**. Określone są następujące charakterystyki kontraktu:
+
+* wartość nominalna - jest to wartość od której oblicza się płatności; przyjmijmy, że jest to 1 000 000 zł;
+* termin wygaśniecia - przyjmijmy że jest to 5 lat;
+* termin rozliczenia - przyjmijmy że przypadają one co pół roku;
+* stopa referencyjna kontraktu - jest to nic innego jak indeks podstawowy w tym instrumencie pochodnym, w naszym przykładzie jest to 6-miesięczna stopa WIBOR;
+* ustalona strona kontraktu - przyjmijmy że wynosi 5%.
+
+Rysunek przedstawia płatności dokonywane przez obie strony w okresach półrocznych przez 5 lat; łącznie zatem jest 10 płatności.
+
+![image](/Users/kuba/Desktop/Projekt Eko Fin/Rysunek1.jpg)
+
+**Rysunek 1** *Swap na stopę procentową*
+
+W tym kontrakcie strona A dokonuje płatności na rzecz strony B według stałej stopy procentowej równej 5%. Oznacza to, że w każdym półroczu przepływ pieniężny wynosi 25 000 zł (2,5% w skali półrocznej od 1 000 000 zł). Z kolei strona B dokonuje płatności na rzecz strony A według zmiennej stopy procentowej WIBOR (6-miesięczny). 
+
+W praktyce, jak wskazywaliśmy, występuje jedynie płatność netto. Możliwe są przy tym trzy sytuacje. Należy zwrócić uwagę, że istnieje wiele różnych rodzajów kontraktów dla których przyjęta jest nazwa swap, nie jest przeto łatwe podanie uniwersalnej definicji tego instrumentu. Tutaj przyjmiemy uproszczone określenie dotyczące podstawowych rodzajów swap.
+
+
+1. W danym terminie rozliczenia zminenna stopa referencyjna jest wyższa niż stopa kontraktu np. wynosi 6%. Wtedy płatność netto dokonywana jest przez strone B i płatność ta w naszym przykładzie wynosi 5000 zł. tj. (3% - 2,5%) * 1 000 000 zł.
+2. W danym terminie rozliczenia zmienna stopa referencyjna jest niższa niż stopa kontraktu, np . wynosi 4,2%. Wtedy płatność netto dokonywana jest przez stronę A i płatność ta w naszym przykładzie wynosi 4000 zł, tj. (2,5% - 2,1%) * 1 000 000 zł.
+3. W danym terminie rozliczenia zmienna stopa referencyjna jest równa stopie kontraktu, tzn. wynosi 5%. Wtedy nie jest dokonywana żadna płatność, gdyż przepływy pieniężne obu stron kompensują się wzajemnie.
+
+Zauważmy, że tak skontruowany kontrakt może być potraktowany jako seria 10 kontraktów forward, w których indeksem podstawowym jest stopa procentowa, a które rozliczane są co pół roku.
+
+*Swap* na stopę procentową jest często stosowany na potrzeby transferu ryzyka stopy procentowej. Zasada jest tu bardzo prosta:
+* jesli podmiot otrzymuje płatnosci według  zmiennej stopy procentowej, a zatem jest narażony na ryzyko spadku stopy procentowej, to powinien w kontrakcie swap zająć pozycje otrzymującego  płatności według stałej stopy procentowej,
+a dokonującego płatności według zmiennej stopy procentowej.
+* jeżeli podmiot dokonuje płatności według zmiennej stopy procentowej, a zatem jest narażony na ryzyko wzrostu stopy procentowej to powinien w kontrakcie swap zając pozycję dokonjącego płatności według stałej stopy procentowej, a otrzymującego płatności według zmiennej stopy procentowej.
+
+W praktyce jedną ze stron kontrkatu swap jest bank. Banki oferują te kontrakty, zajmują jednocześnie długą i krótką pozycję. Warunkiem jest to , że w obu kontraktach jest ten  sam instrument podstawowy.
+Przykład, w którym bank zawarł jednocześnie dwa kontrakty swap:
+
+```
+PRZYKŁAD 2
+```
+
+Rozpatrujemy kontrkaty swap oferowane przez pewien bank. Przyjmijmy, że wartość nominalna kontraktu równa jest 100 000zł, termin wygaśnięcia to 5 lat, płatności są co pół roku, a stopa referencyjna kontraktu to WIBOR (6 - miesięczny)
+Bank podaje oferty stopy kontraktu w odniesieniu do pozycji długiej i krótkiej (są to kwotowania bid/ask); wynoszą one 5,9 % oraz 6,1 %. Bank jednocześnie zajmuje długą i krótką pozycję, zawierając kontrkaty z podmiotem A i podmiotem B. 
+Rysunek przedstawia płatności dokonywane przez trzy strony w dwóch kontraktach, przy czym płatności są w okresach półrocznych przez 5 lat, łącznie zatem jest 10 płatności.
+
+![image](/Users/kuba/Desktop/Projekt Eko Fin/Rysunek2.jpg)
+
+**Rysunek 2** *System dwóch kontraktów swap na stopę procentową*
+
+Z rysunku wynikają następujące wnioski:
+* zostały zawarte dwa kontrkaty swap przy czym bank zajął w każdym z nich odwrotną pozycję.
+* Strona A zabezpieczyła się przed spadkiem stopy procentowej
+* Strona B zabezpieczyła się przed wzrostem stopy procentowej
+* w obu kontrkatach bank łącznie zysukje 0,2 % w skali rocznej.
+
+**Swap na stopę procentową** jest zdecydowanie najbardziej popularnym rodzajem konktratu swap . Występują jednak także inne rodzaje kontraktów tego typu:
+Swap walutowy (currency swap) jest to konktrakt w którym płatnosci obu stron są w różnych walutach a ponadto mogą być  to płatności  według  stałej lub zmiennej stopy procentowej.
+Jeśli pod uwagę weźmiemy stronę A, która otrzymuje płatności w krajowej walucie to można wyróżnic cztery podstawowe rodzaje swapu walutowego:
+
+* strona A otrzymuje płatności w krajowej walucie według stałej stopy procentowej a dkonuje płatności w obcej walucie według stałej stopy procentowej;
+* strona A otrzymuje płatności w krajowej walucie według stałej stopy procentowej a dokonuje płatności w obcej walucie według zmiennej stopy procentowej;
+* strona A otrzymuje płatności w krajowej walucie według zmiennej stopy procentowej a dokonuje płatności w obcej walucie według stałej stopy procentowej;
+* strona A otrzymuje płatności w krajowej walucie według zmiennej stopy procentowej a dokonuje płatności w obcej walucie według zmiennej stopy procentowej.
+
+Zasadę funkcjonowania swapu walutowego przedstawie na przykładzie czwartego z wymienionych powyżej rodzajów, przy czym w podanym przykładzie walutą krajową jest złoty a obcą zaś EURO.
+
+```
+PRZYKŁAD 3
+```
+
+Przedsiebiorstwo polskie zawiera kontrakt swap z bankiem. Termin wygaśnięcia tego kontraktu to 3 lata, a płatności dokonywane są co pół roku. W momencie zawarcia tego konktratu kurs walutowy wynosi 4 zł za euro. Wartość nominalna konktraktu to 4 mln zł , czyli 1 mln euro.
+Stopy procentowe określone w swapie to WIBOR (dla złotego) i EURIBOR (dla euro). Schemat działania konktraktu przedstawiony został na rysunku.
+
+![image](/Users/kuba/Desktop/Projekt Eko Fin/Rysunek3.jpg)
+
+**Rysunek 3** *Swap walutowy*
+
+Działanie swapu walutowego przebiega w trzech etapach. Pierwszy etap jest w momencie zawracia konktratu. Wtedy strona A płaci bankowi 4 mln zł, a otrzymuje od banku 1 mln euro - czyli następuje wymiana kapitału.
+Drugi etap to dokonywanie płatności zależnych od stóp procentowych w kolejnych półroczach przez 3 lata w sumie 6 płatności. Strona A dokonuje płatności zależnych od stopy EURIBOR, w bank płatności zależnych  od stopy WIBOR. Trzeci etap jest w momencie wygaśnięcia konktraktu. Wtedy strona A płaci bankowi 1 mln euro, otrzymuje zaś od banku 4mln zł.
+Jak widać płatności trzeciego etapu to odwrócenie płatności pierwszego etapu.
+
+Tabela przedstawia płatności drugiego etapu w zależności od kształtowania się wartości stóp WIBOR i EURIBOR.
+
+Okres  | WIBOR (%) | EURIBOR (%) | Płatność w zł| Płatność w EUR
+------ | --------- | ----------- | ------------ | --------------
+1      | 5,1%      | 2,2%        | 102000       | 11000         
+2      | 5,2%      | 2,3%        | 104000       | 11500         
+3      | 5,2%      | 2,1%        | 104000       | 10500
+4      | 4,8%      | 2,0%        | 96000        | 10000
+5      | 4,6%      | 2,2%        | 92000        | 11000
+6      | 4,7%      | 2,4%        | 94000        | 12000
+
+
+**Tabela 1** *Płatności w swapie walutowym*
+
+W przedstawionym przykładzie strona A, rozliczająca się w złotych, prowadzi działalność w euro. Dzięki kontraktowi swap następuje swoista zamiana płatności w euro na płatności w złotych. Pozostałe trzy rodzaje swapu walutowego przebiegają w ten sam sposób. Zmieniają się jedynie płatności drugiego etapu (stała lub zmienna stopa). Warto zauważyć, że w swapie walutowym nie występuje rozliczenie netto płatności (tak jak to było w swapie na stopę procentową). Oprócz wymienionych czterech rodzajów swapu walutowego są jeszcze inne rodzaje i w szczególności:
+ * nie występuje drugi etap płatności, tzn. jest tylko wymiana kapitału na początku i na końcu, taki rodzaj swapu nosi nazwę FX swap (foreign exchange swap);
+ * występuje tylko drugi rodzaj płatności;
+ 
+Swap akcyjny (equity swap) jest to konktrakt, w którym jedna ze stron dokonuje płatności według stałej stopy procentowej, druga zaś według zmiennej stopy zależnej od stopy zwrotu akcji lub stopy zwrotu indeksu. Jest jedna podstawowa różnica, jeśli chodzi o określenie płatności w swapie akcyjnym w porównaniu ze swapem na stopę procentową lub walutowym, a mionowicie płatności według zmiennej stopy określane są według stopy (w tym przypadku stopy zwrotu akcji lub indeksu) z końca danego okresu, a nie z początku okresu. Poza tym zazwyczaj występuje rozliczenie netto płatności, a zatem płatność dokonuje jedna strona. 
+
+```
+PRZYKŁAD 4
+```
+
+Dwie strony zawarły hipotetyczny swap akcyjny, w którym płatności dokonywane są raz w roku. Strona A zobowiązuje się płacić 8% rocznie (od wartości nominalnej), strona B zaś zobowiązuje się płacić płatności równe stopie zwrotu indeksu WIG20.
+Jeśli stopa zwrotu WIG20 wynosi w danym roku 18%, to strona B płaci stronie A 10% (różnica między 18% a 8%). Jeśli stopa zwrotu WIG20 wynosi w danym roku -12% (strata), to strona A płaci stronie B 20% (różnica miedzy 8% i -12%). Jak widać tego typu swap stanowi bardzo dobre zabezpieczenie przed spadkiem wartości indeksu giełdowego.
+
+Swap towarowy jest to konrakt w którym jedna ze stron, dokonuje płatności według stałej stopy procentowej, druga zaś według zmiennej stopy zależnej od względnych zmian cen towarów na rynkach. Przykładem takiego swapu może być taki w którym zmienne płatności zależą od względnych zmian cen ropy naftowej.
+
+Podsumowując muszę dodać, że możliwości tworzenia różnych kombinacji instrumentów pochodnych jest więcej, w tym projekcie przedstawione zostały te najczęsciej spotykane.
+
+
+#Bibliografia
+
+Strona Narodowego Banku Polskiego <https://www.nbp.pl/publikacje/materialy_i_studia/144.pdf>
+
+Skarbnica Wiedzy Przedsiębiorców 
+<http://www.skarbiec.biz/encyklopedia/swapy.htm>
+
+Krzysztof Jajuga, Teresa Jajuga pt. "Inwestycje, Instrumenty finansowe, Aktywa Finansowe, Ryzyko finansowe, Inzynieria Finansowa"
+

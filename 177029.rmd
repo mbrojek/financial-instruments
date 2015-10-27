@@ -9,7 +9,7 @@ output: html_document
 >>Instrument finansowy jest to kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego u drugiej ze stron; jest to podstawowy przedmiot inwestycji finansowej.</span>
 <br />
 
-<center><img src="/Users/Jula/Desktop/rys1.jpg" style="border-style:solid; border-width:2px; border-color:#000000;"/></center>
+<center><img src="rys1.jpg" style="border-style:solid; border-width:2px; border-color:#000000;"/></center>
 <br />
 
 >>**Cechy instrumentu finansowego:**
@@ -50,7 +50,7 @@ W przypadku <u>*instrumentów dłużnych*</u> inwestor (pożyczkodawca) udostęp
 W przypadku <u>*instrumentów udziałowych*</u> inwestor za udostępnienie kapitału otrzymuje udziały, co wiąże się często z prawem współwłasności.<br />
 <br />
 
-<center><img src="/Users/Jula/Desktop/rys2.jpg" style="border-style:solid; border-width:1px; border-color:#00000;"/></center>
+<center><img src="rys2.jpg" style="border-style:solid; border-width:1px; border-color:#00000;"/></center>
 <br />
 
 <u>*Instrumenty transferu ryzyka*</u> są to instrumenty, w których jedna ze stron lub obie przekazują sobie ryzyko. Do instrumentów transferu ryzyka należą przede wszystkim instrumenty pochodne.<br />

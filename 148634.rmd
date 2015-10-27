@@ -1,0 +1,93 @@
+---
+title: 'Indeksy rynku'
+author: '148634'
+output: html_document
+---
+
+
+<h2>Indeksy Rynku</h2>
+
+<p>Indeks rynku (indeks giełdowy) to wskaźnik, który informuje inwestorów, w jaki sposób zmieniają się ceny, ukazuje tendencje, jakie panują na rynku w określonym czasie. Jest syntetycznym miernikiem zmian cen papierów wartościowych obejmującym wszystkie papiery wartościowe z wybranej grupy bądź danego typu.</p>
+
+<p>Najbardziej popularne na giełdach papierów wartościowych są trzy rodzaje indeksów:</p>
+
+<ul>
+<li>Indeks geometryczny, czyli geometryczna średnia cen spółek wchodzących w skład indeksu</li>
+<li>Indeks cenowy stanowiący średnią arytmetyczna cen spółek indeksu</li>
+<li>Indeks ważony kapitalizacją poszczególnych spółek indeksu, którego pomiar polega na porównaniu zmian zachodzących we wszystkich spółkach</li>
+</ul>
+
+<p>W indeksie giełdowym można wyróżnić trzy cechy, przez które indeksy różnią się od siebie. Jest to: </p>
+<ul>
+<li>ilość spółek uwzględnianych przy konstrukcji indeksu</li>
+<li>układ wag przydzielanych akcjom poszczególnych spółek</li>
+<li>metoda uśredniania stosowana przy budowie indeksu.</li>
+</ul>
+
+<p>Istnieją dwa podstawowe rodzaje indeksów giełdowych – indeksy dochodowe i indeksy
+cenowe. Indeksy dochodowe umożliwiają obserwację łącznej zmiany cen danej grupy akcji
+wraz z przypisanymi tym akcjom prawami majątkowym, tj. prawami do dywidendy czy też
+prawami poboru akcji; pozwalają łatwo ocenić rentowność inwestycji giełdowych przez
+porównanie ich do innych form lokowania kapitału. Indeksy cenowe bazują jedynie na
+odnotowywaniu zmian cen akcji.</p>
+
+<p>Ważny jest też podział mierników koniunktury giełdowej na indeksy szerokiego portfela oraz
+indeksy wąskiego portfela. Te pierwsze uwzględniają wszystkie spółki z danego rynku. Te
+drugie odnoszą się do wybranej grupy spółek. </p>
+
+
+<h2>Sposoby obliczania indeksów rynku</h2>
+
+<b>Metoda szacowania indeksu ważonego kapitalizacją rynkową:</b>
+
+$$ WIG_{t}=\frac{M_{t}*K_{t}*1000}{M_{0}}
+
+<p>gdzie:</p>
+
+<ul>
+<li>M(t) - kapitalizacja bieżąca,</li>
+<li>M(0) - kapitalizacja bazowa,</li>
+<li>K(t) - współczynnik korygujący,</li>
+<li>1000 - umowanie przyjęty poziom indeksu w dniu bazowym</li>
+</ul>
+
+<p>Tą metodą został obliczony indeks WIG20 16 kwietnia 1994 r.Jest on wyznaczany na podstawie wartości portfela akcji 20 największych i najbardziej płynnych spółek z rynku głównego GPW. </p>
+
+
+<b>Indeksy ważone cenami:</b>
+
+$$ DJIA^{_{t}}=\sum _{i=1}^{30}\frac{P_{it}}{d_{t}}
+
+<p>gdzie:</p>
+
+<ul>
+<li>DJIA(t) - wartość indeksu w danym momencie t,</li>
+<li>P(it) - cena i-tej akcji spółki w czasie t,</li>
+<li>d(t) - wartość dzielnika ustalona w okresie t</li>
+</ul>
+
+<b>Metodologia obliczania indeksu giełdowego – sposób uśredniania:</b>
+
+$$ I=c\frac{1}{n}\sum _{i=1}^{n}\frac{P_{it}}{P_{i0}}
+
+<p>gdzie:</p>
+
+<ul>
+<li>I - wartość obliczonego indeksu,</li>
+<li>c - stała, będąca wartością bazową indeksu,</li>
+<li>P(it) - cena i-tej akcji spółki w czasie t,</li>
+<li>P(i0) - cena i-tej akcji spółki w okresie bazowym</li>
+</ul>
+
+<h2>Bibliografia</h2>
+
+<p>Strony internetowe:</p>
+
+<a href="http://mfiles.pl/pl/index.php/Indeks_gie%C5%82dowy">Encyklopedia zarządzania</a> 
+
+<p>Literatura</p>
+
+<ul>
+<li>Dębski W., Rynek finansowy i mechanizmy jego funkcjonowania, PWN, Warszawa 2002,</li>
+<li>Miziołek T., Pasywne zarządzanie portfelem inwestycyjnym, Wydawnictwo Uniwersytetu Łódzkiego, Łódź 2013.</li>
+</ul>

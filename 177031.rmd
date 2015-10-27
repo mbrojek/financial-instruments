@@ -1,0 +1,125 @@
+#### Kontrakty terminowe
+
+- **Kontraktami terminowymi** nazywamy instrumenty finansowe typu transakcji pochodnej. W ramach danej transakcji zawierana jest umowa pomiędzy dwiema stronami, z których jedna ze stron zobowiązuje się do kupna określonego instrumentu bazowego po dokładnie określonej cenie i w ściśle określonym terminie, a druga strona do sprzedaży tego instrumentu na tych samych warunkach. Cena, termin i wielkość ustalane są w momencie zawarcia transakcji. Wystawiający kontrakt zajmując *pozycję krótką* (sprzedając instrument bazowy) zobowiązuje się do dostarczenia przedmiotu kontraktu jednocześnie oczekując, że przyszła cena instrumentu bazowego na rynku kasowym będzie niższa od ceny, po jakiej zobowiązał się dostarczyć instrument bazowy w dniu zawarcia umowy. Natomiast nabywca kontaktu otwierając *pozycję długą* (kupując instrument bazowy)oczekuje sytuacji odwrotnej, czyli, że przyszła cena przedmiotu kontraktu będzie na rynku wyższa od ceny wykonania kontraktu, dzięki czemu będzie mógł zrealizować zysk wynikający z różnicy tych cen sprzedając od razu dany instrument bazowy. Obie strony zobowiązane są do wywiązania się z warunków umowy nie zważając na to czy dana transakcja jest dla nich korzystna czy jednak przyniesie stratę.
+
+    Instrumentami bazowymi mogą być w zasadzie dowolne wartości, które można wyliczyć w sposób nie budzący wątpliwości, np. akcje, waluty, indeksy giełdowe.
+
+    *Otwarciem pozycji* na rynku kontaktów terminowych nazywa się wejście inwestora na rynek, czyli każdorazowy zakup lub sprzedaż kontraktów terminowych. Każda ze stron ma możliwość likwidacji otwartej pozycji przed dniem wygaśnięcia kontraktu poprzez zamkniecie pozycji. *Zamykanie pozycji* polega na tym, że inwestor, który nabywa kontrakt powinien go sprzedać, natomiast sprzedający kontrakt powinien go nabyć.
+
+    Wyróżnia się dwa rodzaje kontraktów terminowych- kontrakty terminowe forward oraz kontrakty terminowe futures. 
+    
+____
+
+- **Kontrakty forward** są kontaktami terminowymi zawieranymi bezpośrednio między dwiema stronami na rynkach nieregulowanych. Nie podlegają standaryzacji- ich warunki mają charakter negocjowany i są indywidualnie ustalane przez strony kontraktu. Cechuje je więc większe ryzyko niewywiązania się z warunków umowy przez jedną ze stron transkacji.
+
+    Zysk lub strata nabywcy kontraktu forward wynosi:
+    
+    $\frac{Zysk}{strata}=(cena\:natychmiastowa-cena\:wykonania)*liczba\:instrumentu\:bazowego$.
+
+    Zysk lub strata sprzedawcy kontraktu forward wynosi:
+    
+    $\frac{Zysk}{strata}=(cena\:wykonania-cena\:natychmiastowa)*liczba\:instrumentu\:bazowego$.
+
+    Kontrakty forward to nie tylko indeksy i akcje. Równie popularne są kontrakty walutowe. Stąd warto byłoby wiedzieć jak podejść do ich wyceny. Nie jest to trudne. W rzeczywistości powinien wystarczyć nam do tego jeden wzór. Przedstawiam go poniżej. Następnie omówię go na przykładach.
+    Wzór na wycenę walutowego kontraktu forward przyjmuje następującą postać:
+
+    $F = S\frac{1+rT}{1+r_{f}T}$
+
+    F – cena terminowa kontraktu forward
+
+    S – kurs spot waluty
+
+    r – krajowa stopa procentowa, najczęściej wolna od 
+
+    $r_{f}$ – zagraniczna stopa procentowa, najczęściej wolna od ryzyka
+
+    T – ilość okresów (najczęściej lat)
+    
+____
+
+- **Kontrakty futures** w odróżnieniu od kontraktów forward  są notowane na rynkach giełdowych oraz podlegają standaryzacji, czyli są szczegółowo regulowane przez rynek, a ich warunki nie podlegają negocjacjom (wyjątek stanowi cena) oraz zmianom. Ryzyko kredytowe tych kontraktów jest bardzo małe, ponieważ strony transakcji wnoszą depozyt zabezpieczający. Jeżeli różnica między wartościami depozytu a bieżącą ceną kontraktu uplasuje się na poziomie niższym od pewnego uzgodnionego minimum to inwestor powinien złożyć dodatkowe zabezpieczenie, w przeciwnym wypadku jego pozycja ulegnie zamknięciu.
+Podstawowa formuła wyceny kontraktu futures jest następująca:
+
+    $F = S\left ( 1+\frac{r}{t} \right )$
+    
+    F– cena terminowa
+    
+    S– wartość bieżąca instrumentu bazowego
+
+    r – stopa procentowa wolna od ryzyka w stosunku rocznym
+
+    t – czas do wygaśnięcia kontraktu terminowego w latach
+    
+    W zależności od typu kontraktu i przewidywanych wydarzeń powyższa formuła może ulegać modyfikacjom – jednym z często wykorzystywanych wzorów jest m.in.
+    
+    $F = S\left ( e^{rT}\right )$
+    
+    gdzie T – czas do wygaśnięcia kontraktu terminowego w latach, przy innych oznaczeniach jak powyżej.
+    
+    Najczęściej występującymi kontraktami terminowymi na rynkach giełdowych są kontrakty, których wykonanie następuje poprzez wypłacenie kwoty rozliczenia, a nie przez dostawę instrumentu bazowego. Jeżeli w dniu wygaśnięcia kontraktu jego cena rozliczeniowa jest wyższa od ceny zawarcia kontraktu, wówczas płatność na rzecz nabywcy dokonuje wystawca kontaktu, natomiast jeżeli cena rozliczeniowa jest niższa od ceny zawarcia kontraktu to płatności dokonuje nabywca kontraktu na rzecz jego wystawcy. W celu uzyskania wartości pieniężnej kontraktu (tj. wartości określonych ilości instrumentów bazowych) cenę rynkową należy pomnożyć przez odpowiednik mnożnik. W Polsce najbardziej popularne są kontrakty terminowe na indeksy, a w szczególności na indeks WIG20, chociaż notowane są również kontrakty na MIDWIG i TechWIG oraz kontrakty na akcje, obligacje i waluty (euro i dolar amerykański).
+    
+    Kontrakty terminowe występują w seriach, obejmujących instrumenty mające w szczególności ten sam instrument bazowy i ten sam termin wygaśnięcia, każda notowana przez okres 9 miesięcy. Kontrakty mają terminy wygaśnięcia w marcu, czerwcu, wrześniu i grudniu. Równolegle notowane są trzy serie kontraktów różniące się wyłącznie terminem wygaśnięcia. Na sesji giełdowej następującej po wygaśnięciu danej serii kontraktów do obrotu wprowadzana jest nowa seria danego kontraktu. Kiedy wygasa kontrakt marcowy, pojawia się kontrakt grudniowy, potem wygasa czerwcowy, a pojawia się marcowy itd.
+    
+____    
+
+- **Przykłady**
+
+    **Przykład 1.** Kurs spot wynosi 4,2 zł za 1 euro. Stopa procentowa wolna od ryzyka w Polsce wynosi 4%, a w strefie euro 1,5%. Obliczyć wartość 9-miesięcznego kontraktu forward na euro.
+    
+    $F = 4,2\frac{1+0,04*0,75}{1+0,015*0,75}=4,27zł$
+    
+    **Przykład 2.**  Kurs kontraktu  na WIG20 oscyluje wokół poziomu indeksu WIG20.Załóżmy, że Inwestor zajmuje dziś  pozycję długą na kontrakcie zaś kurs zamknięcia z poprzedniej sesji wyniósł 2500 pt. Wartość kontraktu to:  kurs kontraktu*10 zł =  25 000 zł.
+    Inwestor wnosi depozyt zabezpieczający w wysokości   5,00 % wartości kontraktu z poprzedniego zamknięcia, czyli 1250 zł. Jeżeli kurs kontraktu wzrośnie o 2% czyli wyniesie 2550, to zysk kwotowy inwestora wyniesie tyle, ile wynosi wzrost wartości kontraktu, czyli
+    
+    $2550*10 zł - 25000 zł = 500 zł$.
+    
+    Zysk procentowy wyniesie 
+    
+    $(\frac{500}{1250})*100% = 40%$ 
+    
+    (20 - krotność  zmiany procentowej  kursu kontraktu)
+    Do poprzedniego stanu depozytu dopisana jest kwota 500 zł.
+    Nowa wartość depozytu wynosi 1750 zł, co stanowi 6,86% nowej wartości kontraktu –  25500 zł. Depozyt może być zredukowany do kwoty równej 5% nowej wartości kontraktu. Inwestor  może wyprowadzić kwotę 475 zł.
+Jeżeli kurs kontraktu spadnie o 2% o poziomu 2450, to kwota straty inwestora wyniesie  tyle,  ile wynosi utrata wartości kontraktu, czyli  
+
+    $25 000 zł  -  2450*10 zł = 500 zł$.  
+
+    Strata  procentowa  wyniesie  
+    
+    $(\frac{500}{1250})*100% = 40%$
+    
+    ( 20 - krotność  zmiany procentowej kursu kontraktu )
+Od poprzedniego stanu depozytu odjęta jest kwota 500 zł, nowa wartość depozytu wynosi 750 zł, co stanowi 3,06% nowej wartości kontraktu  (24 500 zł).
+    Depozyt musi być uzupełniony do kwoty stanowiącej 5% nowej wartości kontraktu, czyli do kwoty 1225 zł. Należy dopłacić 475 zł.
+    
+    *Uwaga 1.* Wartość kontraktu zmienia się w ujęciu procentowym tak jak kurs kontraktu
+    
+    *Uwaga 2.* Zyski i straty  inwestora zajmującego krótką pozycję są odwrotne do zajmującego pozycję długą.
+    
+    **Przykład 3.** Inwestor kupił 5 kontraktów terminowych na akcje PKN Orlen po kursie 48,20 PLN. Po upływie dwóch tygodni sprzedał posiadane kontrakty po kursie 51,80 PLN. Oblicz stopę zwrotu inwestora po opodatkowaniu, jeżeli jeden kontrakt opiewa na 100 akcji PKN Orlen, wysokość wstępnego depozytu zabezpieczającego dla inwestora wynosi 9,0%, a prowizja od transakcji wynosi 20 PLN za jeden kontrakt.
+
+    Zysk wynosi: 
+    
+    $5*100(51,80-48,20)-2*5*20=1600$
+
+    Zainwestowany kapitał:
+
+    $0,09*5*48,2*100+5*20=2264$
+
+    Osiągnięta stopa zwrotu:
+
+    $\frac{1600}{2264}\approx 0,71$
+    
+    **Przykład 4.** Rolnik zawarł kontrakt z pośrednikiem na sprzedaż za 3 miesiące zbiorów pszenicy po cenie 450 PLN za tonę. Była to cena rynkowa w dniu zawarcia kontraktu. W dniu rozliczenia transakcji okazało się, że w ciągu tych 3 miesięcy doszło do klęski żywiołowej, w wyniku której podaż pszenicy została ograniczona kilkunastokrotnie, cena zaś wzrosła do 650 PLN za tonę. Rezultat transakcji okazał się korzystny dla pośrednika, który zabezpieczył sobie cenę 450 PLN i tym samym może zrealizować zysk nie tylko na marży za sprzedaż, ale dodatkowo na zabezpieczeniu na kontrakcie terminowym.
+    Gdyby jednak przez 3 miesiące od zawarcia kontraktu okazało się, że pogoda była wyjątkowo dobra, a pszenica obrodziła jak nigdy, podaż natomiast przerastałaby popyt, a cena spadła do 250 zł za tonę, wówczas rolnik uchroniłby się przed poniesieniem straty, gdyż pośrednik zobowiązany jest odkupić od niego pszenicę po wcześniej umówionej cenie 450 zł za tonę.
+    Rolnik, który zawarł kontrakt terminowy na sprzedaż pszenicy, osiągnie jednakowy zysk – niezależnie od tego, czy cena rynkowa pszenicy w dniu realizacji transakcji wzrośnie, czy też spadnie. Ideą bowiem kontraktu terminowego jest zabezpieczenie przed ryzykiem zmiany w przyszłości ceny danego towaru. Należy zauważyć, że rolnik zawrze kontrakt terminowy na sprzedaż pszenicy tylko po takiej cenie, jaka będzie opłacalna z jego punktu widzenia (tj. 450 zł za tonę). Gdyby rolnik nie zawarł kontraktu terminowego, to w przypadku wzrostu ceny pszenicy uzyskałby zarobek wyższy niż planował, ale w przypadku spadku ceny poniósłby stratę.
+    
+____
+
+- **Źródła**
+
+    - nbportal.pl
+    - bossa.pl
+    - knf.gov.pl
+    
+____

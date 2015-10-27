@@ -1,0 +1,175 @@
+#KONTRAKTY TERMINOWE FORWARD I FUTURES
+
+
+
+##Wstęp
+
+
+
+
+**Kontrakt terminowy** jest umową pomiędzy dwiema stronami, z których jedna zobowiązuje się do nabycia a druga do sprzedaży w ściśle określonym, przyszłym terminie po ściśle określonej w momencie zawarcia transakcji cenie, ustalonej ilości wystandaryzowanego instrumentu bazowego lub dokonania równoważnego rozliczenia finansowego. Kontrakty terminowe typu financial futures, do których należy kontrakt na WIG20, nie opiewają na towar fizyczny, lecz na waluty, papiery wartościowe, depozyty bankowe o stałym oprocentowaniu, czy w końcu na indeksy giełdowe.
+
+
+Jak wynika z powyższej definicji, w transakcji uczestniczy nabywca i sprzedawca kontraktu, których zapatrywania na przyszłą wartość instrumentu bazowego są odmienne.
+
+Nabywca kontraktu otwierając pozycję długą (kupując kontrakt), zobowiązuje się i jednocześnie nabywa prawo do odebrania, kupienia w przyszłości określonej ilości instrumentu bazowego po określonej cenie. Nabycie kontraktu stanowi więc zobowiązanie się do określonego działania w przyszłości. Nabywca kontraktu liczy, iż cena instrumentu bazowego w przyszłości będzie wyższa od tej, po jakiej zobowiązał się go odebrać, nabywając kontrakt terminowy i zrealizuje zysk wynikający z różnicy między ceną instrumentu bazowego w dniu wykonania kontraktu a ceną zadeklarowaną w kontrakcie. Nabywca kontraktu będzie miał bowiem prawo i obowiązek kupienia instrumentu bazowego po określonej cenie w dniu wygaśnięcia kontraktu. Jeżeli więc cena na rynku kasowym będzie wyższa niż ta, po jakiej inwestor zobowiązał się kupić instrument nabywając kontrakt, to w dniu wygaśnięcia kontraktu będzie mógł nabyć instrument bazowy po cenie niższej wynikającej z kontraktu i sprzedać drożej na rynku kasowym realizując zysk. Jeżeli zaś cena na rynku kasowym będzie niższa od ustalonej w kontrakcie, wówczas posiadacz długiej pozycji poniesie stratę.
+
+Sprzedawca kontraktu zajmując pozycję krótką (sprzedając kontrakt), zobowiązuje się a zarazem nabywa prawo do dostarczenia, sprzedania określonej ilości instrumentu na który opiewa kontrakt po określonej cenie w określonym momencie w przyszłości. Sprzedawca kontraktu podobnie jak nabywca zobowiązuje się do podjęcia ściśle określonego działania w przyszłym terminie. Sprzedawca kontraktu w odróżnieniu od nabywcy zakłada, że przyszła cena instrumentu bazowego będzie niższa od ceny po jakiej zobowiązał się dostarczyć instrument bazowy zgodnie z warunkami kontraktu. Jeżeli jego przewidywania się sprawdzą i cena na rynku kasowym będzie niższa od ustalonej w kontrakcie, to posiadacz pozycji krótkiej będzie mógł kupić papiery taniej na rynku natychmiastowym i sprzedać drożej wykonując swoje zobowiązania wynikające ze sprzedaży kontraktu. Jeżeli natomiast cena instrumentu bazowego ustali się na poziomie wyższym od ustalonego w kontrakcie, klient wykonując swoje zobowiązanie poniesie stratę. Będzie zmuszony kupić instrument bazowy na rynku kasowym drożej i odsprzedać taniej wykonując swoje zobowiązanie wynikające z kontraktu. 
+
+
+##Podział kontraktów terminowych
+ 
+ 
+ 
+  
+Kontrakty terminowe dzielą się na kontrakty **forward** oraz kontrakty **futures**. Różnica między nimi polega na tym, że futures jest produktem standaryzowanym zawieranym przez pośrednika (na giełdach lub w izbach rozliczeniowych), a forward jest tailor-made (szyty na miarę) i zawierany na rynku pozagiełdowym, bezpośrednio między kontrahentami
+
+
+
+##Charakterystyka kontraktu forward
+
+
+
+I. Warunki kontraktu są uzgadniane między stronami i mogą to być:
+- rodzaj i jakość towaru,
+- wielkość kontraktu,
+- cena kontraktu (towaru),
+- termin wykonania kontraktu,
+- miejsce dostawy,
+- sposób rozliczenia,
+- depozyt zabezpieczający.
+
+II. Zazwyczaj dochodzi do rzeczywistej dostawy towaru.
+
+III. Nie notowany na giełdzie.
+
+
+
+##Charakterystyka kontraktu futures
+
+
+
+I. Wystandaryzowane są następujące warunki kontraktu:
+- rodzaj i jakość towaru,
+- wielkość kontraktu,
+- termin wykonania kontraktu,
+- miejsce dostawy,
+- sposób rozliczenia,
+- miejsce i godziny handlu kontraktem.
+
+II. Cena kontraktu jest ustalana w drodze otwartego przetargu na giełdzie
+
+III. Obowiązkowy depozyt zabezpieczający złożony w Izbie Rozrachunkowej
+
+IV. Najczęściej nie dochodzi do rzeczywistej dostawy towaru.
+
+V. Zazwyczaj notowany na giełdzie.
+
+
+
+##Możliwości wykorzystania:
+
+
+
+**Hedging** – zabezpieczenie wartości planowanego lub obecnego portfela
+
+**Arbitraż** – wykorzystanie chwilowej nierównowagi na rynku w celu zrealizowania zysku bez ryzyka
+
+**Spekulacje** – otwieranie pozycji na rynku derywatów w celu zrealizowania zysku
+
+	
+	
+##Dźwignia finansowa
+
+
+
+Transakcje na kontraktach terminowych charakteryzują się wysoką dźwignią finansową. Inwestycją związaną z zajęciem pozycji na rynku terminowym jest depozyt wpłacany do izby rozrachunkowej. Jego wielkość jest ustalana w zależności od wartości kontraktu oraz sytuacji rynkowej. Może przyjmować on wielkość od 2% do kilkunastu procent. Udział procentowy depozytu w wartości kontraktu decyduje o stopie dźwigni finansowej. Dźwignia finansowa stanowi relację wartości aktywów objętych kontraktem do depozytu początkowego.
+
+
+
+##Rodzaje ryzyka inwestowania w kontrakty terminowe
+
+
+**Ryzyko rynkowe** – zmiany kursów potęgowane są przez efekt dźwigni finansowej (małe wahania kursów powodują duże procentowe zmiany wartości kontraktów)
+
+**Ryzyko płynności** – niska aktywność innych graczy może utrudniać zamknięcie pozycji, zwłaszcza kontraktów o odległym terminie wygaśnięcia
+
+**Ryzyko makroekonomiczne** – dotyczy kontraktów na waluty i wiąże się z wpływem polityki monetarnej na kształtowanie się kursów wymiany walut
+
+
+
+##Wycena kontraktu 
+
+
+$F = S \cdot (1 +  \frac{r}{t} )$
+
+
+F – cena terminowa
+
+S – wartość bieżąca instrumentu bazowego 
+
+r – stopa procentowa wolna od ryzyka w stosunku rocznym 
+
+t – czas do wygaśnięcia kontraktu terminowego w latach 
+
+
+Zysk (strata) nabywcy kontraktu wynosi: 
+(cena natychmiastowa - cena wykonania) * liczba zakontraktowanych jednostek
+
+Zysk (strata) sprzedawcy kontraktu wynosi: 
+(cena wykonania - cena natychmiastowa) * liczba zakontraktowanych jednostek
+
+
+
+##Przykłady
+
+
+**Przykład 1.**  Załóżmy, że inwestor sprzedaje kontrakt terminowy po kursie 200 i wartości 20000 (zobowiązuje się sprzedać 100 akcji po kursie 200).
+Jeżeli kurs instrumentu bazowego ustali się na poziomie 190, to sprzedawca zrealizuje zysk:
+
+(190 - 200) * 100 = -1000
+
+Inwestor realizuje zysk ponieważ może kupić papiery na rynku kasowym po 190 i sprzedać je, wykonując swoje zobowiązanie wynikające ze sprzedaży kontraktu , po 200.
+Każda ze stron zawierających kontrakt na parkiecie giełdy może zlikwidować otwartą pozycję nie czekając do terminu wygaśnięcia kontraktu poprzez zamknięcie pozycji. 
+
+
+
+
+
+**Przykład 2.**  Inwestor kupuje kontrakt terminowy na określony instrument po kursie 80 i wartości 800.
+Jeżeli kurs instrumentu bazowego, w dniu wykonania kontraktu, ustali się na poziomie 100, to nabywca kontraktu zrealizuje zysk w wysokości:
+
+(100 - 80) * 100 = 2000
+
+Nabywca kontraktu może kupić instrument bazowy po cenie 80, w ramach wzajemnych zobowiązań wynikających z transakcji terminowej i sprzedać natychmiast po 100.
+
+
+
+
+**Przykład 3.**  Inwestor kupuje kontrakt terminowy na określony instrument bazowy po kursie 250 i wartości 25000 . 
+Jeżeli kurs instrumentu bazowego ustali się w dniu wykonania kontraktu na niższym poziomie od zadeklarowanego w kontrakcie np. 230, to poniesie on stratę w wysokości
+
+(230 - 250) * 100 = -2000
+
+Nabywca kontraktu zobowiązany jest nabyć instrument bazowy po kursie 250, a jego wartość na rynku kasowym to 230.
+
+
+
+**Przykład 4.**  Pozycja długa: kupujący jeden kontrakt na indeks WIG20 po kursie 3.350 pkt (wartość kontraktu 33.500 PLN), wpłaca depozyt w wysokości 2.500 PLN. 
+Indeks wzrósł o 6% (3.550 pkt.). Wartość kontraktu wzrosła tym samym do 35.500 PLN. Kurs kontraktu wzrósł o 200 pkt., co powoduje wzrost jego wartości o 2.000 PLN, i tym samym osiągnięcie zysku przez posiadacza pozycji długiej. 
+
+Stopa zwrotu z tej inwestycji wynosi: 2000 PLN / 2.500 PLN = zysk 80%. 
+Posiadacz pozycji krótkiej w tej transakcji poniósł natomiast stratę w wysokości 80%.
+
+
+
+##LITERATURA
+
+
+
+
+Instrumenty pochodne – sympozjum matematyki finansowej.  Kraków UJ 1997
+
+http://bossa.pl 
+
+http://www.bankier.pl 

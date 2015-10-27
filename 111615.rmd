@@ -1,0 +1,212 @@
+---
+title: 'Projekt 1'
+date: "25 października 2015"
+output: html_document
+---
+
+***
+
+##$$Obligacje$$##
+
+### 1. Opis obligacji - co to jest i kto może emitować obligacje? ###
+
+**Obligacja** (od łac. _obligato_ – zobowiązanie, wł. – _obbligo_) jest papierem wartościowym o charakterze wierzycielskim (pożyczkowym), w którym **_emitent_** zobowiązuje się w określonym czasie i na określonych warunkach do spełnienia określonego  świadczenia (wykupu obligacji).
+
+---
+
+Emisja obligacji jest regulowana **_Ustawą o obligacjach_** z 29 czerwca 1995r. (Dz.U. nr 83, poz.420).
+
+---
+
+Ustawa o obligacjach określa podmioty, które mogą być emitentami obligacji.
+Należą do nich:
+
+- podmioty posiadające osobowość prawną i prowadzące działalność gospodarczą (np. spółki akcyjne, spółki z o.o.),
+- jednostki samorządu terytorialnego (m.in. gminy, powiaty, województwa, związki gminne oraz miasto stołeczne Warszawa),
+- banki (w trybie ustawy Prawo Bankowe),
+- inne podmioty posiadające osobowość prawną, upoważnione do emisji obligacji na podstawie innych ustaw (Skarb Państwa)
+
+### 2. Klasyfikacja i rodzaje obligacji. ###
+
+Istnieje wiele rodzajów obligacji, różniących się między sobą bardzo konkretnymi cechami i właściwościami. Obligacje dzielimy ze względu na poniższe kryteria: 
+
+#### Miejsce pochodzenia: ####
+
+- krajowe ( wyemitowane w kraju emitenta)
+- zagraniczne (emitowane w obcej walucie; obligacje podlegają przepisom prawa w kraju, w którym są emitowane)
+
+#### Podmiot emitujący: ####
+
+- skarbowe (Skarb Państwa)
+- komunalne (jednostki samorządu terytorialnego)
+- korporacyjne (spółki)
+
+#### Sposób oprocentowania: ####
+
+- o stałym oprocentowaniu (niezmienne przez cały okres)
+- o zmiennym oprocentowaniu (na podstawie np. LIBOR)
+- indeksowane (wysokość oprocentowania w stosunku do stopy inflacji)
+- obligacje zerokuponowe (bez kuponów odsetkowych)
+
+#### Zabezpieczenie: ####
+
+- zabezpieczone (hipoteką, innymi papierami wartościowymi)
+- niezabezpieczone
+
+#### Rodzaj praw, przysługujących obligatariuszowi: ####
+
+- z prawem pierwszeństwa do nabycia po określonej z góry cenie, akcji spółki z pierwszeństwem przed jej akcjonariuszami,
+- zamienne na akcje,
+- z opcją wykupu na żądanie emitenta,
+- z opcją wykupu na żądanie właściciela (obligatariusza)
+
+#### Termin wykupu: ####
+
+- krótkoterminowe, dla których termin wykupu ustalony jest na okres do roku
+- średnioterminowe, o terminie wykupu od 1 do 5 lat
+- długoterminowe, których termin wykupu jest ustalony na ponad 5 lat, w praktyce najczęściej w Polsce spotyka się obligacje 10-letnie, na rynkach zagranicznych, np. amerykańskim nawet 30 letnie.
+- obligacje wieczyste (zw. konsolami) nie są nigdy wykupywane, a ich posiadacz otrzymuje nieskończony strumień odsetek, zwany _rentą wieczystą_.
+
+Długość „życia” obligacji, czyli czas pozostający od emisji do wykupu oraz czas od ich zakupu przez inwestora do wykupu ma bardzo istotne znaczenie.
+
+---
+
+#### Obligacje korporacyjne ####
+Obligacje korporacyjne, czyli emitowane przez różnego rodzaju przedsiębiorstwa, stanowią u nas jeszcze niezbyt duży segment rynku papierów dłużnych. Do tej pory z reguły obligacje emitowane przez firmy były kupowane niemal w całości przez banki polskie lub zagraniczne. Największe emisje obligacji przeprowadzały firmy telekomunikacyjne, np. Telekomunikacja Polska czy Netia. Są one atrakcyjne dla inwestorów ponieważ ich oprocentowanie jest wyższe niż obligacji skarbowych.
+
+#### Obligacje agencji rządowych ####
+W Polsce obligacje emitowane przez różnego rodzaju agencje rządowe nie są ani zbyt liczne, ani zbyt popularne wśród inwestorów. W innych krajach o bardziej rozwiniętych rynkach finansowych maja one spore znaczenie.
+W ostatnim czasie zaczynają się pojawiać w Polsce nowe inicjatywy w tym względzie. Przykładem może być przeprowadzona przez Bank Gospodarstwa Krajowego w sierpniu 2009 r. emisja pierwszej transzy obligacji o wartości nominalnej wynoszącej 600 mln zł., z której środki zasilą Krajowy Fundusz Drogowy.
+
+#### Obligacje komunalne ####
+Obligacje komunalne to papiery dłużne emitowane bądź przez jednostki samorządu terytorialnego, czyli gminy, miast lub ich związki albo też przez firmy świadczące usługi komunalne, których właścicielem są jednostki samorządowe. Tego typu obligacje może emitować gmina np. w celu sfinansowania budowy drogi czy oczyszczalni ścieków, może też w ten sposób pozyskiwać środki miejskie przedsiębiorstwo zajmujące się dostarczaniem ciepłej wody. Tego typu papiery są obarczone ryzykiem nieco większym niż obligacje skarbowe, ale znacznie mniejszym, niż obligacje przedsiębiorstw komercyjnych.
+
+#### Obligacje zamienne ####
+Obligacje zamienne są dość specyficznym rodzajem papieru wartościowego. Oprócz zwykłych świadczeń typowych dla obligacji, czyli zobowiązania emitenta do ich wykupu oraz zapłaty odsetek, zwierają też zobowiązanie do ich zamiany, najczęściej na akcje, rzadziej zaś na inne papiery tego samego emitenta, czyli np. na inne obligacje przez niego sprzedawane.
+
+#### Obligacje zerokuponowe ####
+Choć większość inwestorów i zwykłych ciułaczy jest przyzwyczajona do tego, że kupując obligacje, odsetki, czyli wynagrodzenie za pożyczenie ich emitentowi pieniędzy, otrzymuje po pewnym czasie. W naszych warunkach najczęściej po roku. Tymczasem bardzo korzystnym rozwiązaniem może być zakup obligacji zerokuponowej, czyli takiej, której emitent nie oferuje żadnych odsetek, tylko sprzedaje ją po cenie niższej, niż cena wykupu. W praktyce oznacza to, że „odsetki” dostajemy niejako z góry. To stawia nabywcę tego typu papierów w znacznie lepszej sytuacji, niż tego, który odsetki dostaje po roku. Chodzi głównie o możliwość reinwestowania środków.
+
+...
+
+W Polsce przedmiotem obrotu najczęściej są obligacje skarbowe jako inwestycje pewne i bezpieczne ze względu na zagwarantowany wykup przez państwo. Obligacje emitowane przez podmioty mające osobowość prawną są mniej popularne ze względu na słabą znajomość rynku papierów dłużnych przez potencjalnych emitentów oraz szeroką ofertę bardziej bezpiecznych obligacji skarbowych. Z kolei banki rzadko wykorzystują obligacje do finansowania swojej działalności, a pozyskane z emisji środki przeznaczają na zwiększenie akcji kredytowej.
+
+---
+
+_**Funkcje i zadania**_ jakie spełniają obligacje można odnieść zarówno do emitenta, jak i do obligatariusza:
+
+- *funkcja pożyczkowa* - obligatariusz staje się wierzycielem emitenta, zaś emitent otrzymuje potrzebne mu środki pieniężne i staje się dłużnikiem wobec obligatariusza na określony czas
+- *funkcja lokacyjna* - przeznaczenie wolnych środków pieniężnych na zakup obligacji przynosi obligatariuszowi określony oprocentowaniem dochód
+- *funkcja płatnicza* - możliwość regulowania zobowiązań przez odsprzedaż obligacji (związana z funkcją obiegową)
+- *funkcja obiegowa* - możliwość przenoszenia praw własności obligacji (odsprzedaż, przekazanie obligacji na okaziciela); udział obligacji w obrocie giełdowym
+- *funkcja gwarancyjna* - zapewnienie, że inwestycja pieniężna w zakup obligacji zostanie zwrócona przez emitenta; wiąże się także ze stopniem ryzyka
+
+### 3. Ile kosztuje obligacja i jakie jest jej oprocentowanie? - przykłady obliczeniowe dla różnych typów obligacji. ###
+
+W przypadku obligacji wyróżniamy kilka różnych typów cen:
+
+- _cena nominalna_ - jest to cena, po której emitent wykupuje obligacje, a także od tej kwoty naliczane są odsetki wyrażone w procentach.
+
+- _cena emisyjna_ - jest to cena, po której obligacje sprzedawane są na rynku pierwotnym, a więc bezpośrednio od emitenta.
+
+- _cena rynkowa_ - jest to cena kreowana przez rynek regulowany (prawo popytu i podaży) po sprzedaży obligacji na rynku pierwotnym.
+
+- _cena rozliczeniowa_ - jest to rzeczywista cena rynkowa powiększona o narosłe odsetki.
+
+Oprocentowanie obligacji może być stałe bądź zmienne. Zwykle wysokość kuponu obligacji o zmiennym oprocentowaniu przedstawiana jest w formie:
+
+$$\text{stopa bazowa}+\text{x}\%$$
+
+np. WIBOR + 0,5%.
+
+Możliwe jest także oprocentowanie uzależnione od stopy inflacji (obligacje te emituje Skarb Państwa).
+
+---
+
+_**Wartość obligacji**_ przedstawia zdyskontowany strumień płatności jakie ona generuje. W ten sposób można zapisać:
+
+>$$PVB\text{=}\sum \limits^{N\ast m}_{t = 1}\frac{\frac{i}{m} \ast  FV}{\left(1+\frac{YTM}{m} \right)^{t}} +\frac{FV}{\left( 1 + \frac{YTM}{m} \right)^{N*m} } $$
+
+Dla obligacji zerokuponowej wzór wygląda następująco:
+
+$$PVB\text{=}\frac{FV}{\left( 1 + {YTM}\right)^{N}}$$
+
+gdzie:
+
+**PVB** – obecna (rozliczeniowa) wartość obligacji (_present value of bond_)
+
+**i** – oprocentowanie obligacji w skali roku
+
+**FV** – wartość nominalna obligacji (_face value_)
+
+**YTM** – stopa dochodu w terminie do wykupu (_yield to maturity_)
+
+**N** – liczba okresów do wykupu w latach
+
+**m** – liczba płatności odsetek w ciągu roku
+
+---
+
+#### PRZYKŁAD 1 - Obligacje zerokuponowe ####
+
+Przedsiębiorstwo emituje obligacje korporacyjne o wartości nominalnej 1000 zł i sprzedaje je na rynku pierwotnym po cenie emisyjnej równej 900 zł. Dla nabywcy takich obligacji zysk stanowi różnicę obu wartości, czyli 100 zł. Zysk w procentach wynosi zatem w przybliżeniu ok. 11 % , bo 100 zł/900 zł.
+
+Jest to najprostsza forma naliczania oprocentowania, ponieważ inwestor nie otrzymuje żadnych odsetek. Obligacje te są sprzedawane po cenie niższej od nominalnej (z tzw. dyskontem). Inwestor (gracz giełdowy) kupuje obligacje po cenie niższej, a sprzedaje po cenie wyższej i stąd wynika jego zysk, a koszt dla emitenta.
+
+---
+
+#### PRZYKŁAD 2 - Obligacje o stałym oprocentowaniu ####
+
+Skarb Państwa emituje obligację o stałym oprocentowaniu o wartości nominalnej 100 zł z terminem wykupu za 5 lat. Oprocentowanie obligacji wynosi 6 %, a odsetki są wypłacane co roku. Cena emisyjna obligacji wynosi 97 zł. Jak będzie zatem przebiegać ta inwestycja? Ile zostanie wypłacone inwestorowi na koniec okresu?
+
+Rys.1: ![](\Przykład 2.png)
+
+Początkowo inwestor nabywa obligacje po cenie emisyjnej, czyli po 97 zł. Każdego roku naliczane są mu odsetki w wysokości 6 % od ceny nominalnej, czyli od 100 zł. Ostatniego dnia notowania obligacje wykupywane są po cenie nominalnej, czyli po 100 zł. Podsumowując gracz giełdowy ulokował początkowo 97 zł, a po zakończeniu 5 - letniego okresu otrzymał łącznie 130 zł (30zł - odsetek oraz 100 zł wynikające z wykupu obligacji).
+
+---
+
+#### PRZYKŁAD 3 - Obligacje o zmiennym oprocentowaniu ####
+
+Przedsiębiorstwo emituje obligację 3-letnią o zmiennym oprocentowaniu uzależnionym od wskaźnika inflacji. Cena emisyjna wynosi 98 zł, a nominalna 100 zł. Odsetki naliczane są w okresach rocznych, a oprocentowanie w kolejnych latach wyniosło 7 %, 6 % oraz 6,5 %. Jak będzie przebiegać ta inwestycja?
+
+Rys.2: ![](\Przykład3.png)
+
+Kupując papier wartościowy, inwestor zapłacił 98 zł. Po 3 latach otrzyma łącznie 119,5 zł, na co składa się 100 zł za wykupienie obligacji po cenie nominalnej oraz 19,5 zł odsetek.
+
+---
+
+#### PRZYKŁAD 4 - Obligacje o zmiennym oprocentowaniu ####
+
+Inwestor zastanawia się nad kupnem obligacji, dla której cena sprzedaży wynosi obecnie 102 zł. Jest to obligacja 3 - letnia o stałym oprocentowaniu równym 6 % o wartości nominalnej 100 zł. Czy opłaca mu się nabyć taki instrument finansowy, biorąc pod uwagę, że rentowność bonów skarbowych wynosi obecnie 4,5 % (przyjmując, że stopa wolna od ryzyka jest przybliżona rentowności bonów skarbowych)
+
+
+$$PV\text{=}\frac{6}{\left( 1 + {4.5\%}\right)^{1}}+\frac{6}{\left( 1 + {4.5\%}\right)^{2}}+\frac{6}{\left( 1 + {4.5\%}\right)^{3}}+\frac{100}{\left( 1 + {4.5\%}\right)^{3}}$$
+
+
+$$PV\text{=}104,12$$
+
+Sprawiedliwa cena obligacji wynosi 104,12 zł, a cena sprzedaży tego papieru wynosi obecnie 102 zł, więc obligacja jest w oczywisty sposób niedowartościowana, ale mimo wszystko Inwestor powinien kupić ten papier.
+
+---
+
+### 4. Jakie ryzyko występuje przy inwestowaniu w obligacje? ###
+
+Ocena ryzyka jest istotna dla każdego rodzaju inwestycji. Jednak w przypadku obligacji, mimo, powszechnie panującej i w dużej mierze słusznej opinii o mniejszym stopniu ryzyka w porównaniu np. z akcjami, ocena ryzyka niewypłacalności ich emitenta ma z różnych względów bardzo duże znaczenie. Najbardziej znane agencje publikujące tego typu oceny, zwane ratingami, to **Standard & Poor's**, **Fitch** i **Moody's**. Polskie przepisy nie wymagają obowiązkowego nadawania ratingu obligacjom, z wyjątkiem emisji kierowanych na rynki zagraniczne. Jednak rating podnosi wiarygodność i prestiż podmiotu emitującego obligacje. Agencja przed nadaniem ratingu analizuje szczegółowo kondycję finansową emitenta obligacji i perspektywy rozwoju oraz wszelkiego rodzaju czynniki ryzyka. To zaś ma wpływ na koszty pozyskiwanego przez ten podmiot kapitału, czyli cenę sprzedaży obligacji lub ich oprocentowanie. Papiery o wyższym ratingu dają z reguły niższe odsetki lub są sprzedawane po wyższej cenie. W myśl żelaznej na rynku kapitałowym zasady, mówiącej, że im mniejsze ryzyko, tym mniejszy zysk. Rating odzwierciedla poziom ryzyka kredytowego emitenta obligacji, wyrażanego za pomocą określonych symboli. Rating jest nadawany nie tylko przy okazji emisji obligacji ale także weryfikowany aż do momentu wykupu obligacji.
+
+----------
+
+### 5. Literatura. ###
+
+A.Bielawska, _Nowoczesne Zarządzanie Finansami Przedsiębiorstwa_, wyd.C.H.Beck, Warszawa 2009 r.
+
+E.Jarocka, _Finanse Przedsiębiorstw, Systemu Bankowego, Budżetowego, Ubezpieczeń_, wyd.Difin, Warszawa 2003 r.
+
+J.Śliwa, _Zarządzanie Finansami Przedsiębiorstwa_, wyd.FRR, Warszawa 1998 r.
+
+B.Wróbel, K.Nakonieczny, _Systemy Rozrachunku Papierów Wartościowych w Polsce i Unii Europejskiej_, wyd.NBP, Warszawa 2009 r.
+
+A.Zaremba, _Giełda.Podstawy Finansowania_, wyd.Helion, Gliwice 2008 r.
+
+[http://www.gpw.pl/obligacje_materialy_edukacyjne]
+
+----------

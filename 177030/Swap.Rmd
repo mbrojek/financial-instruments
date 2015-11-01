@@ -1,0 +1,121 @@
+--- 
+title: "Kontrakty Swap"
+author: "Joanna Krawczak"
+date: "23 października 2015"
+output: html_document
+--- 
+ 
+ 
+#Kontrakt swap
+jest umową zawieraną między dwoma lub więcej stronami, dotyczącą wymiany przyszłych płatności według wcześniej określonych zasad. Płatności te, związane są zwykle z instrumentami dłużnymi lub walutami obcymi.[^1] 
+ 
+Swap pomaga zarządzać aktywami i pasywami firmy lub banku. Pozwala na dokonywanie inwestycji lub zaciąganie pożyczek na rynkach, które  normalnie byłyby niedostępne lub zbyt kosztowne. Jest wykorzystywany do ograniczenia ryzyka stóp procentowych lub wymiany walutowej.[^2]  
+ 
+###Rodzaje kontraktów
+Kontrakty swap możemy dzielić według różnych kryteriów, np.: 
+ 
+1.  Instrument Bazowy 
+2.  Wielkość i zmienność kwoty podstawowej 
+3.  Rodzaje transakcji 
+4.  Charakter kwoty podstawowej 
+5.  Czas umowy 
+6.  Waluta 
+7.  Moment rozpoczęcia 
+8.  Moment zakończenia 
+ 
+Jednak podstawowym podziałem finansowych transakcji swap jest podział na klasyczne kontrakty swap: 
+ 
+1.  Swap walutowy 
+2.  Swap stopy procentowej 
+
+**Korzystając z zasad wyceny obligacji, wartość kontraktu wyceniamy:**
+$$W_{1}=\sum_{n}^{i=1}Ke^{-r_{i}t_{i}}+Xe^{-r_{n}t_{n}}$$
+$$W_{2}=Xe^{-r1×t1}+K_{1}e^{-r1×t1}$$
+
+gdzie:
+
+* $W_{1}$ – wartość obligacji o stałym oprocentowaniu, która odpowiada warunkom wycenianego swapu
+* $W_{2}$ – wartość obligacji o zmiennym oprocentowaniu, która odpowiada warunkom wycenianego swapu
+* K – kwota stałej płatności przypadająca do zapłaty w okresach ti
+* $K_{1} – płatność wynikająca ze znanej stopy procentowej, która nastąpi w chwili t1
+* $r_{i}$ – stopa dyskontowa odpowiadająca okresowi pozostałemu do chwili   
+$t_{i}$ -  (w praktyce jest to zmienna stopa procentowa otrzymana na podstawie tabeli kwotowań)
+* $r_{n}$ – stopa dyskontowa w okresie n
+* $t_{i}$ – okresy stałych płatności $(1\leq i \leq n_{i} )$
+* $t_{n}$ – ostatni okres stałej płatności
+* X – wartość nominalna kontraktu swap
+* t1 – czas do daty następnej płatności kuponowej 
+ 
+####Swap walutowy
+to kontrakt zakupu kwoty waluty w określonym dniu po określonym kursie, a następnie odsprzedaż tej samej kwoty waluty po kursie i w terminie ustalonym w dniu zawarci umowy.   
+Zazwyczaj swap walutowy jest transakcją krótkoterminową. W trakcie trwania kontraktu nie ma żadnych płatności odsetek.[^3] 
+ 
+Kurs swapowy (czyli wymiany) oblicza się według wzoru: 
+ 
+$$M=\frac{K×(ik+iz)×t}{T×100+iz×t}$$ 
+ 
+gdzie:   
+ 
+* M-  marża kursu terminowego, 
+* k-  kurs spot, 
+* ik- oprocentowanie waluty krajowej, 
+* iz- oprocentowanie waluty zagranicznej, 
+* t-  termin zapadalności kontraktu, 
+* T–  w zależności od waluty 360 lub 365  
+ 
+Wycena swapu walutowego: 
+ 
+$$V = S×W_{1}– W_{2}$$ 
+ 
+gdzie:  
+ 
+* S–  kurs wymiany walut 
+* W2–  wartość obligacji denominowanej w walucie krajowej.
+* W1– wartość obligacji będącej podstawą kontraktu, denominowanej w walucie innej niż krajowa
+ 
+   
+**Przykład:**     
+Załóżmy, że przedmiotem wyceny jest następujący walutowy kontrakt swap. Stopa procentowa w Niemczech jest równa 6% w skali roku, a w Stanach Zjednoczonych 11% (dla obu stóp przyjęto kapitalizację ciągłą). Jedna firma zajmuje w kontrakcie swap pozycję, zgodnie z którą będzie otrzymywała 7% w skali roku od nominału podanego w kontraktach, sama zaś będzie płaciła 10% od nominału wyrażonego w dolarach. Nominał ustalony w kontrakcie jest równy odpowiednio 1 milion dolarów i 0,9 miliona euro. Strony ustaliły, że kontrakt jest ważny trzy lata. Aktualny kurs walutowy przyjmujemy na poziomie 2 euro za dolara.[^4] 
+
+$W_{2}=0,1e^{-0,11}+0,1e^{-0,11×2}+0,1e^{-0,11×3}\approx 0,961$  
+$W_{1}=0,063e^{-0,06}+0,063e^{-0,06×2}+0,063e^{-0,06×3}\approx 0,920$  
+$V=0,5×0,92-0,961=-0,501$ mln USD  
+
+Wartość kontraktu swap jest równa –0,501 mln USD. Oznacza to, że
+gdyby firma druga płaciła oprocentowanie kredytu w euro, a
+otrzymywała oprocentowanie w dolarach, to wartość tego kontraktu
+swap dla tej firmy byłaby równa 0,501 miliona dolarów.  
+ 
+ 
+####Swap stopy procentowej  
+to umowa zawarta pomiędzy dwiema stronami, w której zobowiązują się one do wymiany serii płatności odsetkowych. Płatności te liczone są od uzgodnionej sumy kapitałowej i dla ustalonego okresu, ale naliczane według odmiennych zasad.[^5]  
+W procentowych kontraktach swap wyróżniamy:
+
+1.  **Swap kuponowy**      
+jest umową, w której jedna ze stron zobowiązuje się wypłacać drugiej stronie odsetki od wartości nominalnej swapu, w wysokości ustalonej w oparciu o stałą stopę procentową. W tym samym czasie druga strona transakcji wypłaca stronie przeciwnej sumy równe oprocentowaniu tej samej kwoty według zmiennej stopy procentowej. Waluty obu strumieni płatności są takie same.
+2.  **Swap bazowy**    
+polega na wymianie płatności sum odsetkowych obliczanych w oparciu o różne, zmienne, referencyjne stopy procentowe.
+
+Wycena swapu procentowego:
+
+$$V=W_{1}-W{2}$$
+
+**Przykład:**   
+Rozważmy kontrakt, w którym jedna strona zobowiązuje się do płacenia sześciomiesięcznej stopy LIBOR w zamian za oprocentowanie w wysokości 10% rocznie (kapitalizacja ciągła).
+Wartość nominalna kontraktu jest równa 50 mln złotych, do końca ważności kontraktu pozostaje 1,25 roku, stałe stopy procentowe przy kapitalizacji ciągłej dla 3,9 i 12 miesięcy są równe odpowiednio 12%, 12,5% i 13%. Sześciomiesięczna stopa LIBOR dla ostatniej płatności
+była równa 12,2%.[^6] 
+
+$K=50×0,1×0,5×2,5$ mln zł  
+$K_{1}=50×0,122×0,5=3,1$ mln Zł  
+$W_{1}=2,5e^{-0,12×0,25}+2,5e^{-0,1250,75}+52,5e^{-0,13×1,25}\approx 49,33$  
+$W_{2}=50e^{-0,12×0,25}+3,1e^{-0,12×25}\approx 51,53$  
+$V=49,33-51,53=-2,20$ mln zł  
+
+
+
+[^1]: John Hull: „Kontrakty terminowe i opcje, wprowadzenie”, WIG PRESS 
+[^2]: Alicja Wolańska: „Transakcje SWAP”, Rynek Kapitałowy nr 3 
+[^3]: Chrisholm Roth & Company Ltd.: „Introduction to Foreign Exchange” 
+[^4]: W.Tarczyński, Z.Zwolankowski: "Inżynieria finansowa", Placet 
+[^5]: http://finansopedia.forsal.pl/wiki/Swap_stopy_procentowej
+[^6]: W.Tarczyński, Z.Zwolankowski: "Inżynieria finansowa", Placet  

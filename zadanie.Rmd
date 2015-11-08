@@ -135,8 +135,8 @@ Należy:
 
 # Terminy
 
-- 26.10.2015 - oddanie pierwszej części projektu.
-- 09.11.2015 - oddanie drugiej części projektu.
+- 02.11.2015 - oddanie pierwszej części projektu.
+- 16.11.2015 - oddanie drugiej części projektu.
 
 Za oddanie projektu uważa się zrobienie pull requesta zawierającego wykonaną
 pracę do repozytorium wykładowcy.

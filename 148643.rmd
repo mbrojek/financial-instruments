@@ -1,0 +1,136 @@
+---
+title: "AKCJE"
+author: "M.Tyszko"
+date: "28 października 2015"
+output: html_document
+---
+
+> ### _**Akcje** to najważniejszy element rynku kapitałowego._
+
+> ### _**Akcja** - jest papierem wartościowym potwierdzającym udział w kapitale akcyjnym spółki, stanowiącym jednocześnie uosobienie praw i obowiązków jej posiadacza -  akcjonariusza._
+
+***
+
+### **Klasyczne**  dokumenty akcyjne (papiery) _zawierały_:
+* nazwę firmy i siedzibę spółki
+* nazwę sądu, w którym spółka jest zarejestrowana 
+* datę zarejestrowania spółki i emisji akcji 
+* wartości nominalnej akcji 
+* liczby akcji, numeru serii, rodzaju danej akcji oraz uprawnień szczególnych akcji 
+* przy akcjach imiennych - wysokości dokonanej wpłaty 
+* ograniczeń co do przeniesienia własności akcji
+* oznaczenia przepisów statutu o związanych z akcją obowiązkach co do świadczeń na rzecz spółki 
+
+***
+
+### **Charakterystyki akcji:**
+* wartość nominalna - wartość kapitału akcyjnego spółki przypadająca na jedną akcję
+* wartość emisyjna - cena po jakiej akcja jest sprzedana przez emitenta jej pierwszemu właścicielowi
+* wartość księgowa - wartość aktywów netto spółki przypadająca na jedną akcję 
+* wartość rynkowa - cena akcji na rynku   (powstaje w wyniku spotkania się popytu z podażą) 
+
+***
+
+### **Typy akcji:**
+* akcje uprzywilejowane
+* akcje zwykłe
+
+***
+
+### **Etapy wprowadzenia do obrotu giełdowego akcji spółki w publicznej ofercie**
+* sporządzenie prospektu emisyjnego
+* uzyskanie zgody Komisji Papierów Wartościowych i Giełd na wprowadzenie do publicznego obrotu 
+* zawarcie umowy z Krajowym Depozytem Papierów Wartościowych o rejestrację tych papierów wartościowych 
+* upowszechnienie wymaganych informacji dotyczących emitenta i oferty 
+
+***
+
+### **_Zadania teoretyczne i obliczeniowe_**
+* Wycena akcji metodą zdyskontowanych przepływów pieniężnych _(DCF – discounted cash flow)_
+* Analiza podstawowych wskaźników (EPS, BV)
+* Wycena metodami analizy fundamentalnej
+
+### **_Zagadnienia teoretyczne i obliczeniowe_**
+* Podstawowe parametry akcji
+* Modele zmienności akcji
+* Miary ryzyka inwestowania w akcje
+* Pojęcie portfela akcji
+* Parametry portfela akcji
+* Portfel akcji z możliwością krótkiej sprzedaży
+* Zagadnienia optymalizacyjne portfela akcji
+* Charakterystyka portfela mieszanego _(akcji oraz aktywów pozbawionych ryzyka)_
+
+***
+
+## Wskaźniki / przykłady obliczeń
+
+**Dywidenda** (łac. dividendum – rzecz do podziału) – część zysku netto (po opodatkowaniu podatkiem dochodowym) spółki kapitałowej przeznaczona dla jedynego wspólnika albo akcjonariusza lub podziału pomiędzy wspólników lub akcjonariuszy.
+
+_**Wzór na wycenę akcji:**_
+
+P=\frac{D}{r}
+
+gdzie D - wielkość dywidendy (stała w kolejnych okresach) ; r - koszt kapitały własnego=oczekiwana stopa zwrotu dla kupującego
+
+_**Wzór na wartość dywidendy przypadającej na jedną akcję ma postać:**_
+
+D=\frac{zysk}{liczba wyemitowanych akcji}
+
+gdzie D oznacza wartość dywidendy przypadającej na jedną akcję.
+
+_**Wzór na wskaźnik stopy dywidendy ma postać:**_
+
+Wskaźnik stopy dywidendy = \frac{dywidenda na 1 akcję}{cena rynkowa 1 akcji}\times 100%
+
+_**Wzór na wskaźnik stopy wypłat dywidendy ma postać:**_
+
+Wskaźnik stopy wypłat dywidendy = \frac{dywidenda na 1 akcję}{zysk na 1 akcję}\times 100%
+
+Wysokość dywidendy wskazuje horyzont spółki na najbliższe miesiące oraz jej plany inwestycyjne. Jeśli zarząd spółki zarekomenduje niższą dywidendę, oznacza to, że większa część zysku pozostanie w spółce. Zwykle oznacza to, że środki te będą przeznaczone na dalsze inwestycje, a co za tym idzie umocnienie wyników spółki. Dla inwestora ważne natomiast jest, czy spółka wypłaca dywidendę regularnie oraz w jakiej wielkości (patrz:polityka dywidendowa). Dane te można znaleźć w sprawozdaniach finansowych spółki.
+
+Dla spółki giełdowej cena akcji zostaje pomniejszona o wartość wypłacanej dywidendy.
+
+
+## ROA (ang. return on assets) - wskaźnik rentowności aktywów.
+
+_**ROA**_ to stosunek zysku netto spółki do wartości jej aktywów; może być też obliczany jako iloczyn rentowności sprzedaży oraz wskaźnika obrotu aktywów.
+
+Informuje o zdolności spółki do wypracowywania zysków i efektywności gospodarowania jej majątkiem. Im wyższy jest wskaźnik ROA, tym lepsza jest kondycja finansowa spółki. Wskaźnik istotny m.in. dla instytucji finansowych rozważających udzielenie kredytu i badających możliwości jego spłaty.
+
+ROA=\frac{Zysk\netto}{Aktywa\ogolem}\times 100%
+
+
+## Wskaźnik P/BV (cena rynkowa/wartość księgowa) 
+– wskaźnik informujący o bieżącej wycenie przez rynek wartości majątku (aktywa bez zobowiązań) danej spółki giełdowej. Wskaźnik P/BV oblicza się dzieląc bieżącą kapitalizację spółki giełdowej przez księgową wartość jej kapitału własnego, którą podaje bilans spółki. Alternatywnie wskaźnik ten można otrzymać dzieląc kurs akcji przez wartość księgową przypadającą na jedną akcję.
+
+P/BV=\frac{ca}{wksja}
+
+gdzie: ca - cena akcji ; wksja – wartość księgowa spółki na jedną akcję
+
+
+Wskaźnik ten nie ma wartości absolutnej i nie powinien być rozpatrywany w oderwaniu od średniej dla danej branży. Spółki reprezentujące kapitałochłonne sektory gospodarki będą miały wskaźnik C/WK znacznie niższy od firm konsultingowych czy informatycznych.
+
+Jeśli wartość wskaźnika _**P/BV**_ jest większa od jedności, nie musi to świadczyć o tym, że spółka jest przewartościowana, ponieważ o wartości przedsiębiorstwa decyduje nie jego wartość bilansowa, tylko wartość rzeczywista, która uwzględnia takie czynniki jak:
+*rentowność
+*rozpoznawalna marka
+*jakość zarządzania
+*perspektywy wzrostu
+*poziom zadłużenia
+*długookresowa przewaga konkurencyjna
+
+
+***
+## **Bibliografia**
+
+_www.wikipedia.org_
+
+_www.naukowiec.org_
+
+_www.parkiet.com_
+
+***
+
+
+
+
+

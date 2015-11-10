@@ -1,0 +1,445 @@
+# Kontrakty terminowe
+
+**Kontraktami terminowymi** nazywamy instrumenty finansowe typu transakcji pochodnej. W ramach danej transakcji zawierana jest umowa pomiêdzy dwiema stronami, z których jedna ze stron zobowi¹zuje siê do kupna okreœlonego instrumentu bazowego po dok³adnie okreœlonej cenie i w œciœle okreœlonym terminie, a druga strona do sprzeda¿y tego instrumentu na tych samych warunkach. Cena, termin i wielkoœæ ustalane s¹ w momencie zawarcia transakcji. Wystawiaj¹cy kontrakt zajmuj¹c *pozycjê krótk¹* (sprzedaj¹c instrument bazowy) zobowi¹zuje siê do dostarczenia przedmiotu kontraktu jednoczeœnie oczekuj¹c, ¿e przysz³a cena instrumentu bazowego na rynku kasowym bêdzie ni¿sza od ceny, po jakiej zobowi¹za³ siê dostarczyæ instrument bazowy w dniu zawarcia umowy. Natomiast nabywca kontaktu otwieraj¹c *pozycjê d³ug¹* (kupuj¹c instrument bazowy) oczekuje sytuacji odwrotnej, czyli, ¿e przysz³a cena przedmiotu kontraktu bêdzie na rynku wy¿sza od ceny wykonania kontraktu, dziêki czemu bêdzie móg³ zrealizowaæ zysk wynikaj¹cy z ró¿nicy tych cen sprzedaj¹c od razu dany instrument bazowy. Obie strony zobowi¹zane s¹ do wywi¹zania siê z warunków umowy nie zwa¿aj¹c na to czy dana transakcja jest dla nich korzystna czy jednak przyniesie stratê.
+
+Instrumentami bazowymi mog¹ byæ w zasadzie dowolne wartoœci, które mo¿na wyliczyæ w sposób nie budz¹cy w¹tpliwoœci, np. akcje, waluty, indeksy gie³dowe.
+
+____
+### Podzia³ kontraktów ze wzgledu na charakter rozliczenia
+
+W zaleznosci od charakteru rozliczenia kontraktu w terminie wygasniecia mozemy podzielic kontrakty terminowe:
+
+  - kontrakty z dostawa 
+  - kontrakty rozliczane pienieznie
+  
+**Kontrakt z dostawa** zawiera w sobie wbudowane zobowiazanie do dostarczenia instrumentu bazowego przez wystawce kontraktu w dniu wygasniecia kontraktu. W wielu przypadkach dostarczenie przedmiotu kontraktu moze jednak wiazac sie ze znacznymi kosztami (np. koszt frachtu kontenera miedzi z Chin do Polski w kontrakcie na dostawe surowca).
+
+**Kontrakty rozliczane pieniê¿nie** nie zawieraja elementu dostawy instrumentu bazowego, a w dniu wygasniecia kontraktu jego nabywca i wystawca jedynie wyrównuja wzajemnie (w formie pienieznej) róznice pomiedzy wartoscia instrumentu bazowego wynikajaca z kontraktu, a rynkowa cena instrumentu bazowego. Kwota wynikajaca z rozliczenia stanowi dla jednej strony zysk, a dla drugiej – strate z operacji na kontraktach terminowych, w zaleznosci od ksztaltowania sie ceny instrumentu bazowego w dniu wygasniecia kontraktu.
+
+Rynek terminowy odróznia sie tym od rynku kasowego (akcyjnego), ¿e zawarcie umowy (kontraktu) nastepuje w odmiennym momencie czasu niz jej rozliczenie. W chwili zawarcia kontraktu uzgadniana jest jedynie cena wykonania tego kontraktu. Dostarczenie przedmiotu kontraktu oraz rozliczenie transakcji dokonywane jest w dniu wygasniecia kontraktu. Jednak w zadnym razie nie ma obowiazku przetrzymywania kontraktu terminowego do terminu jego wygasniecia. Odpowiednia plynnosc tych instrumentów na rynkach finansowych umozliwia zamykanie kontraktów i otwieranie kolejnych w dowolnym momencie czasu.
+
+### Zasadniczy podzia³ kontraktów
+
+  - kontrakty terminowe forward 
+  - kontrakty terminowe futures
+  
+**Kontrakty forward** s¹ kontaktami terminowymi zawieranymi bezpoœrednio miêdzy dwiema stronami na rynkach nieregulowanych. Nie podlegaj¹ standaryzacji- ich warunki maj¹ charakter negocjowany i s¹ indywidualnie ustalane przez strony kontraktu. Cechuje je wiêksze ryzyko niewywi¹zania siê z warunków umowy przez jedn¹ ze stron transkacji.
+
+  Zysk lub strata nabywcy kontraktu forward wynosi:
+  
+  $\frac{Zysk}{strata}=(cena\:natychmiastowa-cena\:wykonania)*liczba\:instrumentu\:bazowego$.
+
+  Zysk lub strata sprzedawcy kontraktu forward wynosi:
+  
+  $\frac{Zysk}{strata}=(cena\:wykonania-cena\:natychmiastowa)*liczba\:instrumentu\:bazowego$.
+
+  Kontrakty forward to nie tylko indeksy i akcje. Równie popularne s¹ kontrakty walutowe. St¹d warto by³oby wiedzieæ jak podejœæ do ich wyceny. Nie jest to trudne. W rzeczywistoœci powinien wystarczyæ nam do tego jeden wzór. Przedstawiam go poni¿ej. Nastêpnie omówiê go na przyk³adach.
+  Wzór na wycenê walutowego kontraktu forward przyjmuje nastêpuj¹c¹ postaæ:
+
+  $F = S\frac{1+rT}{1+r_{f}T}$
+
+  F – cena terminowa kontraktu forward
+
+  S – kurs spot waluty
+
+  r – krajowa stopa procentowa, najczêœciej wolna od 
+
+  $r_{f}$ – zagraniczna stopa procentowa, najczêœciej wolna od ryzyka
+
+  T – iloœæ okresów (najczêœciej lat)
+    
+____
+####Charakterystyka kontraktu forward
+
+
+
+  I. Warunki kontraktu s¹ uzgadniane miêdzy stronami i mog¹ to byæ:
+  
+  - rodzaj i jakoœæ towaru,
+  - wielkoœæ kontraktu,
+  - cena kontraktu (towaru),
+  - termin wykonania kontraktu,
+  - miejsce dostawy,
+  - sposób rozliczenia,
+  - depozyt zabezpieczaj¹cy.
+  
+  
+  II. Zazwyczaj dochodzi do rzeczywistej dostawy towaru.
+  
+  III. Nie notowany na gie³dzie.
+
+
+**Kontrakty futures** w odró¿nieniu od kontraktów forward  s¹ notowane na rynkach gie³dowych oraz podlegaj¹ standaryzacji, czyli s¹ szczegó³owo regulowane przez rynek, a ich warunki nie podlegaj¹ negocjacjom (wyj¹tek stanowi cena) oraz zmianom. Ryzyko kredytowe tych kontraktów jest bardzo ma³e, poniewa¿ strony transakcji wnosz¹ depozyt zabezpieczaj¹cy. Je¿eli ró¿nica miêdzy wartoœciami depozytu a bie¿¹c¹ cen¹ kontraktu uplasuje siê na poziomie ni¿szym od pewnego uzgodnionego minimum to inwestor powinien z³o¿yæ dodatkowe zabezpieczenie, w przeciwnym wypadku jego pozycja ulegnie zamkniêciu.
+Podstawowa formu³a wyceny kontraktu futures jest nastêpuj¹ca:
+
+  $F = S\left ( 1+\frac{r}{t} \right )$
+  
+  F– cena terminowa
+  
+  S– wartoœæ bie¿¹ca instrumentu bazowego
+
+  r – stopa procentowa wolna od ryzyka w stosunku rocznym
+
+  t – czas do wygaœniêcia kontraktu terminowego w latach
+  
+  W zale¿noœci od typu kontraktu i przewidywanych wydarzeñ powy¿sza formu³a mo¿e ulegaæ modyfikacjom – jednym z czêsto wykorzystywanych wzorów jest m.in.
+  
+  $F = S\left ( e^{rT}\right )$
+  
+  gdzie T – czas do wygaœniêcia kontraktu terminowego w latach, przy innych oznaczeniach jak powy¿ej.
+
+
+####Charakterystyka kontraktu futures
+
+
+
+  I. Wystandaryzowane s¹ nastêpuj¹ce warunki kontraktu:
+  
+  - rodzaj i jakoœæ towaru,
+  - wielkoœæ kontraktu,
+  - termin wykonania kontraktu,
+  - miejsce dostawy,
+  - sposób rozliczenia,
+  - miejsce i godziny handlu kontraktem.
+  
+  
+  II. Cena kontraktu jest ustalana w drodze otwartego przetargu na gie³dzie
+  
+  III. Obowi¹zkowy depozyt zabezpieczaj¹cy z³o¿ony w Izbie Rozrachunkowej
+  
+  IV. Najczêœciej nie dochodzi do rzeczywistej dostawy towaru.
+  
+  V. Zazwyczaj notowany na gie³dzie.
+
+
+
+Najczêœciej wystêpuj¹cymi kontraktami terminowymi na rynkach gie³dowych s¹ kontrakty, których wykonanie nastêpuje poprzez wyp³acenie kwoty rozliczenia, a nie przez dostawê instrumentu bazowego. Je¿eli w dniu wygaœniêcia kontraktu jego cena rozliczeniowa jest wy¿sza od ceny zawarcia kontraktu, wówczas p³atnoœæ na rzecz nabywcy dokonuje wystawca kontaktu, natomiast je¿eli cena rozliczeniowa jest ni¿sza od ceny zawarcia kontraktu to p³atnoœci dokonuje nabywca kontraktu na rzecz jego wystawcy. W celu uzyskania wartoœci pieniê¿nej kontraktu (tj. wartoœci okreœlonych iloœci instrumentów bazowych) cenê rynkow¹ nale¿y pomno¿yæ przez odpowiednik mno¿nik. W Polsce najbardziej popularne s¹ kontrakty terminowe na indeksy, a w szczególnoœci na indeks WIG20, chocia¿ notowane s¹ równie¿ kontrakty na MIDWIG i TechWIG oraz kontrakty na akcje, obligacje i waluty (euro i dolar amerykañski).
+    
+Kontrakty terminowe wystêpuj¹ w seriach, obejmuj¹cych instrumenty maj¹ce w szczególnoœci ten sam instrument bazowy i ten sam termin wygaœniêcia, ka¿da notowana przez okres 9 miesiêcy. Kontrakty maj¹ terminy wygaœniêcia w marcu, czerwcu, wrzeœniu i grudniu. Równolegle notowane s¹ trzy serie kontraktów ró¿ni¹ce siê wy³¹cznie terminem wygaœniêcia. Na sesji gie³dowej nastêpuj¹cej po wygaœniêciu danej serii kontraktów do obrotu wprowadzana jest nowa seria danego kontraktu. Kiedy wygasa kontrakt marcowy, pojawia siê kontrakt grudniowy, potem wygasa czerwcowy, a pojawia siê marcowy itd.
+
+____
+
+###Mo¿liwoœci wykorzystania:
+
+
+**Hedging** – zabezpieczenie wartoœci planowanego lub obecnego portfela
+
+**Arbitra¿** – wykorzystanie chwilowej nierównowagi na rynku w celu zrealizowania zysku bez ryzyka
+
+**Spekulacje** – otwieranie pozycji na rynku derywatów w celu zrealizowania zysku
+
+	
+____	
+###DŸwignia finansowa
+
+
+
+Transakcje na kontraktach terminowych charakteryzuj¹ siê wysok¹ dŸwigni¹ finansow¹. Inwestycj¹ zwi¹zan¹ z zajêciem pozycji na rynku terminowym jest depozyt wp³acany do izby rozrachunkowej. Jego wielkoœæ jest ustalana w zale¿noœci od wartoœci kontraktu oraz sytuacji rynkowej. Mo¿e przyjmowaæ on wielkoœæ od 2% do kilkunastu procent. Udzia³ procentowy depozytu w wartoœci kontraktu decyduje o stopie dŸwigni finansowej. DŸwignia finansowa stanowi relacjê wartoœci aktywów objêtych kontraktem do depozytu pocz¹tkowego.
+
+____
+###Rodzaje ryzyka inwestowania w kontrakty terminowe
+
+
+**Ryzyko rynkowe** – zmiany kursów potêgowane s¹ przez efekt dŸwigni finansowej (ma³e wahania kursów powoduj¹ du¿e procentowe zmiany wartoœci kontraktów)
+
+**Ryzyko p³ynnoœci** – niska aktywnoœæ innych graczy mo¿e utrudniaæ zamkniêcie pozycji, zw³aszcza kontraktów o odleg³ym terminie wygaœniêcia
+
+**Ryzyko makroekonomiczne** – dotyczy kontraktów na waluty i wi¹¿e siê z wp³ywem polityki monetarnej na kszta³towanie siê kursów wymiany walut
+
+
+
+____
+###Otwieranie i zamykanie pozycji
+
+
+**Otwarciem pozycji** na rynku kontaktów terminowych nazywa siê wejœcie inwestora na rynek, czyli ka¿dorazowy zakup (otwarcie pozycji d³ugiej) lub sprzeda¿ (otwarcie pozycji krótkiej) kontraktów terminowych. 
+
+**W kategoriach zabezpieczen** – otwierajacy krótkie pozycje zabezpiecza sie przed wzrostem wartoœci instrumentu bazowego.
+
+**W kategoriach spekulacyjnych** – otwieraj¹cy krótkie pozycje liczy na spadek wartoœci instrumentu bazowego.
+
+**W przypadku kontraktów z dostaw¹** – tabela poni¿ej przedstawia rozk³ad rentownoœci kontraktu z dostaw¹ w zale¹nosci od kszta³towania siê ceny instrumentu bazowego w dniu wykonania kontraktu.
+
+<table border="l" style="text-align:center; vertical-align:top" >
+<tr>
+<td></td>
+<td>**NABYWCA KONTRAKTU (POSIADACZ D£UGIEJ POZYCJI)**</td>
+<td>**WYSTAWCA KONTRAKTU (POSIADACZ KRÓTKIEJ POZYCJI)**</td>
+</tr>
+<tr>
+<td>Cena instrumentu bazowego przewy¿sza cenê wynikajac¹ z umowy kontraktu w dniu wygaœniecia kontraktu</td>
+<td>Nabywca kontraktu relatywnie zyskuje, poniewa¿ wykonujac kontrakt zakupi przedmiot kontraktu (instrument bazowy) taniej ni¿ gdyby mia³ zakupiæ go w tym samym momencie czasu na rynku.</td>
+<td>Wystawca kontraktu traci, poniewa¿ jest zobowi¹zany do sprzeda¿y instrumentu bazowego po cenie ni¿szej ni¿ obowiazuj¹ca w danym momencie na rynku.</td>
+</tr>
+<tr>
+<td>Cena instrumentu bazowego jest ni¿sza od ceny wynikaj¹cej z umowy kontraktu w dniu wygaœniecia kontraktu</td>
+<td>Nabywca kontraktu relatywnie traci, poniewa¿ wywi¹zujac siê z umowy kontraktu jest zobowi¹zany do zakupienia instrumentu bazowego po cenie wy¿szej ni¿ obowi¹zujaca w danym momencie na rynku.</td>
+<td>Wystawca kontraktu zyskuje, poniewa¿ sprzedaje instrument bazowy po cenie wy¿szej ni¿ cena, któr¹ uzyska³by sprzedajac w danym czasie instrument bazowy na rynku. Wystawca mo¿e nabyc w terminie wykonania instrument bazowy na rynku po ni¿szej cenie i dostarczyæ go nabywcy kontraktu po cenie wynikajacej z umowy kontraktu.</td>
+</tr>
+</table>
+
+
+**W przypadku kontraktów rozliczanych pienie¿nie** – tabela poni¿ej prezentuje rozk³ad rentownoœci w zale¿nosci od kszta³towania siê, w dniu wygaœniecia kontraktu, relacji pomiêdzy cen¹ instrumentu bazowego a cen¹ wynikaj¹ca z umowy kontraktu. W dniu wygaœniecia kontraktu nie dochodzi do fizycznej dostawy przedmiotu kontraktu.
+
+
+<table border="l" style="text-align:center; vertical-align:top" >
+<tr>
+<td></td>
+<td>**NABYWCA KONTRAKTU (POSIADACZ D³UGIEJ POZYCJI)**</td>
+<td>**WYSTAWCA KONTRAKTU (POSIADACZ KRÓTKIEJ POZYCJI)**</td>
+</tr>
+<tr>
+<td>Cena instrumentu bazowego przewy¿sza cenê wynikaj¹ca z umowy kontraktu w dniu wygaœniecia kontraktu</td>
+<td>Nabywca kontraktu otrzymuje ró¿nicê pomiêdzy bie¿¹c¹ cen¹ instrumentu bazowego (w dniu wykonania kontraktu), a cen¹ wynikaj¹c¹ z umowy kontraktu. Wyp³acona kwota jest dla nabywcy kontraktu jego zyskiem</td>
+<td>Wystawca kontraktu wyp³aca nabywcy ró¿nice pomiêdzy bie¿¹c¹ cen¹ instrumentu bazowego, a cen¹ wynikaj¹c¹ z umowy kontraktu. Wystawca ponosi stratê finansow¹ na transakcji.</td>
+</tr>
+<tr>
+<td>Cena instrumentu bazowego jest ni¿sza od ceny wynikaj¹cej z umowy kontraktu w dniu wygaœniecia kontraktu</td>
+<td>Nabywca kontraktu relatywnie traci, poniewa¿ wywi¹zujac siê z umowy kontraktu jest zobowi¹zany do zakupienia instrumentu bazowego po cenie wy¿szej ni¿ obowi¹zuj¹ca w danym momencie na rynku.</td>
+<td>Wystawca kontraktu otrzymuje od nabywcy kwotê wynikaj¹c¹ z ró¿nicy pomiêdzy cen¹ z umowy kontraktu, a rynkow¹ cen¹ instrumentu bazowego. Wyp³acona kwota jest dla wystawcy kontraktu zyskiem.</td>
+</tr>
+</table>
+
+
+
+Ka¿da ze stron ma mo¿liwoœæ likwidacji otwartej pozycji przed dniem wygaœniêcia kontraktu poprzez zamkniecie pozycji. 
+
+**Zamykanie pozycji** polega na tym, ¿e inwestor, który nabywa kontrakt powinien go sprzedaæ, natomiast sprzedaj¹cy kontrakt powinien go nabyæ.
+
+Zamkniêcie otwartych wczeœniej pozycji mo¿e nast¹piæ na dwa sposoby: 
+
+  - w dniu wygaœniecia kontraktu przez ich wykonanie po cenie wykonania, 
+  - w dowolnym momencie czasu w obrocie gie³dowym przez wystawienie zlecenia przeciwstawnego do pozycji posiadanych na rachunku (przez wzajemne zniesienie siê otwartych pozycji). Zatem odpowiednio w przypadku posiadania d³ugich pozycji – zamkniêcie ich nast¹pi przez sprzeda¿ odpowiedniej iloœci kontraktów (czyli przez dokonanie transakcji, w której posiadacz d³ugiej pozycji bêdzie wystawc¹ kontraktu). Z kolei, w przypadku posiadania krótkich pozycji zamkniêcie nast¹pi przez wystawienie kupna odpowiedniej iloœci kontraktów.
+
+
+###Spekulacja na kontraktach terminowych
+
+W tym momencie skoncentrujmy siê na spekulacyjnym charakterze wykorzystania kontraktów terminowych, czyli nastawionym na osi¹ganie zysku z transakcji tymi instrumentami. Je¿eli w ten sposób spojrzymy na kontrakty terminowe, to handel nimi, w najprostszym ujêciu, ogranicza sie do dwóch podstawowych regu³:
+
+I.  kup tanio, sprzedaj dro¿ej (dla d³ugich pozycji), 
+II. sprzedaj drogo i odkup taniej (dla krótkich pozycji).
+
+Przeœledzimy przyk³ad otwarcia d³ugiej pozycji na najpopularniejszym kontrakcie terminowym na GPW – kontrakcie na indeks WIG20. Zakup kontraktu po okreœlonej cenie i sprzeda¿ po cenie wy¿szej przek³ada siê na zysk dla inwestora. Z kolei, je¿eli cena instrumentu zacznie spadac, zamkniêcie d³ugiej pozycji poni¿ej ceny zakupu stanowi stratê dla inwestora. Na przyk³adzie, kupujemy kontrakt na indeks WIG20 po 2400 pkt. i sprzedajemy go po 2430 pkt. Dodatnia ró¿nica stanowi zysk z transakcji. 
+
+![Zyski/straty](Kontrakty terminowe forward i futures/FirstGraphicTOMarkdown.png)
+Wykresy przedstawiaj¹ kolejno: Otwarcie i zamkniêcie d³ugiej pozycji na kontrakcie terminowym na WIG20 oraz rozk³ad rentownoœci d³ugiej pozycji na kontrakcie terminowym na WIG20
+
+Sytuacja zmienia siê, gdy otwieramy krótk¹ pozycjê, czyli sprzedajemy kontrakt. Spadek wartoœci instrumentu sprawia, ¿e krótka pozycja przynosi zysk. Z kolei, wzrost wartoœci instrumentu powy¿ej ceny otwarcia krótkiej pozycji przek³ada siê na stratê z inwestycji w kontrakt terminowy (zgodnie ze schematem ponizej).
+
+![Zyski/straty](Kontrakty terminowe forward i futures/FirstGraphicTOMarkdown2.png)
+Wykresy przedstawiaj¹ kolejno:Otwarcie i zamkniêcie krótkiej pozycji na kontrakcie terminowym na WIG20 oraz rozk³ad rentownoœci krótkiej pozycji na kontrakcie terminowym na WIG20
+
+Ka¿dy kontrakt terminowy notowany na gie³dach posiada odpowiedni¹ WARTOŒÆ KONTRAKTU, zgodn¹ ze wzorem:
+
+  $Wartoœæ\:kontraktu=kurs\:kontraktu*liczba\:odpowiedni\:mnoznik$.
+
+Gdyby nie mno¿nik, handel kontraktami nie ró¿ni³by sie niczym od handlu zwyk³ymi akcjami. To w³asnie mno¿nik sprawia, ¿e ryzyko inwestycji w kontrakty terminowe jest zwielokrotnione o wartoœæ mno¿nika. Wartoœæ kontraktu podaje nam realn¹ wycenê inwestycji w kontrakt terminowy.
+
+Na GPW w Warszawie kontrakty terminowe oparte s¹ o nastepujace mno¿niki:
+
+<table border="l" style="text-align:center; vertical-align:top" >
+<tr>
+<td></td>
+<td>**Kurs kontraktu**</td>
+<td>**Wartoœæ kontraktu**</td>
+</tr>
+<tr>
+<td>Otwarcie</td>
+<td>2400 pkt</td>
+<td>24.000,00 PLN</td>
+</tr>
+<tr>
+<td>Zamkniêcie</td>
+<td>2430 pkt</td>
+<td>24.300,00 PLN</td>
+</tr>
+<tr>
+<td>Zysk brutto</td>
+<td>30 pkt</td>
+<td>300,00 PLN</td>
+</tr>
+</table>
+Zysk z tytu³u zajêcia d³ugiej pozycji na kontrakcie indeksowym.
+
+<table border="l" style="text-align:center; vertical-align:top" >
+<tr>
+<td></td>
+<td>**Kurs kontraktu**</td>
+<td>**Wartoœæ kontraktu**</td>
+</tr>
+<tr>
+<td>Otwarcie</td>
+<td>88,50 PLN</td>
+<td>8850,00 PLN</td>
+</tr>
+<tr>
+<td>Zamkniêcie</td>
+<td>89,20 PLN</td>
+<td>8920,00 PLN</td>
+</tr>
+<tr>
+<td>Zysk brutto</td>
+<td>0,70 PLN</td>
+<td>70,00 PLN</td>
+</tr>
+</table>
+
+Zysk z tytu³u zajêcia d³ugiej pozycji na kontrakcie aukcyjnym.
+
+<table border="l" style="text-align:center; vertical-align:top" >
+<tr>
+<td></td>
+<td>**Kurs kontraktu**</td>
+<td>**Wartoœæ kontraktu**</td>
+</tr>
+<tr>
+<td>Otwarcie</td>
+<td>2500 pkt</td>
+<td>25.000,00 PLN</td>
+</tr>
+<tr>
+<td>Zamkniêcie</td>
+<td>2430 pkt</td>
+<td>24.300,00 PLN</td>
+</tr>
+<tr>
+<td>Zysk brutto<</td>
+<td>70 pkt</td>
+<td>700,00 PLN</td>
+</tr>
+</table>
+Strata z tytu³u zajêcia d³ugiej pozycji na kontrakcie indeksowym.
+
+Jednak sama wartoœæ kontraktu nie t³umaczy w pe³ni zjawiska dŸwigni finansowej funkcjonuj¹cej w obrocie tymi instrumentami. Aby kupiæ czy sprzedaæ kontrakt (otworzyæ d³uga badŸ krótk¹ pozycjê) nie musimy op³acaæ ca³ej jego wartoœci, a jedynie czeœæ zwan¹ DEPOZYTEM ZABEZPIECZAJ¥CYM. Depozyt zabezpiecz¹jacy to kwota srodków pienie¿nych, wzglêdnie pula papierów wartoêciowych blokowana na rachunku otwieraj¹cego pozycj¹ (d³ug¹ albo krótka), wymagana dla umo¿liwienia otwarcia i utrzymania otwartej pozycji na jego rachunku. Z definicji, wysokoœæ depozytu ma ograniczaæ do minimum ryzyko niedotrzymania warunków umowy kontraktu. Wysokoœæ depozytu zabezpiecz¹jacego jest œciœle okreœlana przez Krajowy Depozyt Papierów Wartoœciowych i stanowi okreœlony procent pe³nej wartoœci kontraktu terminowego. Pojêcie depozytu wi¹¿e siê nieod³¹cznie z mechanizmem dŸwigni finansowej wystêpujacej na rynku terminowym. Mechanizm ten sprawia, ¿e rynki terminowe ciesz¹ siê ogromn¹ popularnoœci¹ wsród inwestorów na ca³ym œwiecie. Odpowiednio, w przypadku kontraktów z dostaw¹ - op³acenie dostawy instrumentu bazowego nastêpuje dopiero w momencie wykonania kontraktu w przysz³oœci. W momencie zawarcia kontraktu nabywca wnosi jedynie okreœlony procent wartoœci wynikaj¹cej z dostawy. Z kolei, w przypadku kontraktów rozliczanych pienie¿nie, nabywca kontraktu wnosi okreœlony procent wartoœci kontraktu w formie depozytu, a jego zyski lub straty obliczane s¹ od pe³nej wartoœci kontraktu (odpowiednio zwiekszaj¹ one lub pomniejszaj¹ saldo depozytu). Depozyt zabezpieczaj¹cy bywa nieraz mylnie nazywany kosztem nabycia kontraktu. Nale¿y jednak pamiêtaæ, ¿e kwota depozytu jest blokowana na rachunku otwieraj¹cego pozycjê i je¿eli inwestor zamknie pozycjê z zyskiem, depozyt jest w pe³ni uwalniany. Z drugiej strony, ka¿da strata z tytu³u otwartych pozycji, bêdzie pomniejsza³a kwotê depozytu, co mo¿e prowadziæ do wezwania inwestora przez dom maklerski do uzupe³nienia depozytu do jego pe³nej wysokoœci.
+
+Od kwietnia 2009 r. w³aœciwy depozyt zabezpieczaj¹cy jest utrzymywany na poziomie wstêpnego depozytu. Warto jednak zwróciæ uwagê na fakt istnienia takiego podzia³u i jego historyczne znaczenie. W tym ujêciu, pe³na wartoœæ kwoty depozytu wnoszonej przez inwestora otwieraj¹cego pozycje na instrumencie pochodnym (czyli 100% wartoœci depozytu) nosi nazwê depozytu wstêpnego. Z kolei, depozyt w³asciwy, to ta czeœæ depozytu wstêpnego, która musi pozostaæ nienaruszona przez straty na otwartych pozycjach. Ka¿de naruszenie kwoty depozytu w³asciwego skutkuje wezwaniem do uzupe³nienia depozytu przez inwestora.
+
+![Zyski/straty](Kontrakty terminowe forward i futures/FirstGraphicTOMarkdown3.png)
+Historyczny podzia³ depozytu zabezpieczajacego
+
+<table border="l" style="text-align:center; vertical-align:top" >
+<tr>
+<td></td>
+<td>**Dzienny kurs rozliczeniowy**</td>
+<td>**Wartoœæ kontraktu **</td>
+<td>**Depozyt wstêpny (w procentach)**</td>
+<td>**Depozyt wstêpny (w PLN) **</td>
+<td>**Depozyt wlaœciwy (w procentach) **</td>
+<td>**Depozyt wlaœciwy (w PLN) **</td>
+</tr>
+<tr>
+<td>WIG20</td>
+<td>2548</td>
+<td>25480</td>
+<td>7,00%</td>
+<td>1783,60</td>
+<td>5,00%</td>
+<td>1274,00</td>
+</tr>
+</table>
+Historyczny przyk³ad kalkulacji depozytu zabezpieczaj¹cego z podzia³em na depozyt wstêpny i w³asciwy.
+
+____
+###Przyk³ady
+
+
+**Przyk³ad 1.**  Za³ó¿my, ¿e inwestor sprzedaje kontrakt terminowy po kursie 200 i wartoœci 20000 (zobowi¹zuje siê sprzedaæ 100 akcji po kursie 200).
+Je¿eli kurs instrumentu bazowego ustali siê na poziomie 190, to sprzedawca zrealizuje zysk:
+
+(190 - 200) * 100 = -1000
+
+Inwestor realizuje zysk poniewa¿ mo¿e kupiæ papiery na rynku kasowym po 190 i sprzedaæ je, wykonuj¹c swoje zobowi¹zanie wynikaj¹ce ze sprzeda¿y kontraktu , po 200.
+Ka¿da ze stron zawieraj¹cych kontrakt na parkiecie gie³dy mo¿e zlikwidowaæ otwart¹ pozycjê nie czekaj¹c do terminu wygaœniêcia kontraktu poprzez zamkniêcie pozycji. 
+
+
+
+
+
+**Przyk³ad 2.**  Inwestor kupuje kontrakt terminowy na okreœlony instrument po kursie 80 i wartoœci 800.
+Je¿eli kurs instrumentu bazowego, w dniu wykonania kontraktu, ustali siê na poziomie 100, to nabywca kontraktu zrealizuje zysk w wysokoœci:
+
+(100 - 80) * 100 = 2000
+
+Nabywca kontraktu mo¿e kupiæ instrument bazowy po cenie 80, w ramach wzajemnych zobowi¹zañ wynikaj¹cych z transakcji terminowej i sprzedaæ natychmiast po 100.
+
+
+
+
+**Przyk³ad 3.**  Inwestor kupuje kontrakt terminowy na okreœlony instrument bazowy po kursie 250 i wartoœci 25000 . 
+Je¿eli kurs instrumentu bazowego ustali siê w dniu wykonania kontraktu na ni¿szym poziomie od zadeklarowanego w kontrakcie np. 230, to poniesie on stratê w wysokoœci
+
+(230 - 250) * 100 = -2000
+
+Nabywca kontraktu zobowi¹zany jest nabyæ instrument bazowy po kursie 250, a jego wartoœæ na rynku kasowym to 230.
+
+
+
+**Przyk³ad 4.**  Pozycja d³uga: kupuj¹cy jeden kontrakt na indeks WIG20 po kursie 3.350 pkt (wartoœæ kontraktu 33.500 PLN), wp³aca depozyt w wysokoœci 2.500 PLN. 
+Indeks wzrós³ o 6% (3.550 pkt.). Wartoœæ kontraktu wzros³a tym samym do 35.500 PLN. Kurs kontraktu wzrós³ o 200 pkt., co powoduje wzrost jego wartoœci o 2.000 PLN, i tym samym osi¹gniêcie zysku przez posiadacza pozycji d³ugiej. 
+
+Stopa zwrotu z tej inwestycji wynosi: 2000 PLN / 2.500 PLN = zysk 80%. 
+Posiadacz pozycji krótkiej w tej transakcji poniós³ natomiast stratê w wysokoœci 80%.
+
+
+**Przyk³ad 5.** Kurs spot wynosi 4,2 z³ za 1 euro. Stopa procentowa wolna od ryzyka w Polsce wynosi 4%, a w strefie euro 1,5%. Obliczyæ wartoœæ 9-miesiêcznego kontraktu forward na euro.
+    
+  $F = 4,2\frac{1+0,04*0,75}{1+0,015*0,75}=4,27z³$
+    
+**Przyk³ad 6.**  Kurs kontraktu  na WIG20 oscyluje wokó³ poziomu indeksu WIG20.Za³ó¿my, ¿e Inwestor zajmuje dziœ  pozycjê d³ug¹ na kontrakcie zaœ kurs zamkniêcia z poprzedniej sesji wyniós³ 2500 pt. Wartoœæ kontraktu to:  kurs kontraktu*10 z³ =  25 000 z³.
+    Inwestor wnosi depozyt zabezpieczaj¹cy w wysokoœci   5,00 % wartoœci kontraktu z poprzedniego zamkniêcia, czyli 1250 z³. Je¿eli kurs kontraktu wzroœnie o 2% czyli wyniesie 2550, to zysk kwotowy inwestora wyniesie tyle, ile wynosi wzrost wartoœci kontraktu, czyli
+  
+  $2550*10 z³ - 25000 z³ = 500 z³$.
+  
+  Zysk procentowy wyniesie 
+  
+  $(\frac{500}{1250})*100% = 40%$ 
+  
+  (20 - krotnoœæ  zmiany procentowej  kursu kontraktu)
+  Do poprzedniego stanu depozytu dopisana jest kwota 500 z³.
+  Nowa wartoœæ depozytu wynosi 1750 z³, co stanowi 6,86% nowej wartoœci kontraktu –  25500 z³. Depozyt mo¿e byæ zredukowany do kwoty równej 5% nowej wartoœci kontraktu. Inwestor  mo¿e wyprowadziæ kwotê 475 z³.
+Je¿eli kurs kontraktu spadnie o 2% o poziomu 2450, to kwota straty inwestora wyniesie tyle,  ile wynosi utrata wartoœci kontraktu, czyli  
+
+  $25 000 z³  -  2450*10 z³ = 500 z³$.  
+
+  Strata  procentowa  wyniesie
+  
+  $(\frac{500}{1250})*100% = 40%$
+  
+  ( 20 - krotnoœæ  zmiany procentowej kursu kontraktu )
+Od poprzedniego stanu depozytu odjêta jest kwota 500 z³, nowa wartoœæ depozytu wynosi 750 z³, co stanowi 3,06% nowej wartoœci kontraktu  (24 500 z³).
+  Depozyt musi byæ uzupe³niony do kwoty stanowi¹cej 5% nowej wartoœci kontraktu, czyli do kwoty 1225 z³. Nale¿y dop³aciæ 475 z³.
+  
+  *Uwaga 1.* Wartoœæ kontraktu zmienia siê w ujêciu procentowym tak jak kurs kontraktu
+  
+  *Uwaga 2.* Zyski i straty  inwestora zajmuj¹cego krótk¹ pozycjê s¹ odwrotne do zajmuj¹cego pozycjê d³ug¹.
+  
+**Przyk³ad 7.** Inwestor kupi³ 5 kontraktów terminowych na akcje PKN Orlen po kursie 48,20 PLN. Po up³ywie dwóch tygodni sprzeda³ posiadane kontrakty po kursie 51,80 PLN. Oblicz stopê zwrotu inwestora po opodatkowaniu, je¿eli jeden kontrakt opiewa na 100 akcji PKN Orlen, wysokoœæ wstêpnego depozytu zabezpieczaj¹cego dla inwestora wynosi 9,0%, a prowizja od transakcji wynosi 20 PLN za jeden kontrakt.
+
+  Zysk wynosi: 
+  
+  $5*100(51,80-48,20)-2*5*20=1600$
+
+  Zainwestowany kapita³:
+
+  $0,09*5*48,2*100+5*20=2264$
+
+  Osi¹gniêta stopa zwrotu:
+
+  $\frac{1600}{2264}\approx 0,71$
+    
+**Przyk³ad 8.** Rolnik zawar³ kontrakt z poœrednikiem na sprzeda¿ za 3 miesi¹ce zbiorów pszenicy po cenie 450 PLN za tonê. By³a to cena rynkowa w dniu zawarcia kontraktu. W dniu rozliczenia transakcji okaza³o siê, ¿e w ci¹gu tych 3 miesiêcy dosz³o do klêski ¿ywio³owej, w wyniku której poda¿ pszenicy zosta³a ograniczona kilkunastokrotnie, cena zaœ wzros³a do 650 PLN za tonê. Rezultat transakcji okaza³ siê korzystny dla poœrednika, który zabezpieczy³ sobie cenê 450 PLN i tym samym mo¿e zrealizowaæ zysk nie tylko na mar¿y za sprzeda¿, ale dodatkowo na zabezpieczeniu na kontrakcie terminowym.
+    Gdyby jednak przez 3 miesi¹ce od zawarcia kontraktu okaza³o siê, ¿e pogoda by³a wyj¹tkowo dobra, a pszenica obrodzi³a jak nigdy, poda¿ natomiast przerasta³aby popyt, a cena spad³a do 250 z³ za tonê, wówczas rolnik uchroni³by siê przed poniesieniem straty, gdy¿ poœrednik zobowi¹zany jest odkupiæ od niego pszenicê po wczeœniej umówionej cenie 450 z³ za tonê.
+    Rolnik, który zawar³ kontrakt terminowy na sprzeda¿ pszenicy, osi¹gnie jednakowy zysk – niezale¿nie od tego, czy cena rynkowa pszenicy w dniu realizacji transakcji wzroœnie, czy te¿ spadnie. Ide¹ bowiem kontraktu terminowego jest zabezpieczenie przed ryzykiem zmiany w przysz³oœci ceny danego towaru. Nale¿y zauwa¿yæ, ¿e rolnik zawrze kontrakt terminowy na sprzeda¿ pszenicy tylko po takiej cenie, jaka bêdzie op³acalna z jego punktu widzenia (tj. 450 z³ za tonê). Gdyby rolnik nie zawar³ kontraktu terminowego, to w przypadku wzrostu ceny pszenicy uzyska³by zarobek wy¿szy ni¿ planowa³, ale w przypadku spadku ceny poniós³by stratê.
+    
+____
+
+Bibliografia:
+
+  - Money.pl
+  - GPW.pl
+  - Nbportal.pl
+  - Bossa.pl
+  - Knf.gov.pl
+  - Bankier.pl
+  - Instrumenty pochodne – sympozjum matematyki finansowej.  Kraków UJ 1997
+  - „Inwestycje” K. Jaruga, T. Jaruga

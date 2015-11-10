@@ -1,0 +1,58 @@
+
+---
+title: "Wprowadzenie"
+author: "Marek Wasilewski"
+date: "21 paŸdziernika 2015"
+
+---
+\
+\
+$$1. Instrument finansowy$$
+
+#### *Czym jest instrument finansowy?*
+
+##### *Instrument finansowy jest to kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowi¹zania finansowe albo instrumentu finansowego albo instrumentu kapita³owego u drugiej ze stron pod warunkiem, ¿e z kontraktu zwartego miêdzy dwoma lub wiêcej stronami jednoznacznie wynikaj¹ skutki gospodarcze, bez wzglêdu na to, czy wykonanie praw lub zobowi¹zañ wynikaj¹cych z kontraktu ma charakter bezwarunkowy lub warunkowy.* 
+
+\
+\
+
+$$2. Podzia³y\ instrumentów\ finansowych$$
+
+#### *Tradycyjny podzia³ instrumentów finansowych*
+
+##### **1. Insturmenty rynku pieniê¿nego** \
+  
+*  bony skarbowe
+* bony komercyjne
+* certyfikaty tepozytowe
+* transakcje typu ,,repo'' i ,,reverse repo''.
+
+
+
+##### **2. Insturmenty rynku kapita³owego** \
+
+*  obligacje
+* akcje
+* inne instrumenty udzia³owe takie jak: jednostki uczesnictwa w otwartych funduszach inwestycyjnych, certyfikaty inwestycyjne zamkniêtych funduszy inwestycyjnych oraz certyfikaty indeksowe;
+
+
+##### **3. Rynek instrumentów pochodnych** \
+
+*  opcje
+* kontrakty terminowe
+* swapy
+
+
+
+\
+\
+
+
+###### *Bibliografia*
+
+ * www.gpw.pl
+ * www.inwestowanie.org/analiza-techniczna/instrumenty-finansowe
+
+
+
+

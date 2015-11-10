@@ -1,0 +1,491 @@
+# **AKCJE**
+```
+Akcje to najważniejszy element rynku kapitałowego.
+```
+```
+Akcja jest papierem wartościowym potwierdzającym udział w kapitale akcyjnym spółki, stanowiącym 
+jednocześnie uosobienie praw i obowiązków jej posiadacza -  akcjonariusza.
+```
+```
+Do powstania akcji dochodzi z chwilą wpisu spółki do rejestru lub rejestracji podwyższenia kapitału i 
+od tego momentu spółka może wydawać je akcjonariuszom.
+```
+**Klasyczne dokumenty akcyjne (papiery) zawierały:**
+- nazwę firmy i siedzibę spółki
+- nazwę sądu, w którym spółka jest zarejestrowana
+- datę zarejestrowania spółki i emisji akcji
+- wartość nominalną akcji
+- liczbę akcji, numer serii, rodzaj danej akcji oraz uprawnień szczególnych akcji przy akcjach imiennych - wysokość dokonanej wpłaty
+- ograniczenia co do przeniesienia własności akcji
+- oznaczenia przepisów statutu o związanych z akcją obowiązkach co do świadczeń na rzecz spółki.
+```
+Inwestor nabywający akcje danej spółki staje się jej akcjonariuszem, co daje mu prawa majątkowe i 
+korporacyjne. 
+```
+**Do podstawowych praw akcjonariusza należą:**
+- Prawo do udziału w zyskach spółki, czyli prawo do dywidendy. Zysk netto spółki dzieli się na zysk zatrzymany (przeznaczony na dalszy rozwój) i zysk do podziału czyli dywidendę. Wszyscy akcjonariusze, którzy w dniu ustalenia prawa do dywidendy posiadają akcje uzyskują prawo do dywidendy.
+- Prawo do zakupu akcji nowej emisji, czyli prawo poboru.
+Z prawa poboru może skorzystać akcjonariusz, który w dniu ustalenia prawa poboru posiada akcje spółki emitującej nowe akcje. Posiadacz prawa poboru może je sprzedać lub skorzystać z nich i dokonać zakupu akcji nowej emisji.
+- Prawo do głosu na walnym zgromadzeniu akcjonariuszy.
+Zapewnia ono akcjonariuszowi możliwość wpływania na losy spółki w drodze kształtowania liczebności, składu i kompetencji jej władz, a także poprzez wyznaczanie struktury podziału zysku przedsiębiorstwa.
+- Prawo do udziału w masie upadłościowej spółki (w razie bankructwa).
+
+**Charakterystyka akcji:**
+- wartość nominalna - wartość kapitału akcyjnego spółki przypadająca na jedną akcję
+- wartość emisyjna - cena po jakiej akcja jest sprzedana przez emitenta jej pierwszemu właścicielowi
+- wartość księgowa - wartość aktywów netto spółki przypadająca na jedną akcję 
+- wartość rynkowa - cena akcji na rynku (powstaje w wyniku spotkania się popytu z podażą)  
+
+**Akcje dzielimy:**
+-	ze względu na sposób przenoszenia własności: imienne i na okaziciela. 
+-	ze względu na formę pokrycia: gotówkowe i aportowe. 
+-	ze względu na uprawnienia ich akcjonariuszy: zwykłe i uprzywilejowane.
+
+**Typy akcji:**
+* akcje uprzywilejowane
+* akcje zwykłe
+Uprzywilejowanie może dotyczyć:
+	- liczby głosów na walnym zgromadzeniu akcjonariuszy
+	- wielkości lub kolejności wypłacania dywidendy
+	- podziału majątku spółki w przypadku likwidacji
+	
+```
+Emisja to ilość akcji wyemitowanych przez spółkę. Akcje emituje się za gotówkę, wniesione aporty, 
+specjalny rodzaj obligacji, podczas łączenia się spółek oraz jako rozliczenie warrantów 
+subskrypcyjnych. Część akcji wyemitowanych może znajdować się poza rynkiem. 
+Mogą to być akcje imienne, akcje niedopuszczone do obrotu lub akcje złożone w depozycie.
+Dane o akcjach posiadanych przez dużych inwestorów są podawane do publicznej wiadomości.
+
+Pierwsza seria akcji jest emitowana przy jej założeniu, następne mają na celu podwyższeniem kapitału 
+zakładowego. Akcje o równej wartości nominalnej (nie niższej niż 1 grosz) składają się na kapitał 
+spółki. Założyciele spółki dokonują wpłat na akcje w celu pokrycia kapitału spółki.
+```
+**Należy wyróżnić dwa rodzaje emisji akcji:**
+-	emisja założycielska – wydawanie akcji przy tworzeniu nowej spółki.
+-	kolejne emisje – przy podwyższaniu kapitału zakładowego.
+
+**Ze względu na adresata emisji akcji wyróżnia się:**
+-	subskrypcję prywatną, polegającą na złożeniu przez spółkę oferty nabycia akcji całej emisji oznaczonemu adresatowi,
+-	subskrypcję zamkniętą adresowaną do akcjonariuszy, którym przysługuje prawo poboru,
+-	subskrypcję otwartą, polegającą na zaoferowaniu akcji w drodze ogłoszenia osobom, którym nie przysługuje prawo poboru.
+
+**Etapy wprowadzenia do obrotu giełdowego akcji spółki w publicznej ofercie:**
+- sporządzenie prospektu emisyjnego
+- uzyskanie zgody Komisji Papierów Wartościowych i Giełd na wprowadzenie do publicznego obrotu 
+- zawarcie umowy z Krajowym Depozytem Papierów Wartościowych o rejestrację tych papierów wartościowych 
+- upowszechnienie wymaganych informacji dotyczących emitenta i oferty 
+```
+Wycena akcji, podobnie jak wycena innych instrumentów finansowych, polega na ustaleniu jej wartości 
+w celu zidentyfikowania akcji niedowartościowanych (które można kupić) lub akcji przewartościowanych 
+(które można sprzedać). W przypadku pozytywnych wniosków płynących z poprzednich etapów analizy 
+fundamentalnej i decyzji kupna akcji spółki, pojawia się naturalne pytanie o sprawiedliwą cenę akcji, 
+tzn. cenę, która odpowiadałaby wartości. To zagadnienie rozwiązuje się na etapie wyceny.
+
+Uważa się, że istnieje wartość wewnętrzna akcji. Przyjmuje się też, że rynek nie jest doskonały, 
+stąd też różnica ceny akcji od "prawdziwej" wartości (fair value), którą jest wartość wewnętrzna. 
+Jeżeli wartość wewnętrzna akcji jest wyższa niż jej cena, to akcja jest niedowartościowana i należy 
+rozważyć jej kupno, a gdy wartość wewnętrzna akcji jest niższa niż jej cena, akcja jest 
+przewartościowana i należy zastanowić się nad jej sprzedażą.
+
+Istnieje wiele sposobów wyceny akcji. Wartość pojedynczej akcji otrzymujemy poprzez podzielenie 
+wartości firmy przez liczbę wyemitowanych przez spółkę akcji. W przypadku kolejnych emisji jako 
+liczbę akcji spółki w danym okresie przyjmuje się średnią arytmetyczną lub średnią ważoną 
+(okresem do emisji i po emisji) z liczby akcji na początku okresu sprawozdawczego i na koniec.
+
+W celu dokonania prawidłowej wyceny przedsiębiorstwa należy uwzględnić szacunki dwóch wartości: 
+majątku przedsiębiorstwa oraz stopnia zorganizowania środków i czynników produkcji z punktu 
+widzenia zdolności do przynoszenia zysków. Ta druga wartość nazywana jest w literaturze wartością 
+firmy (wartością reputacji - goodwill).
+```
+Metody wyceny przedsiębiorstwa można podzielić na cztery grupy:
+- 1. Metody dochodowe - opierają się na prognozowaniu i aktualizowaniu możliwych do wygenerowania przez dane przedsiębiorstwo szeroko rozumianych dochodów.
+- 2. Metody bazujące na kosztach i majątku przedsiębiorstwa - koncentrują się na oszacowaniu wartościposzczególnych składników majątku firmy.
+- 3. Metody porównań rynkowych - dokonywane są przez inwestorów na rynku kapitałowym i opierają się na rynkowej (najczęściej giełdowej) wartości kapitałów własnych i długu.
+- 4. Metody mieszane - uwzględniające cechy i elementy podejścia dochodowego i majątkowego.
+
+##**MODEL DYSKONTOWANIA DYWIDEND**
+```
+Najczystszą i najbardziej bezpośrednią miarą przepływów pieniężnych są dywidendy. 
+Dywidendy są przepływami bezpośrednio docierającymi do inwestorów akcji. 
+Stosując model dyskontowania dywidend, stopą dyskontową będzie koszt kapitału akcyjnego. 
+Model dyskontowania dywidend nadaje się do wyceniania akcji spółek stabilnych, o długoletniej 
+historii, w przypadku których wysokość dywidend odzwierciedla długoterminową rentowność.
+```
+**Modele kształtowania się dywidend w przyszłości:**
+
+A) Model stałej wartości dywidendy - spółka wypłaca stałą dywidendę D. Wzór na wycenę akcji uzyskuje wtedy postać:
+
+<P align="center"> 
+"P=\frac{D}{r}"
+</P>
+
+>gdzie:
+> - D - wielkość dywidendy (stała w kolejnych okresach)
+> - r - koszt kapitały własnego=oczekiwana stopa zwrotu dla kupującego
+
+B) Model stałego wzrostu dywidendy (tzw. model Gordona - Shapiro) - występuje stałe tempo wzrostu dywidendy, równe g, przy czym r>g.
+
+<P align="center"> 
+P= \frac{D_{0}\times\left (1+g \right)}{r-g}= \frac{D_{1}}{r-g}
+</P>
+
+>gdzie:
+> - D - wielkość dywidendy (0 – aktualnie wypłacona, 1 – dywidenda za przyszły okres)
+> - r - koszt kapitały własnego=oczekiwana stopa zwrotu dla kupującego
+> - g - stopa wzrostu dywidendy - zależy od tego, ile obecnie spółka decyduje się przeznaczyć na wypłaty dla akcjonariuszy, a ile z tych środków z zysku reinwestuje (i jaka będzie stopa zwrotu z tej inwestycji)
+
+<P align="center"> 
+g=(1-WI)\times ROE
+</P>
+
+>gdzie:
+> - WI - wskaźnik wypłaty dywidendy
+> - ROE – rentowność kapitałów własnych (ROE=Zysk netto/Kapitał własny)
+
+<P align="justify">
+Jeśli spółka zdecyduje się obecnie wypłacić więcej zysku w formie dywidend, potencjalnie pozbawia się możliwości zwiększenia przyszłej stopy wzrostu g.
+Obecne zmniejszenie stopy wypłat dywidendy spowoduje zwiększenie ilości kapitału własnego pracującego po stopie ROE i zrekompensuje inwestorom obecne oszczędności w postaci większego wzrostu dywidendy w przyszłości.
+Innym sposobem wyceny przedsiębiorstw za pomocą metody dochodowej jest analiza wskaźników rynkowych.
+</P>
+
+**Wskaźniki wyceny akcji:**
+- Wartość nominalna akcji
+- Wartość rynkowa (kurs) akcji
+- Współczynnik P/E
+
+
+**Wskaźnik P/E**
+```
+Wskaźnik P/E (cena do zysku) należy do najpopularniejszych i najczęściej stosowanych wskaźników na 
+giełdzie papierów wartościowych. 
+Jego głównym celem jest przybliżona ocena celowości inwestowania w akcje danej spółki.
+```
+Wskaźnik obliczamy według wzoru:
+
+<P align="center"> 
+P/E = (cena rynkowa akcji)/(zysk netto na jedną akcję)
+P/E=\frac{cra}{znja}
+</P>
+
+>gdzie:
+> - cra - cena rynkowa akcji
+> - znja – zysk netto na jedną akcję
+
+<P align="justify">
+Ekonomiczna treść tego wskaźnika określa liczbę lat obrachunkowych, w ciągu których zysk przypadający na jedną akcję pokryje cenę jej zakupu, przy założeniu, że spółka będzie w przyszłości przynosić zyski. Posiadacz akcji część zysku netto będzie otrzymywał w postaci dywidendy, natomiast 
+pozostałą część zostanie wykorzystana na rozwój spółki, co przyczyni się do wzrostu ceny giełdowej akcji spółki. 
+Wskaźnik P/E powinien być porównywany ze wskaźnikiem branżowym i wskaźnikiem wyznaczonym dla innych spółek. W teorii mówi się, że wielkość tego wskaźnika kształtują dwa zasadnicze czynniki tj. wielkość ryzyka spółki oraz perspektywy wzrostu dochodów spółki.
+Im wyższy poziom ryzyka związanego z daną spółką, tym niższy poziom cen akcji oraz mniejsza wartość C/Z. W praktyce zbyt duża wartość P/E może świadczyć o dużym entuzjazmie inwestorów lub o spekulacji dużych inwestorów. Ten fakt powinien stanowić przestrogę w zbyt jednoznacznej interpretacji wskaźnika P/E. Obniżanie się w czasie wskaźnika P/E może być efektem zarówno obniżki cen akcji na rynku, jak i wzrostu zysku netto. 
+Ogólnie wzrost dochodowości akcji powinien powodować wzrost cen akcji. Niestety reguła ta nie zawsze sprawdza się w praktyce, co sprawia, że pomimo uznawania P/E za jedną z najważniejszych miar na giełdzie, nie jest ona jednoznaczna w interpretacji.
+</P>
+
+**Wskaźnik EPS - Zysk na 1 akcję**
+
+<P align="center"> 
+EPS=\frac{zn}{lwa}
+</P>
+
+>gdzie:
+> - zn - zysk netto
+> - lwa – liczba wyemitowanych akcji
+
+```
+Wskaźnik zysku na jedną akcję (EPS - ang. earning per share) jest wskaźnikiem rynkowym (sytuacyjnym)
+określającym sytuację spółki na rynku.Określa on wielkość zysku przypadającą na jedną akcję niezależnie
+od sposobu podziału zysku.
+```
+<P align="justify">
+Znaczenie EPS jest marginalizowane przez część uczestników rynku ze względu na konieczność bazowania na wynikach z przeszłości i braku realnej możliwości prognozowania na ich podstawie, co do wyników w przyszłości (każdy następny okres może być gorszy od poprzedniego) oraz ze względu na brak informacji dotyczącej sytuacji finansowej i przepływów finansowych spółki. EPS nie może samodzielnie być podstawą prognozowania zachowania się akcji i stanowi pomocniczy element w analizie wskaźnikowej fundamentalnej.
+Zysk z portfela skonstruowanego na bazie spółek charakteryzujących się największą dynamiką EPS jest z reguły większy od przeciętnego, dlatego 
+należy ze szczególną uwagą obserwować spółki, które generują coraz większe zyski netto.
+</P>
+
+**Wskaźnik DPS - Dywidenda na 1 akcję (stopa dywidendy)**
+
+<P align="center"> 
+DPS=\frac{D}{lwa}
+</P>
+
+>gdzie:
+> - D - dywidenda
+> - lwa – liczba wyemitowanych akcji
+
+**Wartość księgowa na akcję** (Book value per share – BVPS)
+
+<P align="center"> 
+BVPS=\frac{kw}{laz}
+</P>
+
+>gdzie:
+> - kw - kapitał własny
+> - laz – liczba akcji zwykłych
+
+<P align="justify">
+Korzystne zjawisko w przypadku tego wskaźnika występuje wtedy, gdy jest on niższy od ceny rynkowej akcji. 
+Oznacza to, że inwestorzy oceniają wartość przedsiębiorstwa wyżej niż wynika to z ilości kapitału przez niego posiadanego, 
+a więc oczekują jego rozwoju i tego, iż będzie generować zyski. Przy skrajnie niskich wartościach można przypuszczać, 
+że inwestorzy oczekują raczej upadłości niż rozwoju.
+</P>
+
+**Wskaźnik P/BV** (cena do wartości księgowej) określa rynkowe oszacowanie majątku spółki i jest obliczany wg wzoru:
+
+<P align="center"> 
+P/BV=\frac{ca}{wksja}
+</P>
+
+>gdzie:
+> - ca - cena akcji
+> - wksja – wartość księgowa spółki na jedną akcję
+
+<P align="justify">
+Gdy majątek spółki jest tak wykorzystywany, że w efekcie końcowym spółka przynosi zyski, wówczas inwestorzy są skłonni zapłacić więcej za akcje. 
+Ponieważ wartość księgowa spółki jest to jej majątek pomniejszony o zobowiązania, to im bardziej spółka korzysta z kapitału obcego, tym wskaźnik P/BV będzie niższy. 
+Jeżeli natomiast wartość księgowa niewiele różni się od wartości majątku spółki, oznacza to, że spółka angażuje przede wszystkim kapitał własny i nie korzysta z dźwigni finansowej.
+W praktyce niska wartość P/BV oznacza z reguły, że spółka osiąga małe zyski bieżące i jej majątek nie jest w pełni wykorzystywany. 
+Gdy majątek takiej spółki jest znaczny, branża zaś stwarza nadzieję na dobre wyniki, poziom wskaźnika P/BV jest ważną informacją dla inwestorów chcących kupić akcje na dłuższy okres. Oczywiście niski poziom wskaźnika P/BV może świadczyć o kłopotach spółki, które mogą być spowodowane złą strukturą majątku. Z kolei wysoka wartość P/BV może świadczyć o przewartościowaniu akcji spółki. 
+Najczęściej prowadzi to do korekty rynkowej i spadku wartości wskaźnika P/BV poprzez spadek cen akcji.
+Na rynkach światowych nie ma jednoznacznych norm dla wskaźnika P/BV. Na rynku USA waha się w przedziale 1,3 - 2,0, a na rynku japońskim w granicach 2,0. 
+Na giełdzie polskiej rozpiętość wartości P/BV jest znaczna i oscyluje od 0,5 do 3,5, jednak obserwacja jego zmian w czasie i porównywanie z innymi spółkami danej branży może być bardzo pomocne przy podejmowaniu decyzji inwestycyjnych.
+</P>
+==
+**PRZYKŁAD 1:**
+<P align="justify">
+Skonsolidowany zysk netto PKO BP w 2010 roku wyniósł 3 212 806 000 zł. Cena akcji na giełdzie wynosi 41,50 zł. 
+Wylicz aktualne wartości wskaźników P/E oraz DY wiedząc, że spółka wyemitowała łącznie 1 250 000 000 akcji a wartość dywidendy za rok 2010 wyniesie 1,98 zł na akcję.
+Przystępujemy zatem do rozwiązania (prostego) zadania. Wskaźnik P/E jest relacją ceny waloru do zysku na niego przypadającego. 
+Cenę akcji znamy, nie znamy zaś wielkości zysku przypadającego na jeden walor. 
+Mamy jednak podany zysk spółki za cały rok oraz liczbę wyemitowanych akcji. 
+Szybko zatem wykonujemy stosowne obliczenia:
+</P>
+
+EPS = 3 212 806 000 / 1 250 000 000
+EPS = 2,57 zł
+
+Mając EPS oraz P obliczamy wskaźnik P/E:
+
+P/E = 41,50 / 2,57
+P/E = 16,15
+
+<P align="justify">
+Co to oznacza? Inwestor za każdą złotówkę zysku PKO BP płaci 16,15 zł. Czy to dużo, czy też mało, sam powinien ocenić. 
+Wskaźnik ten można także inaczej interpretować – inwestor będzie czekał ok. 16 lat na zwrot inwestycji przy założeniu niezmienności zysku. 
+W rzeczywistości często wysokie wskaźniki P/E mają spółki, które charakteryzują się wysoką dynamiką zysków, bądź te, w stosunku do których inwestorzy mają duże oczekiwania.
+Obliczmy jeszcze stopę dywidendy. Wszystkie niezbędne dane posiadamy.
+</P>
+
+DPS = 1,98 / 41,50
+DPS = 0,0477
+DPS = 4,77%
+
+<P align="justify">
+Stopa dywidendy na poziomie 4,77% oznacza, że inwestor otrzyma taką kwotę zysku z bieżącej ceny akcji. 
+Wartość wskaźnika DY dla PKO BP należy uznać za korzystną dla inwestorów, jest ona porównywalna z oprocentowaniem lokat bankowych. Zazwyczaj spółki notowane na GPW mniej chętnie dzielą się zyskiem.
+</P>
+==
+==
+**PRZYKŁAD 2:**
+<P align="justify">
+Skonsolidowany zysk netto IDM S.A. w 2010 roku wyniósł 41 026 000 zł. Cena akcji na giełdzie wynosi 2,50 zł. 
+Wylicz aktualne wartości wskaźników P/E oraz P/BV wiedząc, że spółka wyemitowała łącznie 218 176 856 akcji a jej aktualna wartość księgowa wynosi 750 000 000 zł.
+Najpierw przystąpimy do obliczenia wartości wskaźnika P/E. Podobnie jak w przykładzie 1, nie mamy podanej wielkości zysku przypadającego na jeden walor. Znamy jednak zysk spółki za cały ubiegły rok oraz liczbę wyemitowanych akcji. 
+Możemy zatem wykonać stosowne obliczenia:
+</P>
+
+EPS = 41 026 000 / 218 176 856
+EPS = 0,19 zł
+
+Mając EPS oraz P obliczamy wskaźnik P/E:
+
+P/E = 2,50 / ~0,19
+P/E = 13,30
+
+Możemy także obliczyć P/BV. Z tym, że najpierw musimy poznać wartość księgową spółki przypadającą na jedną akcję:
+
+wksja = 750 000 000 / 218 176 856
+wksja = 3,44
+
+Następnie obliczamy wskaźnik P/BV:
+
+P/BV = 2,50 / ~3,44
+P/BV = 0,73
+
+<P align="justify">
+W dość dużym uproszczeniu można przyjąć, że 1 złotówka majątku firmy kosztuje inwestora 73 gr. 
+Kupuje on zatem firmę „poniżej” jej wartości.
+</p>
+==
+##**INNE WSKAŹNIKI OPISUJĄCE AKCJE**
+
+```
+Wskaźnik celowości inwestycji, PER (ang. price earnings ratio) umożliwia ocenę opłacalności 
+inwestycji w akcje różnych firm. Określa on liczbę lat w ciągu których nastąpi teoretyczny zwrot
+nakładu na zakup akcji, przy założeniu osiągania przez przedsiębiorstwo zysku w przyszłości. 
+Obliczamy:
+```
+<P align="center"> 
+\frac{cena rynkowa akcji}{zysk netto na 1 akcje}
+</P>
+```
+Wskaźnik ceny giełdowej informuje o cenie akcji, powyżej której jej zakup będzie się wiązał 
+z dużym ryzykiem braku zwrotu z inwestycji. Obliczamy:
+```
+<P align="center"> 
+$$\frac{Wskaźnik PER\times zysk}{liczba akcji}\timesliczba dni badanego okresu$$
+</P>
+```
+Wskaźnik ceny do kapitału własnego PEQ (ang. price to equity ratio) określa relację wartości 
+rynkowej przedsiębiorstwa do jej wartości księgowej. 
+Niska wartość tego wskaźnika oznacza, że spółka osiąga wyjątkowo małe zyski bieżące, a jej 
+majątek nie jest w pełni wykorzystany, mimo znacznej wartości. 
+Stwarza więc on nadzieję na dobre wyniki w przyszłości pod warunkiem poprawy zarządzania 
+przedsiębiorstwem. Obliczamy:
+```
+<P align="center"> 
+\frac {cena rynkowa akcji}{kapitał własny na 1 akcję}
+</P>
+##**PARAMETRY OPISUJĄCE AKCJE**
+```
+Stopa zwrotu jest jednym z podstawowych parametrów opisujących jakość 
+inwestycji w instrumenty finansowe. 
+Obliczana jest ona, jako stosunek osiągniętego zysku do poniesionych nakładów inwestycyjnych.
+Stopę zwrotu z akcji za dany okres obliczamy przy pomocy wzoru:
+```
+<P align="center"> 
+$$R_{t}=\frac{(P_{t}-P_{t-1})+D_{t}}{P_{t-1}}$$
+</P>
+
+>gdzie:
+> - R_t – stopa zwrotu za okres „t”
+> - P_t – cena akcji na koniec okresu „t”
+> - P_t-1 – cena akcji na koniec poprzedzającego okresu
+> - D_t – dywidenda wypłacona w okresie „t”
+
+Natomiast oczekiwaną stopę zwrotu obliczamy z wzoru:
+
+<P align="center"> 
+E(R)=\sum_{i=1}^{m}p_{i}\times E(R_{i})
+</P>
+
+>gdzie:
+> - E(R) – oczekiwana stopa zwrotu
+> - p_i – prawdopodobieństwo wystąpienia danej stopy zwrotu przy scenariuszu „i”
+> - E(R_i)– oczekiwana stopa zwrotu przy scenariuszu „i”
+> - m – ilość scenariuszy sytuacji na rynku
+```
+Oczekiwaną stopę zwrotu można również obliczyć na podstawie historycznych stóp zwrotu. 
+Wówczas stosujemy następujący wzór:
+```
+<P align="center"> 
+E(R)=\frac{\sum_{i=1}^{n}E(R_{i})}{n}
+</P>
+
+>gdzie:
+> - n – ilość historycznych stóp zwrotu (np. sesji)
+
+```
+Ryzyko jest nieodłącznie związane z inwestycjami na rynku kapitałowym. 
+Jest to drugi podstawowy parametr charakteryzujący inwestycję, determinujący decyzje podejmowane 
+przez inwestorów. Ryzyko to inaczej mówiąc niepewność, co do przyszłej stopy zwrotu. Wzrasta ono
+wraz ze zmiennością stóp zwrotu, i nie ma tu znaczenia czy są to zmiany dodatnie czy ujemne.
+Miarą ryzyka jest wariancja stopy zwrotu papieru wartościowego, możemy ją obliczyć korzystając ze wzoru:
+```
+<P align="center"> 
+V=\sum_{i=1}^{m}p_{i}\times (R_{i}-E(R))
+</P>
+
+>gdzie:
+> - V – wariancja stopy zwrotu
+> - p_i – prawdopodobieństwo wystąpienia danej stopy zwrotu
+> - R_i – możliwa do uzyskania stopa zwrotu przy danym prawdopodobieństwie
+
+```
+Kolejną miarą ryzyka jest odchylenie standardowe stopy zwrotu.
+W ujęciu matematycznym stanowi ono pierwiastek kwadratowy wariancji:
+```
+<P align="center"> 
+\sigma =\sqrt{V}
+</P>
+
+Jeżeli dla obliczeń wariancji i odchylenia standardowego są wykorzystywane dane z przeszłości, wówczas stosuje się następujące wzory:
+
+<P align="center"> 
+V=\sum_{t=1}^{m}\times \frac{(R_{t}-E(R))^2}{n-1}
+\sigma =\sqrt{\sum_{t=1}^{m}\times  \frac{(R_{t}-E(R))^2}{n-1}}
+</P>
+
+```
+Wybór najlepszej inwestycji w akcje na podstawie stóp zwrotu oraz odchyleń standardowych może 
+być niejednokrotnie trudny ze względu na duży rozrzut tych danych, dlatego też dokonując wyboru
+w którą akcję zainwestować wykorzystuje się współczynnik zmienności. 
+Stanowi on relację ryzyka do zysku związanego z danym papierem wartościowym, a zatem wskazuje 
+ile ryzyka przypada na jednostkę stopy zwrotu.
+```
+Określa go wzór:
+
+<P align="center"> 
+\nu=\frac{\sigma }{R}
+</P>
+```
+Korelacja to inaczej powiązanie stóp zwrotu z dwóch różnych papierów wartościowych. 
+Stopień powiązania dwóch akcji jest mierzony przy pomocy współczynnika korelacji Pearsona. 
+Jeżeli do obliczeń przyjmuje się prawdopodobieństwo wystąpienia określonej stopy zwrotu z akcji 
+wówczas ma zastosowanie poniższy wzór:
+```
+<P align="center"> 
+\rho _{AB}=\frac{\sum_{i=1}^{n}p_{i}\times  (R_{Ai}-R_{A})\times (R_{Bi}-R_{B})}{\sigma_{A}\times \sigma_{B}}
+</P>
+
+>gdzie:
+> - \rho – współczynnik korelacji między akcją A i akcją B
+> - p_i – prawdopodobieństwo wystąpienia danej stopy zwrotu
+> - R_Ai – możliwa stopa zwrotu z akcji A
+> - R_Bi – możliwa stopa zwrotu z akcji B
+> - R_A – oczekiwana stopa zwrotu z akcji A
+> - R_B – oczekiwana stopa zwrotu z akcji B
+> - \sigma_A– odchylenie standardowe stóp zwrotu z akcji A
+> - \sigma_B – odchylenie standardowe stóp zwrotu z akcji B
+> - n – ilość danych do obliczeń (sesji)
+
+Często do obliczeń współczynnika korelacji wykorzystuje się notowania historyczne. W takim przypadku współczynnik ten jest obliczany z wzoru.
+
+<P align="center"> 
+\rho _{AB}=\frac{\sum_{t=1}^{n}\times(R_{At}-R_{A})\times(R_{Bt}-R_{B})}{(n-1)\times \sigma_{A}\times\sigma_{B}}
+</P>
+
+<P align="justify">
+Współczynnik korelacji przyjmuje wartości z przedziału domkniętego <-1;+1>. 
+Znak (+) współczynnika korelacji świadczy, że występuje dodatnia korelacja akcji. 
+Wówczas wzrostowi stopy zwrotu z jednej akcji towarzyszy wzrost stopy zwrotu z drugiej akcji. 
+Znak (-) współczynnika dowodzi ujemnej korelacji, co oznacza, że wzrostowi stopy zwrotu jednej z akcji odpowiada spadek stopy zwrotu z
+drugiej akcji. 
+</P>
+```
+Kowariancja to kolejna miara siły powiązania stóp zwrotu między akcjami. Jej wartość zależy 
+od zmienności stóp zwrotu. Podobnie, jak w przypadku korelacji, można obliczać ją z 
+wykorzystaniem prognoz przyszłych stóp zwrotu lub wyników historycznych. 
+W tym celu wykorzystuje się następujące wzory:
+```
+<P align="center"> 
+cov_{AB}=\sum_{i=1}^{m}p_{i}\times (R_{Ai}-E(R_{A}))\times (R_{Bi}-E(R_{B}))
+cov_{AB}=\frac{\sum_{t=1}^{n}\times(R_{At}-E(R_{A}))\times (R_{Bt}-E(R_{B}))}{n-1}
+</P>
+
+Pomiędzy współczynnikiem kowariancji oraz współczynnikiem korelacji zachodzi następująca relacja:
+<P align="center"> 
+\rho _{AB}=\frac{cov_{AB}}{\sigma_{A}\times \sigma_{B}}
+</P>
+
+
+**Źródło:**
+
+http://bossa.pl/index.jsp?layout=2&page=0&news_cat_id=223&news_id=579
+
+http://aleksandermercik.pl/index.php/pl/http-aleksandermercik-pl/http-aleksandermercik-pl/akcje/itm/43-wycena-akcji
+
+http://www.matematyka.pl/248075.htm
+
+http://www.matematykafinansowa.pl/wskazniki-pe-pbv-oraz-dy-zadania/
+
+https://pl.wikipedia.org
+
+http://www.bankier.pl/wiadomosc/Dochod-ryzyko-i-korelacja-na-rynku-kapitalowym-1804671.html

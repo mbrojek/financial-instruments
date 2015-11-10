@@ -380,7 +380,7 @@ PRZYKŁAD 2 - obligacja o stałym oprocentowaniu
 <div style=margin-left:25px 0'>
 Skarb Państwa emituje obligację o stałym oprocentowaniu o wartości nominalnej 100 zł z terminem wykupu za 5 lat. Oprocentowanie obligacji wynosi 6 %, a odsetki są wypłacane co roku. Cena emisyjna obligacji wynosi 97 zł. Jak będzie zatem przebiegać ta inwestycja? Ile zostanie wypłacone inwestorowi na koniec okresu?
 
-Rys.1: ![](\Users\Przykład 2.png)
+Rys.1: ![](https://cloud.githubusercontent.com/assets/15054939/11079206/0580a23a-880b-11e5-9989-9657ac09bad5.png)
 
 Początkowo inwestor nabywa obligacje po cenie emisyjnej, czyli po 97 zł. Każdego roku naliczane są mu odsetki w wysokości 6 % od ceny nominalnej, czyli od 100 zł. Ostatniego dnia notowania obligacje wykupywane są po cenie nominalnej, czyli po 100 zł. Podsumowując gracz giełdowy ulokował początkowo 97 zł, a po zakończeniu 5 - letniego okresu otrzymał łącznie 130 zł (30zł - odsetek oraz 100 zł wynikające z wykupu obligacji).
 </a> 
@@ -394,7 +394,7 @@ PRZYKŁAD 3 - obligacja o zmiennym oprocentowaniu
 <div style=margin-left:25px 0'> 
 Przedsiębiorstwo emituje obligację 3-letnią o zmiennym oprocentowaniu uzależnionym od wskaźnika inflacji. Cena emisyjna wynosi 98 zł, a nominalna 100 zł. Odsetki naliczane są w okresach rocznych, a oprocentowanie w kolejnych latach wyniosło 7 %, 6 % oraz 6,5 %. Jak będzie przebiegać ta inwestycja?
 
-Rys.2: ![](\Users\Przykład 3.png)
+Rys.2: ![](https://cloud.githubusercontent.com/assets/15054939/11079207/058265ac-880b-11e5-95aa-91f112f7a5a9.png)
 
 Kupując papier wartościowy, inwestor zapłacił 98 zł. Po 3 latach otrzyma łącznie 119,5 zł, na co składa się 100 zł za wykupienie obligacji po cenie nominalnej oraz 19,5 zł odsetek.
 </a> 

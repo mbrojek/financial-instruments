@@ -1,0 +1,102 @@
+##Opcje
+
+##Definicja, rodzaje oraz własności opcji
+
+**Opcja** jest prawem do zakupu lub sprzedaży określonej ilości instrumentu bazowego po z góry ustalonej cenie i w ciągu umówionego okresu lub w wyznaczonym terminie.
+
+Wyróżniamy dwa  podstawowe rodzaje opcji: opcja kupna oraz opcja sprzedaży.
+
+**Opcja kupna** ( _call option_)-  prawo (ale nie obowiązek) kupna określonej ilości instrumentu podstawowego po ustalonej cenie w ustalonym czasie.
+
+**Opcja sprzedaży** (_put option_)- prawo (ale nie obowiązek) sprzedaży określonej ilości instrumentu podstawowego po ustalonej cenie w ustalonym okresie.
+
+**Posiadacz opcji** (**strona długa opcji**) nabywa prawo kupna lub sprzedaży instrumentu bazowego. **Wystawca opcji** (**strona krótka opcji**) jest to osoba, która sprzedaje to prawo.
+
+W handlu opcjami wystawca ma obowiązek kupna lub sprzedaży instrumentu bazowego, jeżeli nabywca opcji tego zażąda. Z kolei posiadacz opcji ma prawo, a nie obowiązek, kupna lub sprzedaży. Oznacza to, że posiadacz opcji może swobodnie decydować  o tym co zrobić  z opcją. Jeżeli posiadacz opcji zdecyduje się zrealizować  swoje prawa gwarantowane opcją, to wystawca opcji ma obowiązek odkupić  od niego lub odsprzedać  mu instrument bazowy, na który opiewała opcja.
+
+Instrumentem bazowym najczęściej są: 
+
+- papiery wartościowe,
+- indeksy giełdowe,
+- stopy procentowe,
+- waluta.
+
+Istnieją trzy najważniejsze parametry, które opisują opcje:
+
+- **ilość  instrumentu podstawowego**,
+- **cena wykonania** (ustalona cena, po której może dojść  do kupna/sprzedaży),
+- **dzień wygaśnięcia** (ostatni dzień okresu, w trakcie którego może dojść  do kupna/sprzedaży).
+
+##Podział opcji ze względu na termin wygaśnięcia
+
+Opcja jest prawem, które jest ważne przez pewien okres. Po terminie wygaśnięcia prawo nie przysługuje. Dzięki temu możemy dokonać  jeszcze jednego podziału opcji:
+
+- **opcje europejskie**,
+- **opcje amerykańskie**. 
+
+
+Opcja europejska może być wykonana wyłącznie w terminie wygaśnięcia, natomiast opcja amerykańska przez cały okres ważności opcji (czyli do terminu wygaśnięcia). Oznacza to, że w przypadku opcji europejskiej termin wykonania i termin wygaśnięcia są takie same.
+
+##Podstawowe rodzaje transakcji na rynku opcji
+
+Na rynkach opcji wyróżnia się cztery rodzaje uczestników:
+
+- kupujący opcje kupna (_long call_),
+- sprzedający opcje kupna (_short call_),
+- kupujący opcje sprzedaży (_long put_),
+- sprzedający opcje sprzedaży (_short put_).
+
+Rozpatrzmy przykład zakupu opcji kupna (_call_).
+
+**Przykład**
+
+W dniu 22 października wystawiona została europejska opcja _call_. Instrumentem podstawowym jest waluta euro. Termin wygaśnięcia przypada 10 listopada bieżącego roku. Opcja wystawiona jest na 10000 euro. Cena wykonania wynosi 4,15 pln za 1 euro. Cena zakupu jednej opcji wynosi 0,06 pln w przeliczeniu na 1 euro. Oznacza to, że nabywca opcji zapłaci 600 pln za prawo kupna od wystawcy opcji 10000 euro po cenie 4,15 pln za 1 euro. Rozważmy teraz trzy sytuacje w momencie wygaśnięcia:
+
+- W przypadku, gdzie kurs euro będzie poniżej 4,15 pln, to operacja nie zostanie wykonana, ponieważ nie ma sensu kupowanie opcji po 4,15 pln za 1 euro, jeżeli ich aktualna  cena rynkowa jest niższa. W tej sytuacji posiadacz opcji straci całą sumę wydatkowaną na zakup opcji, czyli 600 pln. Możemy powiedzieć, że opcja jest _out of the money_.
+- W przypadku, gdzie kurs euro będzie powyżej 4,15 pln, to operacja zostanie wykonana, ponieważ opłaca się kupić  opcję po cenie wykonania, która jest niższa od obecnej ceny rynkowej. Załóżmy, że kurs euro wynosi 4,22 pln. Łatwo policzyć , że zysk tej transakcji bez kosztów operacyjnych wyniesie 700 pln. Odejmując od tej kwoty koszty początkowe (czyli 600 pln), otrzymamy zysk netto równy 100 pln. Możemy zatem powiedzieć, że opcja jest _in the money_ .
+- W przypadku, gdzie kurs euro zostanie na tym samym poziomie (tzn. 1 euro= 4,15 pln), to nie ma znaczenia czy wypłata zostanie wykonana czy nie. Wypłata w obydwu sytuacjach będzie wynosić 0. Mówimy wtedy, że opcja jest _at the money_.
+
+Spójrzmy teraz na punkt widzenia sprzedającego:
+
+- W przypadku, gdzie kurs euro będzie poniżej 4,15 pln, posiadacz opcji kupna nie zdecyduje się na jej wykonanie. Pozwala to zatrzymać wystawcy opcji kupna **premię** i jest to maksymalny zysk jaki może on osiągnąć.
+- W przypadku, gdzie kurs euro będzie powyżej 4,15 pln opcja przestaje być opłacalna dla wystawcy. Jak widać ryzyko jakie ponosi wystawiający opcję jest bardzo duże. Przy wzroście ceny opcji jego straty rosną.
+
+Rozważmy teraz przykład zakupu opcji sprzedaży (_put_).
+
+**Przykład**
+
+W dniu 23 października wystawiona została europejska opcja _put_. Opcja jest wystawiona na 10000 euro. Termin wygaśnięcia opcji nastąpi 15 listopada bieżącego roku. Cena wykonania wynosi 4,02 pln za 1 euro, a cena opcji wynosi 0,03 pln w przeliczeniu na 1 euro. Posiadacz opcji zapłaci 300 pln za prawo sprzedaży wystawcy. Rozpatrzmy znów 3 sytuacje:
+
+- jeżeli w dniu wygaśnięcia kurs euro spadnie poniżej 4,02 pln, to opcja zostanie wykonana, gdyż jej posiadacz skorzysta z prawa sprzedaży euro po cenie wykonania wyższej niż cena rynkowa euro. W przypadku kursu euro wynoszącego 3,97 pln wypłata posiadacza opcji wynosi 500 pln. Dochód posiadacza opcji wynosi 200 pln.
+- jeżeli w dniu wygaśnięcia kurs euro będzie powyżej 4,02 pln, to opcja nie zostanie wykonana. 
+- jeżeli kurs euro będzie równy 4,02 pln, to nie ma znaczenia czy opcja zostanie wykonana czy nie. 
+
+Spójrzmy teraz na punkt widzenia sprzedającego:
+
+- jeżeli w dniu wygaśnięcia kurs euro spadnie poniżej 4,02 pln opcja przestaje być opłacalna dla wystawcy. Im kurs euro jest niższy od ceny wykonania tym wystawca ponosi wyższą stratę. 
+- jeżeli w dniu wygaśnięcia kurs euro będzie powyżej 4,02 pln, to wystawca zrealizuje swój maksymalny zysk, który jest równy premii. 
+
+Analizując powyższe przykłady możemy zauważyć pewne analogie. 
+
+##Opcje egzotyczne
+
+**Opcje egzotyczne** nie są już opcjami standardowymi. Nie znajdują się one w obrocie giełdowym, raczej tylko na zamówienie Klientów. Opcje egzotyczne możemy podzielić na **opcje jednoczynnikowe** oraz **opcje wieloczynnikowe**. 
+Opcje jednoczynnikowe będą zależeć od wartosci jednego indeksu podstawowego, natomiast opcje wieloczynnikowe będą zależeć od wartosci kilku takich indeksów. 
+
+##Strategie opcyjne
+
+Rozróżniamy kilka różnych pozycji w opcjach na dany instrument bazowy. Przykładowe strategie opcyjne:
+- strategia byka,
+- strategia niedźwiedzia,
+- strategia stelaża,
+- strategia motyla.
+
+##
+
+**Bibliografia**
+
+1. Jajuga K., Jajuga T.; Inwestycje: instrumenty finansowe, aktywa niefinansowe, ryzyko finansowe, inżynieria finansowa; PWN, Warszawa 2014.
+2. T. Jóźwik; Wprowadzenie do opcji giełdowych; Giełda Papierów Wartościowych w Warszawie S.A.
+3. http://www.tu.kielce.pl/~grysa/IF3.pdf
+4. www.nbp.pl
+5. J.Hull, Kontrakty terminowe i opcje; Warszawa
